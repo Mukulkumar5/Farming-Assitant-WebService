@@ -1,0 +1,1843 @@
+,Match ID,Date,Venue,Bat First,Bat Second,Winner,Target Score,Chased,Defended
+0,211028,2005-06-13,The Rose Bowl,England,Australia,England,180,No,Yes
+1,211048,2005-02-17,Eden Park,Australia,New Zealand,Australia,215,No,Yes
+2,222678,2005-10-21,New Wanderers Stadium,South Africa,New Zealand,New Zealand,134,Yes,No
+3,225263,2006-08-28,County Ground,England,Pakistan,Pakistan,145,Yes,No
+4,225271,2006-06-15,The Rose Bowl,Sri Lanka,England,Sri Lanka,164,No,Yes
+5,226374,2006-01-09,Brisbane Cricket Ground,Australia,South Africa,Australia,210,No,Yes
+6,238195,2006-02-24,New Wanderers Stadium,South Africa,Australia,South Africa,202,No,Yes
+7,249227,2007-01-09,Sydney Cricket Ground,Australia,England,Australia,222,No,Yes
+8,251487,2006-12-22,Westpac Stadium,New Zealand,Sri Lanka,Sri Lanka,45,Yes,No
+9,251488,2006-12-26,Eden Park,Sri Lanka,New Zealand,New Zealand,116,Yes,No
+10,255954,2006-12-01,New Wanderers Stadium,South Africa,India,India,127,Yes,No
+11,258463,2007-06-28,Kennington Oval,West Indies,England,West Indies,209,No,Yes
+12,258464,2007-06-29,Kennington Oval,West Indies,England,England,170,Yes,No
+13,287853,2007-09-11,New Wanderers Stadium,West Indies,South Africa,South Africa,206,Yes,No
+14,287854,2007-09-12,Kingsmead,Kenya,New Zealand,New Zealand,74,Yes,No
+15,287855,2007-09-12,Kingsmead,Pakistan,Scotland,Pakistan,172,No,Yes
+16,287856,2007-09-12,Newlands,Australia,Zimbabwe,Zimbabwe,139,Yes,No
+17,287857,2007-09-13,New Wanderers Stadium,West Indies,Bangladesh,Bangladesh,165,Yes,No
+18,287858,2007-09-13,Newlands,England,Zimbabwe,England,189,No,Yes
+19,287860,2007-09-14,New Wanderers Stadium,Sri Lanka,Kenya,Sri Lanka,261,No,Yes
+20,287861,2007-09-14,Newlands,England,Australia,Australia,136,Yes,No
+21,287863,2007-09-15,New Wanderers Stadium,New Zealand,Sri Lanka,Sri Lanka,165,Yes,No
+22,287864,2007-09-15,Newlands,Bangladesh,South Africa,South Africa,145,Yes,No
+23,287865,2007-09-16,New Wanderers Stadium,New Zealand,India,New Zealand,191,No,Yes
+24,287866,2007-09-16,Newlands,Bangladesh,Australia,Australia,124,Yes,No
+25,287867,2007-09-16,Newlands,South Africa,England,South Africa,155,No,Yes
+26,287868,2007-09-17,New Wanderers Stadium,Pakistan,Sri Lanka,Pakistan,190,No,Yes
+27,287869,2007-09-18,Kingsmead,New Zealand,England,New Zealand,165,No,Yes
+28,287870,2007-09-18,New Wanderers Stadium,Australia,Pakistan,Pakistan,165,Yes,No
+29,287871,2007-09-18,New Wanderers Stadium,Sri Lanka,Bangladesh,Sri Lanka,148,No,Yes
+30,287872,2007-09-19,Kingsmead,New Zealand,South Africa,South Africa,154,Yes,No
+31,287873,2007-09-19,Kingsmead,India,England,India,219,No,Yes
+32,287874,2007-09-20,Newlands,Sri Lanka,Australia,Australia,102,Yes,No
+33,287875,2007-09-20,Newlands,Bangladesh,Pakistan,Pakistan,141,Yes,No
+34,287876,2007-09-20,Kingsmead,India,South Africa,India,154,No,Yes
+35,287877,2007-09-22,Newlands,New Zealand,Pakistan,Pakistan,144,Yes,No
+36,287878,2007-09-22,Kingsmead,India,Australia,India,189,No,Yes
+37,287879,2007-09-24,New Wanderers Stadium,India,Pakistan,India,158,No,Yes
+38,291343,2007-12-11,Western Australia Cricket Association Ground,Australia,New Zealand,Australia,187,No,Yes
+39,291356,2008-02-01,Melbourne Cricket Ground,India,Australia,Australia,75,Yes,No
+40,296903,2008-06-13,Old Trafford,New Zealand,England,England,124,Yes,No
+41,297800,2007-10-20,Brabourne Stadium,Australia,India,India,167,Yes,No
+42,298795,2007-11-23,New Wanderers Stadium,New Zealand,South Africa,South Africa,130,Yes,No
+43,298804,2008-01-18,New Wanderers Stadium,West Indies,South Africa,South Africa,132,Yes,No
+44,300435,2008-02-05,Eden Park,England,New Zealand,England,185,No,Yes
+45,300436,2008-02-07,Jade Stadium,England,New Zealand,England,194,No,Yes
+46,306987,2007-09-01,Gymkhana Club Ground,Kenya,Bangladesh,Bangladesh,139,Yes,No
+47,306989,2007-09-02,Gymkhana Club Ground,Pakistan,Bangladesh,Pakistan,192,No,Yes
+48,306991,2007-09-04,Gymkhana Club Ground,Kenya,Pakistan,Pakistan,93,Yes,No
+49,319112,2007-12-16,St George's Park,South Africa,West Indies,West Indies,59,Yes,No
+50,319142,2008-06-20,Kensington Oval,Australia,West Indies,West Indies,98,Yes,No
+51,343764,2008-04-20,National Stadium,Pakistan,Bangladesh,Pakistan,204,No,Yes
+52,350347,2008-11-05,New Wanderers Stadium,South Africa,Bangladesh,South Africa,122,No,Yes
+53,350475,2009-03-27,New Wanderers Stadium,Australia,South Africa,South Africa,167,Yes,No
+54,350476,2009-03-29,SuperSport Park,South Africa,Australia,South Africa,157,No,Yes
+55,351694,2009-01-11,Melbourne Cricket Ground,Australia,South Africa,Australia,183,No,Yes
+56,351695,2009-01-13,Brisbane Cricket Ground,South Africa,Australia,Australia,158,Yes,No
+57,351696,2009-02-15,Sydney Cricket Ground,Australia,New Zealand,Australia,151,No,Yes
+58,352674,2009-03-15,Queen's Park Oval,England,West Indies,West Indies,122,Yes,No
+59,354456,2008-08-03,Civil Service Cricket Club,Bermuda,Scotland,Scotland,100,Yes,No
+60,355991,2009-06-05,Lord's,England,Netherlands,Netherlands,163,Yes,No
+61,355992,2009-06-06,Kennington Oval,Scotland,New Zealand,New Zealand,90,Yes,No
+62,355993,2009-06-06,Kennington Oval,Australia,West Indies,West Indies,170,Yes,No
+63,355994,2009-06-06,Trent Bridge,India,Bangladesh,India,181,No,Yes
+64,355995,2009-06-07,Kennington Oval,South Africa,Scotland,South Africa,212,No,Yes
+65,355996,2009-06-07,Kennington Oval,England,Pakistan,England,186,No,Yes
+66,355997,2009-06-08,Trent Bridge,Bangladesh,Ireland,Ireland,138,Yes,No
+67,355998,2009-06-08,Trent Bridge,Australia,Sri Lanka,Sri Lanka,160,Yes,No
+68,355999,2009-06-09,Lord's,Pakistan,Netherlands,Pakistan,176,No,Yes
+69,356000,2009-06-09,Lord's,South Africa,New Zealand,South Africa,129,No,Yes
+70,356001,2009-06-10,Trent Bridge,Ireland,India,India,113,Yes,No
+71,356002,2009-06-10,Trent Bridge,Sri Lanka,West Indies,Sri Lanka,193,No,Yes
+72,356003,2009-06-11,Trent Bridge,New Zealand,Ireland,New Zealand,199,No,Yes
+73,356004,2009-06-11,Trent Bridge,England,South Africa,South Africa,112,Yes,No
+74,356005,2009-06-12,Lord's,Sri Lanka,Pakistan,Sri Lanka,151,No,Yes
+75,356006,2009-06-12,Lord's,India,West Indies,West Indies,154,Yes,No
+76,356007,2009-06-13,Kennington Oval,South Africa,West Indies,South Africa,184,No,Yes
+77,356008,2009-06-13,Kennington Oval,New Zealand,Pakistan,Pakistan,100,Yes,No
+78,356009,2009-06-14,Lord's,Sri Lanka,Ireland,Sri Lanka,145,No,Yes
+79,356010,2009-06-14,Lord's,England,India,England,154,No,Yes
+80,356011,2009-06-15,Kennington Oval,England,West Indies,West Indies,80,Yes,No
+81,356012,2009-06-15,Kennington Oval,Pakistan,Ireland,Pakistan,160,No,Yes
+82,356013,2009-06-16,Trent Bridge,Sri Lanka,New Zealand,Sri Lanka,159,No,Yes
+83,356014,2009-06-16,Trent Bridge,South Africa,India,South Africa,131,No,Yes
+84,356015,2009-06-18,Trent Bridge,Pakistan,South Africa,Pakistan,150,No,Yes
+85,356016,2009-06-19,Kennington Oval,Sri Lanka,West Indies,Sri Lanka,159,No,Yes
+86,356017,2009-06-21,Lord's,Sri Lanka,Pakistan,Pakistan,139,Yes,No
+87,361530,2008-08-04,Civil Service Cricket Club,Kenya,Ireland,Ireland,68,Yes,No
+88,361531,2008-08-04,Civil Service Cricket Club,Scotland,Netherlands,Netherlands,108,Yes,No
+89,361656,2008-10-11,Maple Leaf North-West Ground,Sri Lanka,Pakistan,Pakistan,138,Yes,No
+90,361660,2008-10-13,Maple Leaf North-West Ground,Pakistan,Sri Lanka,Sri Lanka,133,Yes,No
+91,366622,2009-02-27,Westpac Stadium,India,New Zealand,New Zealand,150,Yes,No
+92,366708,2008-12-28,Seddon Park,New Zealand,West Indies,New Zealand,192,No,Yes
+93,386494,2009-02-25,AMI Stadium,India,New Zealand,New Zealand,163,Yes,No
+94,386535,2009-02-10,R Premadasa Stadium,Sri Lanka,India,India,172,Yes,No
+95,387563,2009-11-13,New Wanderers Stadium,England,South Africa,England,129,No,Yes
+96,387564,2009-11-15,SuperSport Park,South Africa,England,South Africa,242,No,Yes
+97,392615,2009-05-07,Dubai International Cricket Stadium,Australia,Pakistan,Pakistan,109,Yes,No
+98,401076,2009-08-02,Warner Park,Bangladesh,West Indies,West Indies,119,Yes,No
+99,403375,2009-08-12,R Premadasa Stadium,Pakistan,Sri Lanka,Pakistan,173,No,Yes
+100,403385,2009-09-02,R Premadasa Stadium,New Zealand,Sri Lanka,New Zealand,142,No,Yes
+101,403386,2009-09-04,R Premadasa Stadium,New Zealand,Sri Lanka,New Zealand,171,No,Yes
+102,406197,2010-02-21,Bellerive Oval,Australia,West Indies,Australia,180,No,Yes
+103,406198,2010-02-23,Sydney Cricket Ground,West Indies,Australia,Australia,139,Yes,No
+104,406207,2010-02-05,Melbourne Cricket Ground,Australia,Pakistan,Australia,128,No,Yes
+105,412677,2010-04-30,Providence Stadium,West Indies,Ireland,West Indies,139,No,Yes
+106,412678,2010-04-30,Providence Stadium,Sri Lanka,New Zealand,New Zealand,136,Yes,No
+107,412679,2010-05-01,Beausejour Stadium,Afghanistan,India,India,116,Yes,No
+108,412680,2010-05-01,Beausejour Stadium,Pakistan,Bangladesh,Pakistan,173,No,Yes
+109,412682,2010-05-02,Beausejour Stadium,India,South Africa,India,187,No,Yes
+110,412683,2010-05-02,Beausejour Stadium,Australia,Pakistan,Australia,192,No,Yes
+111,412684,2010-05-04,Providence Stadium,Zimbabwe,New Zealand,New Zealand,30,Yes,No
+112,412685,2010-05-03,Providence Stadium,England,West Indies,West Indies,60,Yes,No
+113,412686,2010-05-03,Providence Stadium,Sri Lanka,Zimbabwe,Sri Lanka,44,No,Yes
+114,412687,2010-05-05,Kensington Oval,South Africa,Afghanistan,South Africa,140,No,Yes
+115,412688,2010-05-05,Kensington Oval,Australia,Bangladesh,Australia,142,No,Yes
+116,412689,2010-05-06,Kensington Oval,Pakistan,England,England,148,Yes,No
+117,412690,2010-05-06,Kensington Oval,South Africa,New Zealand,South Africa,171,No,Yes
+118,412691,2010-05-07,Kensington Oval,Australia,India,Australia,185,No,Yes
+119,412692,2010-05-07,Kensington Oval,Sri Lanka,West Indies,Sri Lanka,196,No,Yes
+120,412693,2010-05-08,Kensington Oval,New Zealand,Pakistan,New Zealand,134,No,Yes
+121,412694,2010-05-08,Kensington Oval,England,South Africa,England,169,No,Yes
+122,412695,2010-05-09,Kensington Oval,West Indies,India,West Indies,170,No,Yes
+123,412696,2010-05-09,Kensington Oval,Australia,Sri Lanka,Australia,169,No,Yes
+124,412697,2010-05-10,Beausejour Stadium,Pakistan,South Africa,Pakistan,149,No,Yes
+125,412698,2010-05-10,Beausejour Stadium,New Zealand,England,England,150,Yes,No
+126,412699,2010-05-11,Beausejour Stadium,India,Sri Lanka,Sri Lanka,164,Yes,No
+127,412700,2010-05-11,Beausejour Stadium,West Indies,Australia,Australia,106,Yes,No
+128,412701,2010-05-13,Beausejour Stadium,Sri Lanka,England,England,129,Yes,No
+129,412702,2010-05-14,Beausejour Stadium,Pakistan,Australia,Australia,192,Yes,No
+130,412703,2010-05-16,Kensington Oval,Australia,England,England,148,Yes,No
+131,423782,2010-02-03,Seddon Park,Bangladesh,New Zealand,New Zealand,79,Yes,No
+132,423787,2010-02-26,Westpac Stadium,New Zealand,Australia,Australia,119,Yes,No
+133,426392,2010-07-05,Edgbaston,Pakistan,Australia,Pakistan,168,No,Yes
+134,426393,2010-07-06,Edgbaston,Pakistan,Australia,Pakistan,163,No,Yes
+135,426417,2010-09-05,Sophia Gardens,Pakistan,England,England,127,Yes,No
+136,426418,2010-09-07,Sophia Gardens,Pakistan,England,England,90,Yes,No
+137,426723,2009-11-12,Dubai International Cricket Stadium,Pakistan,New Zealand,Pakistan,162,No,Yes
+138,426724,2009-11-13,Dubai International Cricket Stadium,Pakistan,New Zealand,Pakistan,154,No,Yes
+139,430884,2009-12-09,Vidarbha Cricket Association Stadium,Sri Lanka,India,Sri Lanka,216,No,Yes
+140,430885,2009-12-12,Punjab Cricket Association Stadium,Sri Lanka,India,India,207,Yes,No
+141,439139,2010-02-28,Queen's Park Oval,Zimbabwe,West Indies,Zimbabwe,106,No,Yes
+142,439146,2010-05-19,Sir Vivian Richards Stadium,South Africa,West Indies,South Africa,137,No,Yes
+143,439495,2010-02-09,Dubai International Cricket Stadium,Afghanistan,Ireland,Afghanistan,140,No,Yes
+144,439497,2010-02-09,Dubai International Cricket Stadium,Canada,Netherlands,Netherlands,143,Yes,No
+145,439499,2010-02-10,Dubai International Cricket Stadium,Canada,Kenya,Kenya,139,Yes,No
+146,439505,2010-02-11,Dubai International Cricket Stadium,Ireland,Scotland,Ireland,137,No,Yes
+147,439507,2010-02-12,Dubai International Cricket Stadium,Afghanistan,Netherlands,Netherlands,129,Yes,No
+148,439510,2010-02-13,Dubai International Cricket Stadium,Ireland,Netherlands,Ireland,152,No,Yes
+149,439511,2010-02-13,Dubai International Cricket Stadium,Ireland,Afghanistan,Afghanistan,143,Yes,No
+150,440945,2010-02-19,Dubai International Cricket Stadium,Pakistan,England,England,130,Yes,No
+151,440946,2010-02-20,Dubai International Cricket Stadium,England,Pakistan,Pakistan,149,Yes,No
+152,446956,2010-10-31,Western Australia Cricket Association Ground,Australia,Sri Lanka,Sri Lanka,134,Yes,No
+153,446960,2011-01-12,Adelaide Oval,Australia,England,England,158,Yes,No
+154,446961,2011-01-14,Melbourne Cricket Ground,Australia,England,Australia,148,No,Yes
+155,447539,2010-05-20,Sir Vivian Richards Stadium,South Africa,West Indies,South Africa,121,No,Yes
+156,452153,2010-06-12,Harare Sports Club,Zimbabwe,India,India,112,Yes,No
+157,452154,2010-06-13,Harare Sports Club,Zimbabwe,India,India,141,Yes,No
+158,456991,2010-05-22,Central Broward Regional Park Stadium Turf Ground,New Zealand,Sri Lanka,New Zealand,121,No,Yes
+159,456992,2010-05-23,Central Broward Regional Park Stadium Turf Ground,New Zealand,Sri Lanka,Sri Lanka,82,Yes,No
+160,461565,2010-10-27,Sheikh Zayed Stadium,Pakistan,South Africa,South Africa,121,Yes,No
+161,463141,2010-10-08,OUTsurance Oval,Zimbabwe,South Africa,South Africa,169,Yes,No
+162,463142,2010-10-10,De Beers Diamond Oval,South Africa,Zimbabwe,South Africa,195,No,Yes
+163,463149,2011-01-09,Moses Mabhida Stadium,India,South Africa,India,169,No,Yes
+164,473918,2010-12-26,Eden Park,Pakistan,New Zealand,New Zealand,144,Yes,No
+165,473919,2010-12-28,Seddon Park,New Zealand,Pakistan,New Zealand,186,No,Yes
+166,473920,2010-12-30,AMI Stadium,Pakistan,New Zealand,Pakistan,184,No,Yes
+167,474466,2011-06-25,County Ground,England,Sri Lanka,Sri Lanka,137,Yes,No
+168,474476,2011-08-31,Old Trafford,India,England,England,166,Yes,No
+169,478279,2010-10-26,Sheikh Zayed Stadium,Pakistan,South Africa,South Africa,120,Yes,No
+170,489212,2011-04-21,Beausejour Stadium,West Indies,Pakistan,West Indies,151,No,Yes
+171,489220,2011-06-04,Queen's Park Oval,India,West Indies,India,160,No,Yes
+172,514023,2011-10-13,Newlands,South Africa,Australia,Australia,147,Yes,No
+173,514024,2011-10-16,New Wanderers Stadium,Australia,South Africa,South Africa,148,Yes,No
+174,516204,2011-08-06,Pallekele International Cricket Stadium,Sri Lanka,Australia,Sri Lanka,199,No,Yes
+175,516205,2011-08-08,Pallekele International Cricket Stadium,Sri Lanka,Australia,Sri Lanka,158,No,Yes
+176,518954,2012-02-01,Stadium Australia,Australia,India,Australia,172,No,Yes
+177,518955,2012-02-03,Melbourne Cricket Ground,Australia,India,India,132,Yes,No
+178,520595,2012-02-11,Eden Park,Zimbabwe,New Zealand,New Zealand,160,Yes,No
+179,520596,2012-02-14,Seddon Park,Zimbabwe,New Zealand,New Zealand,201,Yes,No
+180,520597,2012-02-17,Westpac Stadium,South Africa,New Zealand,New Zealand,148,Yes,No
+181,520598,2012-02-19,Seddon Park,New Zealand,South Africa,South Africa,174,Yes,No
+182,520599,2012-02-22,Eden Park,South Africa,New Zealand,South Africa,166,No,Yes
+183,521217,2011-10-29,Eden Gardens,India,England,England,121,Yes,No
+184,523735,2011-09-16,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,199,No,Yes
+185,523736,2011-09-18,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,142,No,Yes
+186,525816,2011-09-23,Kennington Oval,West Indies,England,England,126,Yes,No
+187,525817,2011-09-25,Kennington Oval,West Indies,England,West Indies,114,No,Yes
+188,527012,2011-10-15,Harare Sports Club,Zimbabwe,New Zealand,New Zealand,124,Yes,No
+189,527013,2011-10-17,Harare Sports Club,New Zealand,Zimbabwe,New Zealand,189,No,Yes
+190,530432,2011-11-25,Sheikh Zayed Stadium,Sri Lanka,Pakistan,Pakistan,142,Yes,No
+191,531635,2012-02-23,Dubai International Cricket Stadium,Pakistan,England,Pakistan,145,No,Yes
+192,531636,2012-02-25,Dubai International Cricket Stadium,England,Pakistan,England,151,No,Yes
+193,531637,2012-02-27,Sheikh Zayed Stadium,England,Pakistan,England,130,No,Yes
+194,531982,2011-10-11,Shere Bangla National Stadium,West Indies,Bangladesh,Bangladesh,133,Yes,No
+195,533272,2012-09-18,Mahinda Rajapaksa International Cricket Stadium,Sri Lanka,Zimbabwe,Sri Lanka,183,No,Yes
+196,533273,2012-09-19,R Premadasa Stadium,Ireland,Australia,Australia,124,Yes,No
+197,533274,2012-09-19,R Premadasa Stadium,India,Afghanistan,India,160,No,Yes
+198,533275,2012-09-20,Mahinda Rajapaksa International Cricket Stadium,Zimbabwe,South Africa,South Africa,94,Yes,No
+199,533276,2012-09-21,Pallekele International Cricket Stadium,New Zealand,Bangladesh,New Zealand,192,No,Yes
+200,533277,2012-09-21,R Premadasa Stadium,England,Afghanistan,England,197,No,Yes
+201,533278,2012-09-22,Mahinda Rajapaksa International Cricket Stadium,South Africa,Sri Lanka,South Africa,79,No,Yes
+202,533279,2012-09-22,R Premadasa Stadium,West Indies,Australia,Australia,84,Yes,No
+203,533280,2012-09-23,Pallekele International Cricket Stadium,Pakistan,New Zealand,Pakistan,178,No,Yes
+204,533281,2012-09-23,R Premadasa Stadium,India,England,India,171,No,Yes
+205,533283,2012-09-25,Pallekele International Cricket Stadium,Bangladesh,Pakistan,Pakistan,176,Yes,No
+206,533285,2012-09-27,Pallekele International Cricket Stadium,West Indies,England,West Indies,180,No,Yes
+207,533286,2012-09-28,R Premadasa Stadium,South Africa,Pakistan,Pakistan,134,Yes,No
+208,533287,2012-09-28,R Premadasa Stadium,India,Australia,Australia,141,Yes,No
+209,533288,2012-09-29,Pallekele International Cricket Stadium,New Zealand,England,England,149,Yes,No
+210,533289,2012-09-29,Pallekele International Cricket Stadium,West Indies,Sri Lanka,Sri Lanka,130,Yes,No
+211,533290,2012-09-30,R Premadasa Stadium,South Africa,Australia,Australia,147,Yes,No
+212,533291,2012-09-30,R Premadasa Stadium,Pakistan,India,India,129,Yes,No
+213,533293,2012-10-01,Pallekele International Cricket Stadium,Sri Lanka,England,Sri Lanka,170,No,Yes
+214,533294,2012-10-02,R Premadasa Stadium,Pakistan,Australia,Pakistan,150,No,Yes
+215,533295,2012-10-02,R Premadasa Stadium,India,South Africa,India,153,No,Yes
+216,533296,2012-10-04,R Premadasa Stadium,Sri Lanka,Pakistan,Sri Lanka,140,No,Yes
+217,533297,2012-10-05,R Premadasa Stadium,West Indies,Australia,West Indies,206,No,Yes
+218,533298,2012-10-07,R Premadasa Stadium,West Indies,Sri Lanka,West Indies,138,No,Yes
+219,534208,2012-06-24,Trent Bridge,West Indies,England,England,173,Yes,No
+220,534233,2012-09-08,Riverside Ground,England,South Africa,South Africa,119,Yes,No
+221,534235,2012-09-12,Edgbaston,England,South Africa,England,119,No,Yes
+222,538068,2011-11-29,Shere Bangla National Stadium,Pakistan,Bangladesh,Pakistan,136,No,Yes
+223,540173,2012-03-27,Beausejour Stadium,West Indies,Australia,Australia,151,Yes,No
+224,540174,2012-03-30,Kensington Oval,West Indies,Australia,West Indies,161,No,Yes
+225,543883,2012-02-22,Mombasa Sports Club Ground,Kenya,Ireland,Ireland,108,Yes,No
+226,543884,2012-02-23,Mombasa Sports Club Ground,Kenya,Ireland,Ireland,132,Yes,No
+227,543885,2012-02-24,Mombasa Sports Club Ground,Ireland,Kenya,Ireland,108,No,Yes
+228,546410,2012-03-13,Dubai International Cricket Stadium,Netherlands,Canada,Netherlands,136,No,Yes
+229,546414,2012-03-14,Dubai International Cricket Stadium,Kenya,Ireland,Ireland,72,Yes,No
+230,546418,2012-03-14,Dubai International Cricket Stadium,Netherlands,Afghanistan,Afghanistan,150,Yes,No
+231,546442,2012-03-18,Dubai International Cricket Stadium,Ireland,Scotland,Ireland,160,No,Yes
+232,546443,2012-03-18,ICC Global Cricket Academy,Afghanistan,Canada,Afghanistan,175,No,Yes
+233,546462,2012-03-22,Dubai International Cricket Stadium,Canada,Ireland,Ireland,107,Yes,No
+234,546470,2012-03-23,Dubai International Cricket Stadium,Netherlands,Ireland,Ireland,115,Yes,No
+235,546473,2012-03-23,Dubai International Cricket Stadium,Canada,Scotland,Scotland,136,Yes,No
+236,546477,2012-03-24,Dubai International Cricket Stadium,Afghanistan,Ireland,Ireland,153,Yes,No
+237,556252,2012-03-30,New Wanderers Stadium,South Africa,India,South Africa,83,No,Yes
+238,560921,2012-06-30,Central Broward Regional Park Stadium Turf Ground,West Indies,New Zealand,West Indies,210,No,Yes
+239,560922,2012-07-01,Central Broward Regional Park Stadium Turf Ground,West Indies,New Zealand,West Indies,178,No,Yes
+240,562437,2012-06-01,Mahinda Rajapaksa International Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,133,No,Yes
+241,562438,2012-06-03,Mahinda Rajapaksa International Cricket Stadium,Pakistan,Sri Lanka,Pakistan,123,No,Yes
+242,564786,2012-08-07,Pallekele International Cricket Stadium,India,Sri Lanka,India,156,No,Yes
+243,565810,2012-12-20,Subrata Roy Sahara Stadium,England,India,India,158,Yes,No
+244,565811,2012-12-22,Wankhede Stadium,India,England,England,178,Yes,No
+245,565820,2012-09-11,MA Chidambaram Stadium,New Zealand,India,New Zealand,168,No,Yes
+246,566926,2013-06-25,Kennington Oval,New Zealand,England,New Zealand,202,No,Yes
+247,566937,2013-08-29,The Rose Bowl,Australia,England,Australia,249,No,Yes
+248,566938,2013-08-31,Riverside Ground,England,Australia,England,196,No,Yes
+249,567071,2012-07-18,Civil Service Cricket Club,Bangladesh,Ireland,Bangladesh,191,No,Yes
+250,567205,2012-07-25,Sportpark Westvliet,Netherlands,Bangladesh,Bangladesh,145,Yes,No
+251,567353,2012-12-21,Kingsmead,New Zealand,South Africa,South Africa,87,Yes,No
+252,567354,2012-12-23,Buffalo Park,South Africa,New Zealand,New Zealand,169,Yes,No
+253,567355,2012-12-26,St George's Park,South Africa,New Zealand,South Africa,180,No,Yes
+254,567367,2013-03-03,SuperSport Park,Pakistan,South Africa,Pakistan,196,No,Yes
+255,569237,2013-02-09,Eden Park,England,New Zealand,England,215,No,Yes
+256,569238,2013-02-12,Seddon Park,New Zealand,England,New Zealand,193,No,Yes
+257,569239,2013-02-15,Westpac Stadium,New Zealand,England,England,140,Yes,No
+258,571148,2012-09-05,Dubai International Cricket Stadium,Australia,Pakistan,Pakistan,90,Yes,No
+259,571150,2012-09-10,Dubai International Cricket Stadium,Australia,Pakistan,Australia,169,No,Yes
+260,573019,2013-01-26,Stadium Australia,Australia,Sri Lanka,Sri Lanka,138,Yes,No
+261,573020,2013-01-28,Melbourne Cricket Ground,Sri Lanka,Australia,Sri Lanka,122,No,Yes
+262,573027,2013-02-13,Brisbane Cricket Ground,West Indies,Australia,West Indies,192,No,Yes
+263,573672,2012-07-26,Sportpark Westvliet,Bangladesh,Netherlands,Netherlands,129,Yes,No
+264,587476,2012-12-10,Shere Bangla National Stadium,West Indies,Bangladesh,West Indies,198,No,Yes
+265,589306,2012-12-25,M Chinnaswamy Stadium,India,Pakistan,Pakistan,134,Yes,No
+266,589307,2012-12-28,Sardar Patel Stadium,India,Pakistan,India,193,No,Yes
+267,592268,2013-03-15,ICC Global Cricket Academy,Kenya,Canada,Canada,127,Yes,No
+268,592269,2013-03-16,ICC Global Cricket Academy,Kenya,Canada,Kenya,140,No,Yes
+269,592272,2013-03-03,Sharjah Cricket Stadium,Afghanistan,Scotland,Afghanistan,133,No,Yes
+270,592273,2013-03-04,Sharjah Cricket Stadium,Scotland,Afghanistan,Afghanistan,140,Yes,No
+271,592276,2013-04-20,Wanderers Cricket Ground,Netherlands,Kenya,Kenya,114,Yes,No
+272,593986,2013-03-02,Sir Vivian Richards Stadium,Zimbabwe,West Indies,West Indies,131,Yes,No
+273,593987,2013-03-03,Sir Vivian Richards Stadium,West Indies,Zimbabwe,West Indies,159,No,Yes
+274,602477,2013-03-31,Pallekele International Cricket Stadium,Sri Lanka,Bangladesh,Sri Lanka,199,No,Yes
+275,623571,2013-05-11,Queens Sports Club,Zimbabwe,Bangladesh,Zimbabwe,169,No,Yes
+276,623572,2013-05-12,Queens Sports Club,Bangladesh,Zimbabwe,Bangladesh,169,No,Yes
+277,630951,2013-04-19,Wanderers Cricket Ground,Netherlands,Kenya,Kenya,173,Yes,No
+278,635658,2013-08-02,R Premadasa Stadium,South Africa,Sri Lanka,South Africa,116,No,Yes
+279,635659,2013-08-04,Mahinda Rajapaksa International Cricket Stadium,South Africa,Sri Lanka,South Africa,146,No,Yes
+280,635660,2013-08-06,Mahinda Rajapaksa International Cricket Stadium,South Africa,Sri Lanka,Sri Lanka,164,Yes,No
+281,636164,2014-01-29,Bellerive Oval,Australia,England,Australia,214,No,Yes
+282,636165,2014-01-31,Melbourne Cricket Ground,England,Australia,Australia,131,Yes,No
+283,636166,2014-02-02,Stadium Australia,Australia,England,Australia,196,No,Yes
+284,636536,2014-03-09,Kensington Oval,West Indies,England,West Indies,171,No,Yes
+285,636537,2014-03-11,Kensington Oval,England,West Indies,West Indies,153,Yes,No
+286,636538,2014-03-13,Kensington Oval,England,West Indies,England,166,No,Yes
+287,645645,2013-07-27,Arnos Vale Ground,West Indies,Pakistan,Pakistan,153,Yes,No
+288,645647,2013-07-28,Arnos Vale Ground,Pakistan,West Indies,Pakistan,136,No,Yes
+289,647247,2013-10-10,Saurashtra Cricket Association Stadium,Australia,India,India,202,Yes,No
+290,648681,2014-03-12,Kingsmead,South Africa,Australia,Australia,81,Yes,No
+291,648683,2014-03-14,SuperSport Park,South Africa,Australia,Australia,129,Yes,No
+292,649101,2013-11-13,Dubai International Cricket Stadium,Pakistan,South Africa,South Africa,99,Yes,No
+293,649103,2013-11-15,Dubai International Cricket Stadium,South Africa,Pakistan,South Africa,151,No,Yes
+294,657631,2013-12-08,Sharjah Cricket Stadium,Afghanistan,Pakistan,Pakistan,138,Yes,No
+295,657633,2013-12-11,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Pakistan,146,Yes,No
+296,657635,2013-12-13,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,212,No,Yes
+297,659545,2013-08-23,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,162,No,Yes
+298,659547,2013-08-24,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,180,No,Yes
+299,660107,2013-11-15,Sharjah Cricket Stadium,Afghanistan,Netherlands,Netherlands,91,Yes,No
+300,660113,2013-11-16,Sheikh Zayed Stadium,Ireland,Canada,Ireland,169,No,Yes
+301,660123,2013-11-16,Sharjah Cricket Stadium,Afghanistan,Scotland,Afghanistan,172,No,Yes
+302,660149,2013-11-19,ICC Academy,Kenya,Scotland,Kenya,184,No,Yes
+303,660173,2013-11-22,ICC Academy,Scotland,Netherlands,Scotland,166,No,Yes
+304,660185,2013-11-23,ICC Academy,Netherlands,Kenya,Netherlands,131,No,Yes
+305,660203,2013-11-24,Sharjah Cricket Stadium,Afghanistan,Kenya,Afghanistan,149,No,Yes
+306,660209,2013-11-26,Sharjah Cricket Stadium,Kenya,Canada,Kenya,147,No,Yes
+307,660223,2013-11-28,Sheikh Zayed Stadium,Scotland,Netherlands,Netherlands,148,Yes,No
+308,660235,2013-11-30,Sheikh Zayed Stadium,Ireland,Afghanistan,Ireland,226,No,Yes
+309,661695,2014-01-11,Eden Park,New Zealand,West Indies,New Zealand,190,No,Yes
+310,661697,2014-01-15,Westpac Stadium,West Indies,New Zealand,New Zealand,160,Yes,No
+311,662383,2013-09-30,Sharjah Cricket Stadium,Afghanistan,Kenya,Afghanistan,163,No,Yes
+312,662387,2013-10-11,Sharjah Cricket Stadium,Kenya,Afghanistan,Kenya,150,No,Yes
+313,667731,2014-09-07,Edgbaston,England,India,England,181,No,Yes
+314,667887,2014-05-20,Kennington Oval,Sri Lanka,England,Sri Lanka,184,No,Yes
+315,668959,2013-11-06,Shere Bangla National Stadium,New Zealand,Bangladesh,New Zealand,205,No,Yes
+316,668969,2013-11-21,Pallekele International Cricket Stadium,New Zealand,Sri Lanka,Sri Lanka,143,Yes,No
+317,682897,2014-03-16,Shere Bangla National Stadium,Afghanistan,Bangladesh,Bangladesh,73,Yes,No
+318,682899,2014-03-16,Zahur Ahmed Chowdhury Stadium,Nepal,Hong Kong,Nepal,150,No,Yes
+319,682901,2014-03-17,Sylhet Stadium,Zimbabwe,Ireland,Ireland,164,Yes,No
+320,682903,2014-03-17,Sylhet Stadium,United Arab Emirates,Netherlands,Netherlands,152,Yes,No
+321,682905,2014-03-18,Zahur Ahmed Chowdhury Stadium,Hong Kong,Afghanistan,Afghanistan,154,Yes,No
+322,682907,2014-03-18,Zahur Ahmed Chowdhury Stadium,Nepal,Bangladesh,Bangladesh,127,Yes,No
+323,682909,2014-03-19,Sylhet Stadium,Netherlands,Zimbabwe,Zimbabwe,141,Yes,No
+324,682911,2014-03-19,Sylhet Stadium,United Arab Emirates,Ireland,Ireland,83,Yes,No
+325,682913,2014-03-20,Zahur Ahmed Chowdhury Stadium,Nepal,Afghanistan,Nepal,142,No,Yes
+326,682915,2014-03-20,Zahur Ahmed Chowdhury Stadium,Bangladesh,Hong Kong,Hong Kong,109,Yes,No
+327,682917,2014-03-21,Sylhet Stadium,United Arab Emirates,Zimbabwe,Zimbabwe,117,Yes,No
+328,682919,2014-03-21,Sylhet Stadium,Ireland,Netherlands,Netherlands,190,Yes,No
+329,682925,2014-03-22,Zahur Ahmed Chowdhury Stadium,England,New Zealand,New Zealand,44,Yes,No
+330,682933,2014-03-24,Zahur Ahmed Chowdhury Stadium,Netherlands,Sri Lanka,Sri Lanka,40,Yes,No
+331,682937,2014-03-27,Zahur Ahmed Chowdhury Stadium,South Africa,Netherlands,South Africa,146,No,Yes
+332,682945,2014-03-29,Zahur Ahmed Chowdhury Stadium,Netherlands,New Zealand,New Zealand,152,Yes,No
+333,682953,2014-03-31,Zahur Ahmed Chowdhury Stadium,Netherlands,England,Netherlands,134,No,Yes
+334,682957,2014-04-01,Shere Bangla National Stadium,Bangladesh,Australia,Australia,154,Yes,No
+335,682959,2014-04-01,Shere Bangla National Stadium,West Indies,Pakistan,West Indies,167,No,Yes
+336,682961,2014-04-03,Shere Bangla National Stadium,Sri Lanka,West Indies,Sri Lanka,108,No,Yes
+337,682963,2014-04-04,Shere Bangla National Stadium,South Africa,India,India,173,Yes,No
+338,682965,2014-04-06,Shere Bangla National Stadium,India,Sri Lanka,Sri Lanka,131,Yes,No
+339,685727,2013-11-20,New Wanderers Stadium,South Africa,Pakistan,South Africa,65,No,Yes
+340,685729,2013-11-22,Newlands,Pakistan,South Africa,Pakistan,177,No,Yes
+341,690351,2014-02-12,Zahur Ahmed Chowdhury Stadium,Sri Lanka,Bangladesh,Sri Lanka,169,No,Yes
+342,690353,2014-02-14,Zahur Ahmed Chowdhury Stadium,Bangladesh,Sri Lanka,Sri Lanka,121,Yes,No
+343,702141,2014-02-19,Sabina Park,West Indies,Ireland,Ireland,117,Yes,No
+344,702143,2014-02-21,Sabina Park,West Indies,Ireland,West Indies,97,No,Yes
+345,722335,2015-01-09,Newlands,South Africa,West Indies,West Indies,166,Yes,No
+346,722337,2015-01-11,New Wanderers Stadium,South Africa,West Indies,West Indies,232,Yes,No
+347,727917,2014-10-05,Dubai International Cricket Stadium,Pakistan,Australia,Australia,97,Yes,No
+348,730283,2014-07-05,Windsor Park,West Indies,New Zealand,New Zealand,106,Yes,No
+349,730285,2014-07-06,Windsor Park,West Indies,New Zealand,West Indies,166,No,Yes
+350,736063,2015-01-14,Kingsmead,South Africa,West Indies,South Africa,196,No,Yes
+351,742617,2014-12-04,Dubai International Cricket Stadium,New Zealand,Pakistan,Pakistan,136,Yes,No
+352,743953,2015-06-23,Old Trafford,England,New Zealand,England,192,No,Yes
+353,743975,2015-08-31,Sophia Gardens,England,Australia,England,183,No,Yes
+354,754039,2014-12-05,Dubai International Cricket Stadium,New Zealand,Pakistan,New Zealand,145,No,Yes
+355,754717,2014-11-05,Adelaide Oval,Australia,South Africa,South Africa,145,Yes,No
+356,754719,2014-11-07,Melbourne Cricket Ground,South Africa,Australia,Australia,102,Yes,No
+357,754721,2014-11-09,Stadium Australia,South Africa,Australia,Australia,146,Yes,No
+358,800479,2016-02-19,Newlands,England,South Africa,South Africa,135,Yes,No
+359,800481,2016-02-21,New Wanderers Stadium,England,South Africa,South Africa,172,Yes,No
+360,802327,2014-11-24,P Sara Oval,Nepal,Hong Kong,Hong Kong,73,Yes,No
+361,817203,2015-07-05,Shere Bangla National Stadium,South Africa,Bangladesh,South Africa,149,No,Yes
+362,817205,2015-07-07,Shere Bangla National Stadium,South Africa,Bangladesh,South Africa,170,No,Yes
+363,848839,2015-08-14,Kingsmead,New Zealand,South Africa,South Africa,152,Yes,No
+364,848841,2015-08-16,SuperSport Park,New Zealand,South Africa,New Zealand,178,No,Yes
+365,858491,2015-04-24,Shere Bangla National Stadium,Pakistan,Bangladesh,Bangladesh,142,Yes,No
+366,860279,2015-07-30,R Premadasa Stadium,Pakistan,Sri Lanka,Pakistan,176,No,Yes
+367,860281,2015-08-01,R Premadasa Stadium,Sri Lanka,Pakistan,Pakistan,173,Yes,No
+368,868723,2015-05-22,Gaddafi Stadium,Zimbabwe,Pakistan,Pakistan,173,Yes,No
+369,868725,2015-05-24,Gaddafi Stadium,Zimbabwe,Pakistan,Pakistan,176,Yes,No
+370,875457,2015-07-09,Grange Cricket Club Ground,United Arab Emirates,Scotland,Scotland,110,Yes,No
+371,875459,2015-07-09,Grange Cricket Club Ground,Afghanistan,Netherlands,Afghanistan,163,No,Yes
+372,875467,2015-07-10,Grange Cricket Club Ground,United Arab Emirates,Afghanistan,Afghanistan,165,Yes,No
+373,875471,2015-07-11,Grange Cricket Club Ground,Netherlands,Scotland,Netherlands,192,No,Yes
+374,875481,2015-07-12,Grange Cricket Club Ground,United Arab Emirates,Netherlands,Netherlands,120,Yes,No
+375,875485,2015-07-12,Grange Cricket Club Ground,Afghanistan,Scotland,Afghanistan,211,No,Yes
+376,875501,2015-07-15,Civil Service Cricket Club,Ireland,Papua New Guinea,Papua New Guinea,124,Yes,No
+377,875507,2015-07-15,Civil Service Cricket Club,Nepal,Hong Kong,Hong Kong,110,Yes,No
+378,875513,2015-07-17,The Village,Nepal,Papua New Guinea,Papua New Guinea,94,Yes,No
+379,875521,2015-07-17,The Village,Hong Kong,Ireland,Hong Kong,130,No,Yes
+380,875541,2015-07-21,The Village,Afghanistan,Hong Kong,Hong Kong,162,Yes,No
+381,875545,2015-07-23,The Village,Papua New Guinea,Afghanistan,Afghanistan,128,Yes,No
+382,875549,2015-07-25,The Village,Hong Kong,Scotland,Scotland,117,Yes,No
+383,875551,2015-07-25,Clontarf Cricket Club Ground,Oman,Afghanistan,Afghanistan,128,Yes,No
+384,875553,2015-07-25,The Village,Ireland,Netherlands,Netherlands,129,Yes,No
+385,883343,2015-07-01,VRA Ground,Netherlands,Nepal,Netherlands,173,No,Yes
+386,883345,2015-07-02,Hazelaarweg,Netherlands,Nepal,Netherlands,150,No,Yes
+387,884347,2016-03-04,Kingsmead,Australia,South Africa,South Africa,158,Yes,No
+388,884349,2016-03-06,New Wanderers Stadium,South Africa,Australia,Australia,205,Yes,No
+389,884351,2016-03-09,Newlands,South Africa,Australia,Australia,179,Yes,No
+390,885969,2015-07-17,Harare Sports Club,India,Zimbabwe,India,179,No,Yes
+391,885971,2015-07-19,Harare Sports Club,Zimbabwe,India,Zimbabwe,146,No,Yes
+392,889463,2015-06-20,Bready Cricket Club,Ireland,Scotland,Scotland,167,Yes,No
+393,894293,2015-08-09,Harare Sports Club,New Zealand,Zimbabwe,New Zealand,199,No,Yes
+394,895817,2016-01-26,Adelaide Oval,India,Australia,India,189,No,Yes
+395,895819,2016-01-29,Melbourne Cricket Ground,India,Australia,India,185,No,Yes
+396,895821,2016-01-31,Sydney Cricket Ground,Australia,India,India,198,Yes,No
+397,902649,2015-11-26,Dubai International Cricket Stadium,England,Pakistan,England,161,No,Yes
+398,902651,2015-11-27,Dubai International Cricket Stadium,England,Pakistan,England,173,No,Yes
+399,903587,2015-10-02,Himachal Pradesh Cricket Association Stadium,India,South Africa,South Africa,200,Yes,No
+400,903589,2015-10-05,Barabati Stadium,India,South Africa,South Africa,93,Yes,No
+401,913633,2016-07-05,The Rose Bowl,Sri Lanka,England,England,141,Yes,No
+402,913663,2016-09-07,Old Trafford,England,Pakistan,Pakistan,136,Yes,No
+403,914217,2016-01-07,Bay Oval,New Zealand,Sri Lanka,New Zealand,183,No,Yes
+404,914219,2016-01-10,Eden Park,Sri Lanka,New Zealand,New Zealand,143,Yes,No
+405,914221,2016-01-15,Eden Park,Pakistan,New Zealand,Pakistan,172,No,Yes
+406,914223,2016-01-17,Seddon Park,Pakistan,New Zealand,New Zealand,169,Yes,No
+407,914225,2016-01-22,Westpac Stadium,New Zealand,Pakistan,New Zealand,197,No,Yes
+408,915783,2015-11-09,Pallekele International Cricket Stadium,Sri Lanka,West Indies,Sri Lanka,216,No,Yes
+409,915785,2015-11-11,R Premadasa Stadium,West Indies,Sri Lanka,West Indies,163,No,Yes
+410,919603,2015-09-27,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,137,No,Yes
+411,919605,2015-09-29,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,137,No,Yes
+412,924637,2015-10-26,Queens Sports Club,Zimbabwe,Afghanistan,Afghanistan,154,Yes,No
+413,924639,2015-10-28,Queens Sports Club,Zimbabwe,Afghanistan,Afghanistan,191,Yes,No
+414,930573,2015-11-22,Sheikh Zayed Stadium,Oman,United Arab Emirates,United Arab Emirates,134,Yes,No
+415,930575,2015-11-21,Sheikh Zayed Stadium,Hong Kong,Oman,Oman,107,Yes,No
+416,930577,2015-11-25,Sheikh Zayed Stadium,Oman,Hong Kong,Oman,132,No,Yes
+417,930579,2015-11-26,Sheikh Zayed Stadium,Oman,Hong Kong,Hong Kong,150,Yes,No
+418,930585,2015-11-30,Sheikh Zayed Stadium,Afghanistan,Oman,Afghanistan,161,No,Yes
+419,931396,2015-11-13,Shere Bangla National Stadium,Zimbabwe,Bangladesh,Bangladesh,132,Yes,No
+420,931398,2015-11-15,Shere Bangla National Stadium,Bangladesh,Zimbabwe,Zimbabwe,136,Yes,No
+421,936153,2017-01-20,SuperSport Park,South Africa,Sri Lanka,South Africa,127,No,Yes
+422,936155,2017-01-22,New Wanderers Stadium,South Africa,Sri Lanka,Sri Lanka,114,Yes,No
+423,936157,2017-01-25,Newlands,South Africa,Sri Lanka,Sri Lanka,170,Yes,No
+424,951305,2016-03-08,Vidarbha Cricket Association Stadium,Zimbabwe,Hong Kong,Zimbabwe,159,No,Yes
+425,951307,2016-03-08,Vidarbha Cricket Association Stadium,Afghanistan,Scotland,Afghanistan,171,No,Yes
+426,951309,2016-03-09,Himachal Pradesh Cricket Association Stadium,Bangladesh,Netherlands,Bangladesh,154,No,Yes
+427,951311,2016-03-09,Himachal Pradesh Cricket Association Stadium,Ireland,Oman,Oman,155,Yes,No
+428,951313,2016-03-10,Vidarbha Cricket Association Stadium,Zimbabwe,Scotland,Zimbabwe,148,No,Yes
+429,951315,2016-03-10,Vidarbha Cricket Association Stadium,Hong Kong,Afghanistan,Afghanistan,117,Yes,No
+430,951321,2016-03-12,Vidarbha Cricket Association Stadium,Afghanistan,Zimbabwe,Afghanistan,187,No,Yes
+431,951323,2016-03-12,Vidarbha Cricket Association Stadium,Hong Kong,Scotland,Scotland,76,Yes,No
+432,951325,2016-03-13,Himachal Pradesh Cricket Association Stadium,Netherlands,Ireland,Netherlands,60,No,Yes
+433,951327,2016-03-13,Himachal Pradesh Cricket Association Stadium,Bangladesh,Oman,Bangladesh,120,No,Yes
+434,951329,2016-03-15,Vidarbha Cricket Association Stadium,New Zealand,India,New Zealand,127,No,Yes
+435,951331,2016-03-16,Wankhede Stadium,England,West Indies,West Indies,183,Yes,No
+436,951333,2016-03-16,Eden Gardens,Pakistan,Bangladesh,Pakistan,202,No,Yes
+437,951335,2016-03-17,Eden Gardens,Afghanistan,Sri Lanka,Sri Lanka,154,Yes,No
+438,951337,2016-03-18,Himachal Pradesh Cricket Association Stadium,New Zealand,Australia,New Zealand,143,No,Yes
+439,951339,2016-03-18,Wankhede Stadium,South Africa,England,England,230,Yes,No
+440,951341,2016-03-19,Eden Gardens,Pakistan,India,India,119,Yes,No
+441,951343,2016-03-20,Wankhede Stadium,South Africa,Afghanistan,South Africa,210,No,Yes
+442,951345,2016-03-20,M Chinnaswamy Stadium,Sri Lanka,West Indies,West Indies,123,Yes,No
+443,951347,2016-03-21,M Chinnaswamy Stadium,Bangladesh,Australia,Australia,157,Yes,No
+444,951349,2016-03-22,Punjab Cricket Association IS Bindra Stadium,New Zealand,Pakistan,New Zealand,181,No,Yes
+445,951351,2016-03-23,Feroz Shah Kotla,England,Afghanistan,England,143,No,Yes
+446,951353,2016-03-23,M Chinnaswamy Stadium,India,Bangladesh,India,147,No,Yes
+447,951355,2016-03-25,Punjab Cricket Association IS Bindra Stadium,Australia,Pakistan,Australia,194,No,Yes
+448,951357,2016-03-25,Vidarbha Cricket Association Stadium,South Africa,West Indies,West Indies,123,Yes,No
+449,951359,2016-03-26,Eden Gardens,New Zealand,Bangladesh,New Zealand,146,No,Yes
+450,951361,2016-03-26,Feroz Shah Kotla,England,Sri Lanka,England,172,No,Yes
+451,951363,2016-03-27,Punjab Cricket Association IS Bindra Stadium,Australia,India,India,161,Yes,No
+452,951365,2016-03-27,Vidarbha Cricket Association Stadium,Afghanistan,West Indies,Afghanistan,124,No,Yes
+453,951367,2016-03-28,Feroz Shah Kotla,Sri Lanka,South Africa,South Africa,121,Yes,No
+454,951369,2016-03-30,Feroz Shah Kotla,New Zealand,England,England,154,Yes,No
+455,951371,2016-03-31,Wankhede Stadium,India,West Indies,West Indies,193,Yes,No
+456,951373,2016-04-03,Eden Gardens,England,West Indies,West Indies,156,Yes,No
+457,953103,2016-01-30,Mission Road Ground,Scotland,Hong Kong,Hong Kong,67,Yes,No
+458,953105,2016-01-31,Mission Road Ground,Scotland,Hong Kong,Scotland,162,No,Yes
+459,953345,2016-01-08,Sharjah Cricket Stadium,Afghanistan,Zimbabwe,Afghanistan,188,No,Yes
+460,953347,2016-01-10,Sharjah Cricket Stadium,Afghanistan,Zimbabwe,Afghanistan,216,No,Yes
+461,954735,2016-02-07,Tony Ireland Stadium,Ireland,Papua New Guinea,Ireland,97,No,Yes
+462,954737,2016-02-09,Tony Ireland Stadium,Papua New Guinea,Ireland,Papua New Guinea,117,No,Yes
+463,954741,2016-02-14,Sheikh Zayed Stadium,Ireland,United Arab Emirates,Ireland,135,No,Yes
+464,954743,2016-02-16,Sheikh Zayed Stadium,United Arab Emirates,Ireland,United Arab Emirates,134,No,Yes
+465,958415,2016-01-15,Sheikh Abu Naser Stadium,Zimbabwe,Bangladesh,Bangladesh,164,Yes,No
+466,958417,2016-01-17,Sheikh Abu Naser Stadium,Bangladesh,Zimbabwe,Bangladesh,168,No,Yes
+467,958419,2016-01-20,Sheikh Abu Naser Stadium,Zimbabwe,Bangladesh,Zimbabwe,188,No,Yes
+468,958421,2016-01-22,Sheikh Abu Naser Stadium,Zimbabwe,Bangladesh,Zimbabwe,181,No,Yes
+469,963697,2016-02-09,Maharashtra Cricket Association Stadium,India,Sri Lanka,Sri Lanka,102,Yes,No
+470,963699,2016-02-12,JSCA International Stadium Complex,India,Sri Lanka,India,197,No,Yes
+471,963701,2016-02-14,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sri Lanka,India,India,83,Yes,No
+472,966373,2016-02-04,ICC Academy,United Arab Emirates,Scotland,United Arab Emirates,149,No,Yes
+473,966713,2016-02-19,Khan Shaheb Osman Ali Stadium,United Arab Emirates,Afghanistan,United Arab Emirates,177,No,Yes
+474,966735,2016-02-19,Khan Shaheb Osman Ali Stadium,Oman,Hong Kong,Oman,181,No,Yes
+475,966737,2016-02-20,Khan Shaheb Osman Ali Stadium,Oman,Afghanistan,Afghanistan,166,Yes,No
+476,966739,2016-02-21,Khan Shaheb Osman Ali Stadium,Hong Kong,United Arab Emirates,United Arab Emirates,147,Yes,No
+477,966741,2016-02-22,Shere Bangla National Stadium,Afghanistan,Hong Kong,Afghanistan,179,No,Yes
+478,966743,2016-02-22,Shere Bangla National Stadium,United Arab Emirates,Oman,United Arab Emirates,173,No,Yes
+479,966745,2016-02-24,Shere Bangla National Stadium,India,Bangladesh,India,167,No,Yes
+480,966747,2016-02-25,Shere Bangla National Stadium,Sri Lanka,United Arab Emirates,Sri Lanka,130,No,Yes
+481,966749,2016-02-26,Shere Bangla National Stadium,Bangladesh,United Arab Emirates,Bangladesh,134,No,Yes
+482,966751,2016-02-27,Shere Bangla National Stadium,Pakistan,India,India,84,Yes,No
+483,966753,2016-02-28,Shere Bangla National Stadium,Bangladesh,Sri Lanka,Bangladesh,148,No,Yes
+484,966755,2016-02-29,Shere Bangla National Stadium,United Arab Emirates,Pakistan,Pakistan,130,Yes,No
+485,966757,2016-03-01,Shere Bangla National Stadium,Sri Lanka,India,India,139,Yes,No
+486,966759,2016-03-02,Shere Bangla National Stadium,Pakistan,Bangladesh,Bangladesh,130,Yes,No
+487,966761,2016-03-03,Shere Bangla National Stadium,United Arab Emirates,India,India,82,Yes,No
+488,966763,2016-03-04,Shere Bangla National Stadium,Sri Lanka,Pakistan,Pakistan,151,Yes,No
+489,966765,2016-03-06,Shere Bangla National Stadium,Bangladesh,India,India,121,Yes,No
+490,967081,2016-02-03,ICC Academy,Netherlands,United Arab Emirates,Netherlands,158,No,Yes
+491,995467,2016-09-06,Pallekele International Cricket Stadium,Australia,Sri Lanka,Australia,264,No,Yes
+492,995469,2016-09-09,R Premadasa Stadium,Sri Lanka,Australia,Australia,129,Yes,No
+493,1001349,2017-02-17,Melbourne Cricket Ground,Australia,Sri Lanka,Sri Lanka,169,Yes,No
+494,1001351,2017-02-19,Simonds Stadium,Australia,Sri Lanka,Sri Lanka,174,Yes,No
+495,1001353,2017-02-22,Adelaide Oval,Australia,Sri Lanka,Australia,188,No,Yes
+496,1004729,2016-09-05,Bready Cricket Club,Hong Kong,Ireland,Hong Kong,170,No,Yes
+497,1007655,2016-06-18,Harare Sports Club,Zimbabwe,India,Zimbabwe,171,No,Yes
+498,1007657,2016-06-20,Harare Sports Club,Zimbabwe,India,India,100,Yes,No
+499,1007659,2016-06-22,Harare Sports Club,India,Zimbabwe,India,139,No,Yes
+500,1019979,2017-01-03,McLean Park,Bangladesh,New Zealand,New Zealand,142,Yes,No
+501,1019981,2017-01-06,Bay Oval,New Zealand,Bangladesh,New Zealand,196,No,Yes
+502,1019983,2017-01-08,Bay Oval,New Zealand,Bangladesh,New Zealand,195,No,Yes
+503,1020029,2017-02-17,Eden Park,South Africa,New Zealand,South Africa,186,No,Yes
+504,1031431,2017-06-21,The Rose Bowl,South Africa,England,England,143,Yes,No
+505,1031433,2017-06-23,County Ground,South Africa,England,South Africa,175,No,Yes
+506,1031435,2017-06-25,Sophia Gardens,England,South Africa,England,182,No,Yes
+507,1031665,2017-09-16,Riverside Ground,West Indies,England,West Indies,177,No,Yes
+508,1034825,2017-01-26,Green Park,India,England,England,148,Yes,No
+509,1034827,2017-01-29,Vidarbha Cricket Association Stadium,India,England,India,145,No,Yes
+510,1034829,2017-02-01,M Chinnaswamy Stadium,India,England,India,203,No,Yes
+511,1040485,2017-03-08,Greater Noida Sports Complex Ground,Ireland,Afghanistan,Afghanistan,166,Yes,No
+512,1040487,2017-03-10,Greater Noida Sports Complex Ground,Afghanistan,Ireland,Afghanistan,111,No,Yes
+513,1040489,2017-03-12,Greater Noida Sports Complex Ground,Afghanistan,Ireland,Afghanistan,234,No,Yes
+514,1041615,2016-08-27,Central Broward Regional Park Stadium Turf Ground,West Indies,India,West Indies,246,No,Yes
+515,1050217,2016-09-23,Dubai International Cricket Stadium,West Indies,Pakistan,Pakistan,116,Yes,No
+516,1050219,2016-09-24,Dubai International Cricket Stadium,Pakistan,West Indies,Pakistan,161,No,Yes
+517,1050221,2016-09-27,Sheikh Zayed Stadium,West Indies,Pakistan,Pakistan,104,Yes,No
+518,1072206,2016-12-14,ICC Academy,Afghanistan,United Arab Emirates,Afghanistan,162,No,Yes
+519,1072207,2016-12-16,Dubai International Cricket Stadium,United Arab Emirates,Afghanistan,Afghanistan,180,Yes,No
+520,1072208,2016-12-18,ICC Academy,Afghanistan,United Arab Emirates,Afghanistan,190,No,Yes
+521,1072316,2018-02-03,Sydney Cricket Ground,New Zealand,Australia,Australia,95,Yes,No
+522,1072317,2018-02-07,Bellerive Oval,England,Australia,Australia,156,Yes,No
+523,1072318,2018-02-10,Melbourne Cricket Ground,England,Australia,Australia,138,Yes,No
+524,1072319,2018-02-13,Westpac Stadium,New Zealand,England,New Zealand,197,No,Yes
+525,1072320,2018-02-16,Eden Park,New Zealand,Australia,Australia,244,Yes,No
+526,1072321,2018-02-18,Seddon Park,England,New Zealand,England,195,No,Yes
+527,1072322,2018-02-21,Eden Park,New Zealand,Australia,Australia,103,Yes,No
+528,1074957,2017-01-14,Sheikh Zayed Stadium,Scotland,Hong Kong,Scotland,190,No,Yes
+529,1074958,2017-01-14,Sheikh Zayed Stadium,Ireland,Afghanistan,Afghanistan,126,Yes,No
+530,1074959,2017-01-15,Sheikh Zayed Stadium,Oman,Netherlands,Netherlands,147,Yes,No
+531,1074961,2017-01-16,Sheikh Zayed Stadium,Hong Kong,Oman,Oman,88,Yes,No
+532,1074962,2017-01-16,Sheikh Zayed Stadium,United Arab Emirates,Afghanistan,Afghanistan,147,Yes,No
+533,1074964,2017-01-17,Sheikh Zayed Stadium,Scotland,Netherlands,Scotland,149,No,Yes
+534,1074965,2017-01-18,Dubai International Cricket Stadium,Ireland,United Arab Emirates,Ireland,161,No,Yes
+535,1074966,2017-01-18,Dubai International Cricket Stadium,Hong Kong,Netherlands,Hong Kong,184,No,Yes
+536,1074968,2017-01-19,Dubai International Cricket Stadium,Oman,Scotland,Scotland,134,Yes,No
+537,1074969,2017-01-20,Dubai International Cricket Stadium,Oman,Afghanistan,Afghanistan,150,Yes,No
+538,1074970,2017-01-20,Dubai International Cricket Stadium,Ireland,Scotland,Ireland,212,No,Yes
+539,1074971,2017-01-20,Dubai International Cricket Stadium,Ireland,Afghanistan,Afghanistan,72,Yes,No
+540,1075507,2017-10-26,Mangaung Oval,South Africa,Bangladesh,South Africa,196,No,Yes
+541,1075508,2017-10-29,Senwes Park,South Africa,Bangladesh,South Africa,225,No,Yes
+542,1077947,2017-03-26,Kensington Oval,West Indies,Pakistan,Pakistan,112,Yes,No
+543,1077948,2017-03-30,Queen's Park Oval,Pakistan,West Indies,Pakistan,133,No,Yes
+544,1083449,2017-04-04,R Premadasa Stadium,Bangladesh,Sri Lanka,Sri Lanka,156,Yes,No
+545,1083450,2017-04-06,R Premadasa Stadium,Bangladesh,Sri Lanka,Bangladesh,177,No,Yes
+546,1085495,2017-04-01,Queen's Park Oval,Pakistan,West Indies,West Indies,138,Yes,No
+547,1085496,2017-04-02,Queen's Park Oval,West Indies,Pakistan,Pakistan,125,Yes,No
+548,1089202,2017-04-12,Sheikh Zayed Stadium,Papua New Guinea,United Arab Emirates,United Arab Emirates,103,Yes,No
+549,1089203,2017-04-14,Sheikh Zayed Stadium,United Arab Emirates,Papua New Guinea,United Arab Emirates,181,No,Yes
+550,1089243,2017-04-14,Sheikh Zayed Stadium,Papua New Guinea,United Arab Emirates,United Arab Emirates,129,Yes,No
+551,1089776,2017-06-02,Warner Park,Afghanistan,West Indies,West Indies,111,Yes,No
+552,1089777,2017-06-03,Warner Park,West Indies,Afghanistan,West Indies,123,No,Yes
+553,1089778,2017-06-05,Warner Park,Afghanistan,West Indies,West Indies,147,Yes,No
+554,1098211,2017-07-09,Sabina Park,India,West Indies,West Indies,191,Yes,No
+555,1109610,2017-09-06,R.Premadasa Stadium,Sri Lanka,India,India,171,Yes,No
+556,1115798,2017-12-29,Saxton Oval,New Zealand,West Indies,New Zealand,188,No,Yes
+557,1115800,2018-01-03,Bay Oval,New Zealand,West Indies,New Zealand,244,No,Yes
+558,1115807,2018-01-22,Westpac Stadium,Pakistan,New Zealand,New Zealand,106,Yes,No
+559,1115808,2018-01-25,Eden Park,Pakistan,New Zealand,Pakistan,202,No,Yes
+560,1115809,2018-01-28,Bay Oval,Pakistan,New Zealand,Pakistan,182,No,Yes
+561,1117821,2017-09-12,Gaddafi Stadium,Pakistan,ICC World XI,Pakistan,198,No,Yes
+562,1117822,2017-09-13,Gaddafi Stadium,Pakistan,ICC World XI,ICC World XI,175,Yes,No
+563,1117824,2017-09-15,Gaddafi Stadium,Pakistan,ICC World XI,Pakistan,184,No,Yes
+564,1119501,2017-10-07,JSCA International Stadium Complex,Australia,India,India,48,Yes,No
+565,1119502,2017-10-10,Barsapara Cricket Stadium,India,Australia,Australia,119,Yes,No
+566,1119542,2018-06-27,Edgbaston,England,Australia,England,222,No,Yes
+567,1119543,2018-07-03,Old Trafford,England,India,India,160,Yes,No
+568,1119544,2018-07-06,Sophia Gardens,India,England,England,149,Yes,No
+569,1119545,2018-07-08,County Ground,England,India,India,199,Yes,No
+570,1120093,2017-11-01,Arun Jaitley Stadium,India,New Zealand,India,203,No,Yes
+571,1120094,2017-11-04,Saurashtra Cricket Association Stadium,New Zealand,India,New Zealand,197,No,Yes
+572,1120095,2017-11-07,Greenfield International Stadium,India,New Zealand,India,68,No,Yes
+573,1120291,2017-10-26,Sheikh Zayed Stadium,Sri Lanka,Pakistan,Pakistan,103,Yes,No
+574,1120292,2017-10-27,Sheikh Zayed Stadium,Sri Lanka,Pakistan,Pakistan,125,Yes,No
+575,1120293,2017-10-29,Gaddafi Stadium,Pakistan,Sri Lanka,Pakistan,181,No,Yes
+576,1122285,2018-02-18,The Wanderers Stadium,India,South Africa,India,204,No,Yes
+577,1122286,2018-02-21,SuperSport Park,India,South Africa,South Africa,189,Yes,No
+578,1122287,2018-02-24,Newlands,India,South Africa,India,173,No,Yes
+579,1122729,2017-12-20,Barabati Stadium,India,Sri Lanka,India,181,No,Yes
+580,1122730,2017-12-22,Holkar Cricket Stadium,India,Sri Lanka,India,261,No,Yes
+581,1122731,2017-12-24,Wankhede Stadium,Sri Lanka,India,India,136,Yes,No
+582,1127300,2018-06-12,Grange Cricket Club,Pakistan,Scotland,Pakistan,205,No,Yes
+583,1127301,2018-06-13,Grange Cricket Club,Pakistan,Scotland,Pakistan,167,No,Yes
+584,1130746,2018-02-15,Shere Bangla National Stadium,Bangladesh,Sri Lanka,Sri Lanka,194,Yes,No
+585,1130747,2018-02-18,Sylhet International Cricket Stadium,Sri Lanka,Bangladesh,Sri Lanka,211,No,Yes
+586,1133817,2018-03-06,R.Premadasa Stadium,India,Sri Lanka,Sri Lanka,175,Yes,No
+587,1133818,2018-03-08,R.Premadasa Stadium,Bangladesh,India,India,140,Yes,No
+588,1133819,2018-03-10,R.Premadasa Stadium,Sri Lanka,Bangladesh,Bangladesh,215,Yes,No
+589,1133820,2018-03-12,R.Premadasa Stadium,Sri Lanka,India,India,153,Yes,No
+590,1133821,2018-03-14,R.Premadasa Stadium,India,Bangladesh,India,177,No,Yes
+591,1133822,2018-03-16,R.Premadasa Stadium,Sri Lanka,Bangladesh,Bangladesh,160,Yes,No
+592,1133823,2018-03-18,R.Premadasa Stadium,Bangladesh,India,India,167,Yes,No
+593,1134031,2018-02-05,Sharjah Cricket Stadium,Zimbabwe,Afghanistan,Afghanistan,121,Yes,No
+594,1134032,2018-02-06,Sharjah Cricket Stadium,Afghanistan,Zimbabwe,Afghanistan,159,No,Yes
+595,1140069,2018-04-01,National Stadium,Pakistan,West Indies,Pakistan,204,No,Yes
+596,1140070,2018-04-02,National Stadium,Pakistan,West Indies,Pakistan,206,No,Yes
+597,1140071,2018-04-03,National Stadium,West Indies,Pakistan,Pakistan,154,Yes,No
+598,1140384,2018-10-27,R.Premadasa Stadium,England,Sri Lanka,England,188,No,Yes
+599,1140992,2018-06-27,The Village,India,Ireland,India,209,No,Yes
+600,1140993,2018-06-29,The Village,India,Ireland,India,214,No,Yes
+601,1141232,2018-05-31,Lord's,West Indies,ICC World XI,West Indies,200,No,Yes
+602,1142501,2018-06-12,Hazelaarweg,Netherlands,Ireland,Netherlands,145,No,Yes
+603,1142502,2018-06-13,Hazelaarweg,Ireland,Netherlands,Netherlands,159,Yes,No
+604,1142503,2018-06-16,Sportpark Het Schootsveld,Ireland,Scotland,Ireland,206,No,Yes
+605,1142505,2018-06-19,VRA Ground,Netherlands,Scotland,Scotland,161,Yes,No
+606,1142506,2018-06-20,VRA Ground,Scotland,Netherlands,Scotland,222,No,Yes
+607,1142589,2018-08-14,R.Premadasa Stadium,South Africa,Sri Lanka,Sri Lanka,99,Yes,No
+608,1142913,2018-07-01,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,183,No,Yes
+609,1142914,2018-07-02,Harare Sports Club,Pakistan,Australia,Australia,117,Yes,No
+610,1142915,2018-07-03,Harare Sports Club,Australia,Zimbabwe,Australia,230,No,Yes
+611,1142916,2018-07-04,Harare Sports Club,Zimbabwe,Pakistan,Pakistan,163,Yes,No
+612,1142917,2018-07-05,Harare Sports Club,Pakistan,Australia,Pakistan,195,No,Yes
+613,1142918,2018-07-06,Harare Sports Club,Zimbabwe,Australia,Australia,152,Yes,No
+614,1142919,2018-07-08,Harare Sports Club,Australia,Pakistan,Pakistan,184,Yes,No
+615,1144149,2018-10-09,Buffalo Park,South Africa,Zimbabwe,South Africa,161,No,Yes
+616,1144150,2018-10-12,Senwes Park,Zimbabwe,South Africa,South Africa,133,Yes,No
+617,1144161,2019-02-01,Newlands,South Africa,Pakistan,South Africa,193,No,Yes
+618,1144162,2019-02-03,The Wanderers Stadium,South Africa,Pakistan,South Africa,189,No,Yes
+619,1144163,2019-02-06,SuperSport Park,Pakistan,South Africa,Pakistan,169,No,Yes
+620,1144173,2019-03-22,SuperSport Park,South Africa,Sri Lanka,South Africa,181,No,Yes
+621,1144174,2019-03-24,The Wanderers Stadium,South Africa,Sri Lanka,South Africa,183,No,Yes
+622,1144989,2018-11-17,Carrara Oval,South Africa,Australia,South Africa,109,No,Yes
+623,1144990,2018-11-21,Brisbane Cricket Ground,Australia,India,Australia,174,No,Yes
+624,1144992,2018-11-25,Sydney Cricket Ground,Australia,India,India,165,Yes,No
+625,1145982,2018-06-03,Rajiv Gandhi International Cricket Stadium,Afghanistan,Bangladesh,Afghanistan,168,No,Yes
+626,1145983,2018-06-05,Rajiv Gandhi International Cricket Stadium,Bangladesh,Afghanistan,Afghanistan,135,Yes,No
+627,1145984,2018-06-07,Rajiv Gandhi International Cricket Stadium,Afghanistan,Bangladesh,Afghanistan,146,No,Yes
+628,1146723,2018-07-31,Warner Park,Bangladesh,West Indies,West Indies,91,Yes,No
+629,1146724,2018-08-04,Central Broward Regional Park Stadium Turf Ground,Bangladesh,West Indies,Bangladesh,172,No,Yes
+630,1146725,2018-08-05,Central Broward Regional Park Stadium Turf Ground,Bangladesh,West Indies,Bangladesh,155,No,Yes
+631,1150143,2018-08-20,Bready Cricket Club,Afghanistan,Ireland,Afghanistan,161,No,Yes
+632,1150144,2018-08-22,Bready Cricket Club,Afghanistan,Ireland,Afghanistan,161,No,Yes
+633,1152840,2019-05-05,Sophia Gardens,Pakistan,England,England,174,Yes,No
+634,1153317,2018-12-17,Sylhet International Cricket Stadium,Bangladesh,West Indies,West Indies,130,Yes,No
+635,1153318,2018-12-20,Shere Bangla National Stadium,Bangladesh,West Indies,Bangladesh,212,No,Yes
+636,1153319,2018-12-22,Shere Bangla National Stadium,West Indies,Bangladesh,West Indies,191,No,Yes
+637,1153696,2019-02-06,Westpac Stadium,New Zealand,India,New Zealand,220,No,Yes
+638,1153697,2019-02-08,Eden Park,New Zealand,India,India,159,Yes,No
+639,1153698,2019-02-10,Seddon Park,New Zealand,India,New Zealand,213,No,Yes
+640,1153843,2019-01-11,Eden Park,New Zealand,Sri Lanka,New Zealand,180,No,Yes
+641,1157372,2018-10-24,Sheikh Zayed Stadium,Pakistan,Australia,Pakistan,156,No,Yes
+642,1157373,2018-10-26,Dubai International Cricket Stadium,Pakistan,Australia,Pakistan,148,No,Yes
+643,1157374,2018-10-28,Dubai International Cricket Stadium,Pakistan,Australia,Pakistan,151,No,Yes
+644,1157375,2018-10-31,Sheikh Zayed Stadium,Pakistan,New Zealand,Pakistan,149,No,Yes
+645,1157376,2018-11-02,Dubai International Cricket Stadium,New Zealand,Pakistan,Pakistan,154,Yes,No
+646,1157377,2018-11-04,Dubai International Cricket Stadium,Pakistan,New Zealand,Pakistan,167,No,Yes
+647,1157759,2018-11-04,Eden Gardens,West Indies,India,India,110,Yes,No
+648,1157760,2018-11-06,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,India,West Indies,India,196,No,Yes
+649,1157761,2018-11-11,MA Chidambaram Stadium,West Indies,India,India,182,Yes,No
+650,1158071,2019-03-05,Darren Sammy National Cricket Stadium,West Indies,England,England,161,Yes,No
+651,1158072,2019-03-08,Warner Park,England,West Indies,England,183,No,Yes
+652,1158073,2019-03-10,Warner Park,West Indies,England,England,72,Yes,No
+653,1162727,2018-10-22,Tolerance Oval,United Arab Emirates,Australia,Australia,118,Yes,No
+654,1168112,2019-02-21,Rajiv Gandhi International Cricket Stadium,Ireland,Afghanistan,Afghanistan,133,Yes,No
+655,1168113,2019-02-23,Rajiv Gandhi International Cricket Stadium,Afghanistan,Ireland,Afghanistan,279,No,Yes
+656,1168114,2019-02-24,Rajiv Gandhi International Cricket Stadium,Afghanistan,Ireland,Afghanistan,211,No,Yes
+657,1168247,2019-02-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,Australia,Australia,127,Yes,No
+658,1168248,2019-02-27,M.Chinnaswamy Stadium,India,Australia,Australia,191,Yes,No
+659,1168521,2019-07-12,Bready Cricket Club,Zimbabwe,Ireland,Ireland,134,Yes,No
+660,1170457,2019-01-31,ICC Academy,United Arab Emirates,Nepal,United Arab Emirates,154,No,Yes
+661,1170458,2019-02-01,ICC Academy,United Arab Emirates,Nepal,Nepal,108,Yes,No
+662,1170459,2019-02-03,ICC Academy,Nepal,United Arab Emirates,Nepal,105,No,Yes
+663,1172505,2019-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,Netherlands,Netherlands,154,Yes,No
+664,1172506,2019-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Oman,Ireland,160,No,Yes
+665,1172507,2019-02-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Netherlands,Netherlands,167,Yes,No
+666,1172508,2019-02-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Scotland,Scotland,181,Yes,No
+667,1172509,2019-02-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Ireland,Ireland,183,Yes,No
+668,1172510,2019-02-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Scotland,Scotland,112,Yes,No
+669,1176792,2019-03-22,Amini Park,Papua New Guinea,Philippines,Papua New Guinea,217,No,Yes
+670,1176793,2019-03-22,Amini Park,Vanuatu,Papua New Guinea,Papua New Guinea,125,Yes,No
+671,1176794,2019-03-23,Amini Park,Vanuatu,Philippines,Vanuatu,157,No,Yes
+672,1176796,2019-03-24,Amini Park,Philippines,Vanuatu,Philippines,47,No,Yes
+673,1176797,2019-03-24,Amini Park,Vanuatu,Papua New Guinea,Papua New Guinea,57,Yes,No
+674,1177485,2019-03-16,ICC Academy,United Arab Emirates,United States of America,United Arab Emirates,183,No,Yes
+675,1178996,2019-05-25,Sportpark Maarschalkerweerd,Germany,Italy,Italy,131,Yes,No
+676,1183524,2019-10-27,Adelaide Oval,Australia,Sri Lanka,Australia,234,No,Yes
+677,1183525,2019-10-30,Brisbane Cricket Ground,Sri Lanka,Australia,Australia,118,Yes,No
+678,1183526,2019-11-01,Melbourne Cricket Ground,Sri Lanka,Australia,Australia,143,Yes,No
+679,1183528,2019-11-05,Manuka Oval,Pakistan,Australia,Australia,151,Yes,No
+680,1183529,2019-11-08,Perth Stadium,Pakistan,Australia,Australia,107,Yes,No
+681,1184258,2019-05-20,Kyambogo Cricket Oval,Ghana,Namibia,Namibia,92,Yes,No
+682,1184260,2019-05-20,Lugogo Cricket Oval,Uganda,Botswana,Uganda,143,No,Yes
+683,1184261,2019-05-21,Kyambogo Cricket Oval,Kenya,Ghana,Kenya,142,No,Yes
+684,1184262,2019-05-21,Kyambogo Cricket Oval,Namibia,Uganda,Namibia,168,No,Yes
+685,1184263,2019-05-21,Lugogo Cricket Oval,Nigeria,Botswana,Nigeria,120,No,Yes
+686,1184266,2019-05-23,Kyambogo Cricket Oval,Ghana,Uganda,Uganda,114,Yes,No
+687,1184900,2019-05-22,Kyambogo Cricket Oval,Nigeria,Ghana,Nigeria,136,No,Yes
+688,1184901,2019-05-22,Kyambogo Cricket Oval,Botswana,Namibia,Namibia,47,Yes,No
+689,1184902,2019-05-22,Lugogo Cricket Oval,Kenya,Uganda,Kenya,146,No,Yes
+690,1185181,2019-06-15,King George V Sports Ground,Guernsey,Germany,Germany,118,Yes,No
+691,1185182,2019-06-17,King George V Sports Ground,Denmark,Norway,Denmark,142,No,Yes
+692,1185184,2019-06-16,King George V Sports Ground,Jersey,Denmark,Jersey,132,No,Yes
+693,1185185,2019-06-16,College Field,Italy,Guernsey,Italy,122,No,Yes
+694,1185186,2019-06-16,King George V Sports Ground,Jersey,Norway,Jersey,161,No,Yes
+695,1185188,2019-06-20,College Field,Norway,Germany,Germany,100,Yes,No
+696,1185190,2019-06-20,College Field,Jersey,Germany,Germany,135,Yes,No
+697,1185191,2019-06-19,King George V Sports Ground,Norway,Guernsey,Guernsey,96,Yes,No
+698,1185192,2019-06-19,College Field,Jersey,Italy,Jersey,150,No,Yes
+699,1185193,2019-06-19,King George V Sports Ground,Denmark,Germany,Germany,110,Yes,No
+700,1185313,2020-02-12,Buffalo Park,South Africa,England,South Africa,178,No,Yes
+701,1185314,2020-02-14,Kingsmead,England,South Africa,England,205,No,Yes
+702,1185315,2020-02-16,SuperSport Park,South Africa,England,England,223,Yes,No
+703,1185316,2020-02-21,The Wanderers Stadium,Australia,South Africa,Australia,197,No,Yes
+704,1185317,2020-02-23,St George's Park,South Africa,Australia,South Africa,159,No,Yes
+705,1185318,2020-02-26,Newlands,Australia,South Africa,Australia,194,No,Yes
+706,1186488,2019-06-24,Kinrara Academy Oval,Thailand,Malaysia,Malaysia,114,Yes,No
+707,1186490,2019-06-26,Kinrara Academy Oval,Thailand,Maldives,Maldives,131,Yes,No
+708,1186491,2019-06-27,Kinrara Academy Oval,Thailand,Malaysia,Malaysia,128,Yes,No
+709,1186493,2019-06-29,Kinrara Academy Oval,Maldives,Thailand,Thailand,154,Yes,No
+710,1187005,2019-09-18,Punjab Cricket Association IS Bindra Stadium,South Africa,India,India,150,Yes,No
+711,1187006,2019-09-22,M.Chinnaswamy Stadium,India,South Africa,South Africa,135,Yes,No
+712,1187013,2019-11-03,Arun Jaitley Stadium,India,Bangladesh,Bangladesh,149,Yes,No
+713,1187014,2019-11-07,Saurashtra Cricket Association Stadium,Bangladesh,India,India,154,Yes,No
+714,1187015,2019-11-10,Vidarbha Cricket Association Stadium,India,Bangladesh,India,175,No,Yes
+715,1187018,2019-12-06,Rajiv Gandhi International Stadium,West Indies,India,India,208,Yes,No
+716,1187019,2019-12-08,Greenfield International Stadium,India,West Indies,West Indies,171,Yes,No
+717,1187020,2019-12-11,Wankhede Stadium,India,West Indies,India,241,No,Yes
+718,1187665,2019-11-01,Hagley Oval,New Zealand,England,England,154,Yes,No
+719,1187666,2019-11-03,Westpac Stadium,New Zealand,England,New Zealand,177,No,Yes
+720,1187667,2019-11-05,Saxton Oval,New Zealand,England,New Zealand,181,No,Yes
+721,1187668,2019-11-08,McLean Park,England,New Zealand,England,242,No,Yes
+722,1187677,2020-01-24,Eden Park,New Zealand,India,India,204,Yes,No
+723,1187678,2020-01-26,Eden Park,New Zealand,India,India,133,Yes,No
+724,1187681,2020-02-02,Bay Oval,India,New Zealand,India,164,No,Yes
+725,1188379,2019-06-23,Hazelaarweg,Netherlands,Zimbabwe,Netherlands,200,No,Yes
+726,1188621,2019-08-03,Central Broward Regional Park Stadium Turf Ground,West Indies,India,India,96,Yes,No
+727,1188622,2019-08-04,Central Broward Regional Park Stadium Turf Ground,India,West Indies,India,121,No,Yes
+728,1188623,2019-08-06,Providence Stadium,West Indies,India,India,147,Yes,No
+729,1189743,2019-06-20,King George V Sports Ground,Guernsey,Denmark,Guernsey,119,No,Yes
+730,1189744,2019-06-20,King George V Sports Ground,Denmark,Italy,Denmark,159,No,Yes
+731,1190767,2019-07-22,Indian Association Ground,Singapore,Qatar,Singapore,187,No,Yes
+732,1190768,2019-07-22,Indian Association Ground,Malaysia,Kuwait,Malaysia,163,No,Yes
+733,1190769,2019-07-23,Indian Association Ground,Nepal,Qatar,Qatar,123,Yes,No
+734,1190771,2019-07-24,Indian Association Ground,Malaysia,Nepal,Nepal,84,Yes,No
+735,1190772,2019-07-26,Indian Association Ground,Kuwait,Qatar,Kuwait,198,No,Yes
+736,1190773,2019-07-26,Indian Association Ground,Malaysia,Singapore,Singapore,93,Yes,No
+737,1190774,2019-07-27,Indian Association Ground,Kuwait,Nepal,Nepal,142,Yes,No
+738,1190775,2019-07-27,Indian Association Ground,Malaysia,Qatar,Qatar,145,Yes,No
+739,1190776,2019-07-28,Indian Association Ground,Singapore,Nepal,Singapore,192,No,Yes
+740,1191006,2019-08-05,VRA Ground,Netherlands,United Arab Emirates,United Arab Emirates,137,Yes,No
+741,1191008,2019-08-08,Sportpark Westvliet,Netherlands,United Arab Emirates,United Arab Emirates,151,Yes,No
+742,1192223,2019-07-13,Kinrara Academy Oval,Malaysia,Nepal,Nepal,129,Yes,No
+743,1192224,2019-07-14,Kinrara Academy Oval,Nepal,Malaysia,Nepal,174,No,Yes
+744,1192875,2019-09-01,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,New Zealand,175,Yes,No
+745,1192876,2019-09-03,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,New Zealand,162,Yes,No
+746,1192877,2019-09-06,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,Sri Lanka,126,No,Yes
+747,1193494,2019-11-14,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,Afghanistan,West Indies,165,No,Yes
+748,1193495,2019-11-16,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Afghanistan,West Indies,Afghanistan,148,No,Yes
+749,1193496,2019-11-17,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Afghanistan,West Indies,Afghanistan,157,No,Yes
+750,1197140,2019-09-13,Shere Bangla National Stadium,Zimbabwe,Bangladesh,Bangladesh,145,Yes,No
+751,1197141,2019-09-14,Shere Bangla National Stadium,Afghanistan,Zimbabwe,Afghanistan,198,No,Yes
+752,1197142,2019-09-15,Shere Bangla National Stadium,Afghanistan,Bangladesh,Afghanistan,165,No,Yes
+753,1197143,2019-09-18,Zahur Ahmed Chowdhury Stadium,Bangladesh,Zimbabwe,Bangladesh,176,No,Yes
+754,1197144,2019-09-20,Zahur Ahmed Chowdhury Stadium,Afghanistan,Zimbabwe,Zimbabwe,156,Yes,No
+755,1197145,2019-09-21,Zahur Ahmed Chowdhury Stadium,Afghanistan,Bangladesh,Bangladesh,139,Yes,No
+756,1197396,2019-08-18,White Hill Field,Bermuda,United States of America,Bermuda,142,No,Yes
+757,1197397,2019-08-18,White Hill Field,Canada,Cayman Islands,Canada,197,No,Yes
+758,1197399,2019-08-19,National Stadium,Cayman Islands,United States of America,United States of America,51,Yes,No
+759,1197400,2019-08-21,White Hill Field,Cayman Islands,Bermuda,Bermuda,117,Yes,No
+760,1197401,2019-08-21,White Hill Field,United States of America,Canada,Canada,145,Yes,No
+761,1197402,2019-08-22,White Hill Field,Cayman Islands,Canada,Canada,92,Yes,No
+762,1197404,2019-08-24,White Hill Field,Cayman Islands,United States of America,United States of America,67,Yes,No
+763,1197406,2019-08-25,White Hill Field,Canada,United States of America,Canada,174,No,Yes
+764,1197407,2019-08-25,White Hill Field,Cayman Islands,Bermuda,Bermuda,115,Yes,No
+765,1197507,2019-08-19,United Cricket Club Ground,Namibia,Botswana,Namibia,194,No,Yes
+766,1197508,2019-08-20,United Cricket Club Ground,Namibia,Botswana,Namibia,241,No,Yes
+767,1197509,2019-08-22,United Cricket Club Ground,Namibia,Botswana,Namibia,175,No,Yes
+768,1197510,2019-08-23,United Cricket Club Ground,Botswana,Namibia,Namibia,86,Yes,No
+769,1197521,2019-10-05,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Ireland,Ireland,168,Yes,No
+770,1197522,2019-10-06,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Ireland,Oman,174,No,Yes
+771,1197523,2019-10-06,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Hong Kong,Nepal,Nepal,126,Yes,No
+772,1197524,2019-10-07,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Nepal,Nepal,134,Yes,No
+773,1197525,2019-10-07,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Hong Kong,Ireland,209,No,Yes
+774,1197526,2019-10-09,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Nepal,Ireland,146,No,Yes
+775,1197527,2019-10-09,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Oman,Oman,95,Yes,No
+776,1197528,2019-10-10,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Hong Kong,Netherlands,186,No,Yes
+777,1197529,2019-10-10,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Oman,Oman,65,Yes,No
+778,1198235,2020-09-04,The Rose Bowl,England,Australia,England,163,No,Yes
+779,1198236,2020-09-06,The Rose Bowl,Australia,England,England,158,Yes,No
+780,1198237,2020-09-08,The Rose Bowl,England,Australia,Australia,146,Yes,No
+781,1198245,2020-08-30,Old Trafford,Pakistan,England,England,196,Yes,No
+782,1198246,2020-09-01,Old Trafford,Pakistan,England,Pakistan,191,No,Yes
+783,1198489,2019-10-05,Gaddafi Stadium,Sri Lanka,Pakistan,Sri Lanka,166,No,Yes
+784,1198490,2019-10-07,Gaddafi Stadium,Sri Lanka,Pakistan,Sri Lanka,183,No,Yes
+785,1198491,2019-10-09,Gaddafi Stadium,Sri Lanka,Pakistan,Sri Lanka,148,No,Yes
+786,1199499,2019-10-18,ICC Academy,Singapore,Scotland,Singapore,169,No,Yes
+787,1199500,2019-10-18,Sheikh Zayed Stadium,Hong Kong,Ireland,Ireland,154,Yes,No
+788,1199501,2019-10-18,ICC Academy,Netherlands,Kenya,Netherlands,167,No,Yes
+789,1199502,2019-10-18,Sheikh Zayed Stadium,United Arab Emirates,Oman,Oman,109,Yes,No
+790,1199503,2019-10-19,ICC Academy,Bermuda,Papua New Guinea,Papua New Guinea,90,Yes,No
+791,1199504,2019-10-19,Sheikh Zayed Stadium,Jersey,Nigeria,Jersey,185,No,Yes
+792,1199505,2019-10-19,ICC Academy,Netherlands,Namibia,Netherlands,141,No,Yes
+793,1199506,2019-10-19,ICC Academy Ground No 2,Scotland,Kenya,Scotland,171,No,Yes
+794,1199507,2019-10-19,Sheikh Zayed Stadium,Ireland,United Arab Emirates,United Arab Emirates,126,Yes,No
+795,1199508,2019-10-20,ICC Academy Ground No 2,Papua New Guinea,Namibia,Papua New Guinea,198,No,Yes
+796,1199509,2019-10-20,Tolerance Oval,Canada,Jersey,Canada,177,No,Yes
+797,1199510,2019-10-20,ICC Academy Ground No 2,Bermuda,Singapore,Singapore,150,Yes,No
+798,1199511,2019-10-20,Sheikh Zayed Stadium,Hong Kong,Oman,Oman,103,Yes,No
+799,1199512,2019-10-21,ICC Academy,Scotland,Papua New Guinea,Scotland,147,No,Yes
+800,1199513,2019-10-21,Sheikh Zayed Stadium,Hong Kong,United Arab Emirates,United Arab Emirates,117,Yes,No
+801,1199514,2019-10-21,Tolerance Oval,Ireland,Oman,Ireland,184,No,Yes
+802,1199515,2019-10-21,ICC Academy,Kenya,Bermuda,Kenya,139,No,Yes
+803,1199516,2019-10-21,Sheikh Zayed Stadium,Canada,Nigeria,Canada,160,No,Yes
+804,1199517,2019-10-22,ICC Academy,Namibia,Scotland,Namibia,160,No,Yes
+805,1199518,2019-10-22,ICC Academy,Singapore,Netherlands,Netherlands,102,Yes,No
+806,1199519,2019-10-22,Tolerance Oval,Jersey,United Arab Emirates,Jersey,148,No,Yes
+807,1199520,2019-10-23,ICC Academy Ground No 2,Bermuda,Namibia,Namibia,107,Yes,No
+808,1199521,2019-10-23,Tolerance Oval,Nigeria,Oman,Oman,72,Yes,No
+809,1199522,2019-10-23,ICC Academy Ground No 2,Singapore,Kenya,Kenya,158,Yes,No
+810,1199523,2019-10-23,Sheikh Zayed Stadium,Canada,Ireland,Canada,157,No,Yes
+811,1199524,2019-10-23,Sheikh Zayed Stadium,Hong Kong,Jersey,Hong Kong,145,No,Yes
+812,1199525,2019-10-24,ICC Academy,Netherlands,Papua New Guinea,Papua New Guinea,127,Yes,No
+813,1199526,2019-10-24,Tolerance Oval,Nigeria,United Arab Emirates,United Arab Emirates,112,Yes,No
+814,1199527,2019-10-24,Tolerance Oval,Hong Kong,Canada,Hong Kong,151,No,Yes
+815,1199528,2019-10-24,Dubai International Cricket Stadium,Scotland,Bermuda,Scotland,205,No,Yes
+816,1199529,2019-10-25,Dubai International Cricket Stadium,Papua New Guinea,Singapore,Papua New Guinea,181,No,Yes
+817,1199530,2019-10-25,Tolerance Oval,Jersey,Ireland,Ireland,106,Yes,No
+818,1199531,2019-10-25,Dubai International Cricket Stadium,Namibia,Kenya,Namibia,182,No,Yes
+819,1199532,2019-10-25,Sheikh Zayed Stadium,Canada,Oman,Oman,145,Yes,No
+820,1199533,2019-10-26,Sheikh Zayed Stadium,Nigeria,Ireland,Ireland,67,Yes,No
+821,1199534,2019-10-26,Dubai International Cricket Stadium,Netherlands,Bermuda,Netherlands,207,No,Yes
+822,1199535,2019-10-26,Dubai International Cricket Stadium,Namibia,Singapore,Namibia,192,No,Yes
+823,1199536,2019-10-27,Dubai International Cricket Stadium,Papua New Guinea,Kenya,Papua New Guinea,119,No,Yes
+824,1199537,2019-10-27,Tolerance Oval,Nigeria,Hong Kong,Hong Kong,82,Yes,No
+825,1199538,2019-10-27,Sheikh Zayed Stadium,Jersey,Oman,Jersey,142,No,Yes
+826,1199539,2019-10-27,Dubai International Cricket Stadium,Scotland,Netherlands,Netherlands,131,Yes,No
+827,1199540,2019-10-27,Sheikh Zayed Stadium,United Arab Emirates,Canada,United Arab Emirates,155,No,Yes
+828,1199541,2019-10-29,Dubai International Cricket Stadium,United Arab Emirates,Netherlands,Netherlands,81,Yes,No
+829,1199542,2019-10-29,Dubai International Cricket Stadium,Namibia,Oman,Namibia,162,No,Yes
+830,1199543,2019-10-30,Dubai International Cricket Stadium,Scotland,United Arab Emirates,Scotland,199,No,Yes
+831,1199544,2019-10-30,Dubai International Cricket Stadium,Oman,Hong Kong,Oman,135,No,Yes
+832,1199545,2019-10-31,ICC Academy,Oman,Scotland,Scotland,168,Yes,No
+833,1199546,2019-11-01,Dubai International Cricket Stadium,Netherlands,Ireland,Netherlands,159,No,Yes
+834,1199547,2019-11-01,Dubai International Cricket Stadium,Papua New Guinea,Namibia,Papua New Guinea,131,No,Yes
+835,1199548,2019-11-02,Dubai International Cricket Stadium,Ireland,Namibia,Ireland,136,No,Yes
+836,1199549,2019-11-02,Dubai International Cricket Stadium,Papua New Guinea,Netherlands,Netherlands,129,Yes,No
+837,1200425,2019-09-16,The Village,Scotland,Netherlands,Scotland,253,No,Yes
+838,1200426,2019-09-17,The Village,Scotland,Ireland,Ireland,194,Yes,No
+839,1200427,2019-09-18,The Village,Ireland,Netherlands,Netherlands,182,Yes,No
+840,1200428,2019-09-19,The Village,Netherlands,Scotland,Scotland,124,Yes,No
+841,1201668,2019-10-25,La Manga Club Bottom Ground,Portugal,Spain,Spain,88,Yes,No
+842,1201669,2019-10-26,La Manga Club Bottom Ground,Gibraltar,Portugal,Portugal,114,Yes,No
+843,1201670,2019-10-26,La Manga Club Bottom Ground,Gibraltar,Spain,Spain,99,Yes,No
+844,1201671,2019-10-26,La Manga Club Bottom Ground,Spain,Portugal,Spain,144,No,Yes
+845,1201673,2019-10-27,La Manga Club Bottom Ground,Gibraltar,Spain,Spain,96,Yes,No
+846,1201680,2019-09-27,Indian Association Ground,Nepal,Zimbabwe,Zimbabwe,133,Yes,No
+847,1201681,2019-09-28,Indian Association Ground,Singapore,Nepal,Nepal,152,Yes,No
+848,1201682,2019-09-29,Indian Association Ground,Singapore,Zimbabwe,Singapore,182,No,Yes
+849,1201683,2019-10-01,Indian Association Ground,Zimbabwe,Nepal,Zimbabwe,161,No,Yes
+850,1201685,2019-10-03,Indian Association Ground,Singapore,Zimbabwe,Zimbabwe,168,Yes,No
+851,1202007,2019-09-29,Kinrara Academy Oval,Vanuatu,Malaysia,Vanuatu,152,No,Yes
+852,1202008,2019-10-01,Kinrara Academy Oval,Vanuatu,Malaysia,Vanuatu,189,No,Yes
+853,1202009,2019-10-02,Kinrara Academy Oval,Malaysia,Vanuatu,Malaysia,135,No,Yes
+854,1202010,2019-10-03,Kinrara Academy Oval,Malaysia,Vanuatu,Vanuatu,145,Yes,No
+855,1202011,2019-10-04,Kinrara Academy Oval,Malaysia,Vanuatu,Malaysia,207,No,Yes
+856,1202243,2020-01-07,Holkar Cricket Stadium,Sri Lanka,India,India,143,Yes,No
+857,1202244,2020-01-10,Maharashtra Cricket Association Stadium,India,Sri Lanka,India,202,No,Yes
+858,1203676,2020-01-15,National Cricket Stadium,Ireland,West Indies,Ireland,209,No,Yes
+859,1203678,2020-01-19,Warner Park,Ireland,West Indies,West Indies,139,Yes,No
+860,1207081,2020-03-08,Desert Springs Cricket Ground,Germany,Spain,Spain,140,Yes,No
+861,1207082,2020-03-08,Desert Springs Cricket Ground,Germany,Spain,Germany,181,No,Yes
+862,1208606,2019-12-05,Tribhuvan University International Cricket Ground,Nepal,Bhutan,Nepal,237,No,Yes
+863,1208609,2019-12-06,Tribhuvan University International Cricket Ground,Nepal,Maldives,Nepal,164,No,Yes
+864,1208612,2019-12-07,Tribhuvan University International Cricket Ground,Bhutan,Maldives,Maldives,118,Yes,No
+865,1208613,2019-12-09,Tribhuvan University International Cricket Ground,Maldives,Nepal,Nepal,95,Yes,No
+866,1213058,2020-01-24,Gaddafi Stadium,Bangladesh,Pakistan,Pakistan,142,Yes,No
+867,1213059,2020-01-25,Gaddafi Stadium,Bangladesh,Pakistan,Pakistan,137,Yes,No
+868,1213874,2020-03-04,Pallekele International Cricket Stadium,West Indies,Sri Lanka,West Indies,197,No,Yes
+869,1213875,2020-03-06,Pallekele International Cricket Stadium,Sri Lanka,West Indies,West Indies,156,Yes,No
+870,1214670,2020-03-09,Shere Bangla National Stadium,Bangladesh,Zimbabwe,Bangladesh,201,No,Yes
+871,1214671,2020-03-11,Shere Bangla National Stadium,Zimbabwe,Bangladesh,Bangladesh,120,Yes,No
+872,1215136,2020-02-20,Kinrara Academy Oval,Malaysia,Hong Kong,Malaysia,83,No,Yes
+873,1215137,2020-02-21,Kinrara Academy Oval,Malaysia,Hong Kong,Malaysia,139,No,Yes
+874,1215138,2020-02-23,Kinrara Academy Oval,Malaysia,Hong Kong,Malaysia,153,No,Yes
+875,1215139,2020-02-24,Kinrara Academy Oval,Malaysia,Hong Kong,Malaysia,168,No,Yes
+876,1215140,2020-02-26,Kinrara Academy Oval,Hong Kong,Malaysia,Malaysia,172,Yes,No
+877,1215159,2020-02-25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Maldives,Oman,Oman,130,Yes,No
+878,1215160,2020-02-25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,Saudi Arabia,United Arab Emirates,151,No,Yes
+879,1215161,2020-02-25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Qatar,Bahrain,Bahrain,107,Yes,No
+880,1215162,2020-02-25,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Iran,Kuwait,Kuwait,109,Yes,No
+881,1215163,2020-02-26,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,Bahrain,Kuwait,211,No,Yes
+882,1215164,2020-02-26,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United Arab Emirates,Qatar,United Arab Emirates,123,No,Yes
+883,1215165,2020-02-27,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Kuwait,United Arab Emirates,200,No,Yes
+884,1216416,2020-03-06,Greater Noida Sports Complex Ground,Ireland,Afghanistan,Afghanistan,123,Yes,No
+885,1216417,2020-03-08,Greater Noida Sports Complex Ground,Afghanistan,Ireland,Afghanistan,185,No,Yes
+886,1217738,2020-02-29,Terdthai Cricket Ground,Singapore,Thailand,Singapore,140,No,Yes
+887,1217740,2020-03-01,Terdthai Cricket Ground,Hong Kong,Nepal,Hong Kong,155,No,Yes
+888,1217741,2020-03-01,Terdthai Cricket Ground,Thailand,Malaysia,Malaysia,86,Yes,No
+889,1217742,2020-03-03,Terdthai Cricket Ground,Singapore,Malaysia,Singapore,240,No,Yes
+890,1217743,2020-03-03,Terdthai Cricket Ground,Thailand,Hong Kong,Hong Kong,78,Yes,No
+891,1217744,2020-03-04,Terdthai Cricket Ground,Thailand,Nepal,Nepal,67,Yes,No
+892,1217745,2020-03-04,Terdthai Cricket Ground,Singapore,Hong Kong,Singapore,169,No,Yes
+893,1217747,2020-03-06,Terdthai Cricket Ground,Malaysia,Hong Kong,Hong Kong,133,Yes,No
+894,1223952,2020-12-04,Manuka Oval,India,Australia,India,162,No,Yes
+895,1223953,2020-12-06,Sydney Cricket Ground,Australia,India,India,195,Yes,No
+896,1223954,2020-12-08,Sydney Cricket Ground,Australia,India,Australia,187,No,Yes
+897,1229820,2020-08-29,Pierre Werner Cricket Ground,Belgium,Luxembourg,Belgium,166,No,Yes
+898,1229822,2020-08-30,Pierre Werner Cricket Ground,Belgium,Czech Republic,Belgium,162,No,Yes
+899,1229823,2020-08-30,Pierre Werner Cricket Ground,Belgium,Luxembourg,Belgium,185,No,Yes
+900,1229824,2020-08-21,College Field,Isle of Man,Guernsey,Guernsey,101,Yes,No
+901,1233464,2020-11-07,Rawalpindi Cricket Stadium,Zimbabwe,Pakistan,Pakistan,157,Yes,No
+902,1233465,2020-11-08,Rawalpindi Cricket Stadium,Zimbabwe,Pakistan,Pakistan,135,Yes,No
+903,1233466,2020-11-10,Rawalpindi Cricket Stadium,Zimbabwe,Pakistan,Pakistan,130,Yes,No
+904,1233954,2020-11-27,Eden Park,West Indies,New Zealand,New Zealand,176,Yes,No
+905,1233955,2020-11-29,Bay Oval,New Zealand,West Indies,New Zealand,239,No,Yes
+906,1233959,2020-12-18,Eden Park,Pakistan,New Zealand,New Zealand,154,Yes,No
+907,1233960,2020-12-20,Seddon Park,Pakistan,New Zealand,New Zealand,164,Yes,No
+908,1233961,2020-12-22,McLean Park,New Zealand,Pakistan,Pakistan,174,Yes,No
+909,1233971,2021-02-22,Hagley Oval,New Zealand,Australia,New Zealand,185,No,Yes
+910,1233972,2021-02-25,University Oval,New Zealand,Australia,New Zealand,220,No,Yes
+911,1233973,2021-03-03,Westpac Stadium,Australia,New Zealand,Australia,209,No,Yes
+912,1233974,2021-03-05,Westpac Stadium,Australia,New Zealand,Australia,157,No,Yes
+913,1233975,2021-03-07,Sky Stadium,Australia,New Zealand,New Zealand,143,Yes,No
+914,1233979,2021-03-28,Seddon Park,New Zealand,Bangladesh,New Zealand,211,No,Yes
+915,1233980,2021-03-30,McLean Park,New Zealand,Bangladesh,New Zealand,171,No,Yes
+916,1233981,2021-04-01,Eden Park,New Zealand,Bangladesh,New Zealand,142,No,Yes
+917,1235829,2020-10-16,Moara Vlasiei Cricket Ground,Bulgaria,Romania,Bulgaria,129,No,Yes
+918,1235830,2020-10-17,Moara Vlasiei Cricket Ground,Romania,Bulgaria,Romania,149,No,Yes
+919,1235832,2020-10-18,Moara Vlasiei Cricket Ground,Bulgaria,Romania,Romania,61,Yes,No
+920,1237122,2020-11-27,Newlands,South Africa,England,England,180,Yes,No
+921,1237123,2020-11-29,Boland Park,South Africa,England,England,147,Yes,No
+922,1237124,2020-12-01,Newlands,South Africa,England,England,192,Yes,No
+923,1239540,2021-07-16,Trent Bridge,Pakistan,England,Pakistan,233,No,Yes
+924,1239541,2021-07-18,Headingley,England,Pakistan,England,201,No,Yes
+925,1239542,2021-07-20,Old Trafford,Pakistan,England,England,155,Yes,No
+926,1243019,2021-02-11,Gaddafi Stadium,Pakistan,South Africa,Pakistan,170,No,Yes
+927,1243020,2021-02-13,Gaddafi Stadium,Pakistan,South Africa,South Africa,145,Yes,No
+928,1243021,2021-02-14,Gaddafi Stadium,South Africa,Pakistan,Pakistan,165,Yes,No
+929,1243389,2021-03-14,Narendra Modi Stadium,England,India,India,165,Yes,No
+930,1243390,2021-03-16,Narendra Modi Stadium,India,England,England,157,Yes,No
+931,1243391,2021-03-18,Narendra Modi Stadium,India,England,India,186,No,Yes
+932,1243392,2021-03-20,Narendra Modi Stadium,India,England,India,225,No,Yes
+933,1249206,2021-06-23,Sophia Gardens,Sri Lanka,England,England,130,Yes,No
+934,1249207,2021-06-24,Sophia Gardens,Sri Lanka,England,England,103,Yes,No
+935,1249208,2021-06-26,The Rose Bowl,England,Sri Lanka,England,181,No,Yes
+936,1251575,2021-04-10,The Wanderers Stadium,South Africa,Pakistan,Pakistan,189,Yes,No
+937,1251576,2021-04-12,The Wanderers Stadium,Pakistan,South Africa,South Africa,141,Yes,No
+938,1251577,2021-04-14,SuperSport Park,South Africa,Pakistan,Pakistan,204,Yes,No
+939,1251578,2021-04-16,SuperSport Park,South Africa,Pakistan,Pakistan,145,Yes,No
+940,1251953,2021-07-19,The Village,South Africa,Ireland,South Africa,166,No,Yes
+941,1251954,2021-07-22,Civil Service Cricket Club,South Africa,Ireland,South Africa,160,No,Yes
+942,1251955,2021-07-24,Civil Service Cricket Club,South Africa,Ireland,South Africa,190,No,Yes
+943,1252058,2021-03-17,Sheikh Zayed Stadium,Afghanistan,Zimbabwe,Afghanistan,199,No,Yes
+944,1252059,2021-03-19,Sheikh Zayed Stadium,Afghanistan,Zimbabwe,Afghanistan,194,No,Yes
+945,1252060,2021-03-20,Sheikh Zayed Stadium,Afghanistan,Zimbabwe,Afghanistan,184,No,Yes
+946,1252066,2021-03-03,Coolidge Cricket Ground,Sri Lanka,West Indies,West Indies,132,Yes,No
+947,1252067,2021-03-05,Coolidge Cricket Ground,Sri Lanka,West Indies,Sri Lanka,161,No,Yes
+948,1252068,2021-03-07,Coolidge Cricket Ground,Sri Lanka,West Indies,West Indies,132,Yes,No
+949,1256720,2022-01-22,Kensington Oval,England,West Indies,West Indies,104,Yes,No
+950,1256721,2022-01-23,Kensington Oval,England,West Indies,England,172,No,Yes
+951,1256722,2022-01-26,Kensington Oval,West Indies,England,West Indies,225,No,Yes
+952,1256723,2022-01-29,Kensington Oval,England,West Indies,England,194,No,Yes
+953,1256724,2022-01-30,Kensington Oval,West Indies,England,West Indies,180,No,Yes
+954,1257183,2021-04-21,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,150,No,Yes
+955,1257184,2021-04-23,Harare Sports Club,Zimbabwe,Pakistan,Zimbabwe,119,No,Yes
+956,1257185,2021-04-25,Harare Sports Club,Pakistan,Zimbabwe,Pakistan,166,No,Yes
+957,1257404,2021-04-03,Wanderers,Uganda,Namibia,Namibia,135,Yes,No
+958,1257405,2021-04-05,Wanderers Cricket Ground,Namibia,Uganda,Namibia,86,No,Yes
+959,1257406,2021-04-05,Wanderers Cricket Ground,Namibia,Uganda,Namibia,190,No,Yes
+960,1257945,2021-04-17,Tribhuvan University International Cricket Ground,Netherlands,Nepal,Nepal,137,Yes,No
+961,1257946,2021-04-18,Tribhuvan University International Cricket Ground,Netherlands,Malaysia,Netherlands,192,No,Yes
+962,1257947,2021-04-19,Tribhuvan University International Cricket Ground,Malaysia,Nepal,Nepal,110,Yes,No
+963,1257948,2021-04-20,Tribhuvan University International Cricket Ground,Nepal,Netherlands,Netherlands,207,Yes,No
+964,1257950,2021-04-22,Tribhuvan University International Cricket Ground,Nepal,Malaysia,Nepal,218,No,Yes
+965,1257951,2021-04-24,Tribhuvan University International Cricket Ground,Nepal,Netherlands,Nepal,239,No,Yes
+966,1262758,2021-07-25,R Premadasa Stadium,India,Sri Lanka,India,165,No,Yes
+967,1262759,2021-07-28,R Premadasa Stadium,India,Sri Lanka,Sri Lanka,133,Yes,No
+968,1262760,2021-07-29,R Premadasa Stadium,India,Sri Lanka,Sri Lanka,82,Yes,No
+969,1263151,2021-06-26,National Cricket Stadium,South Africa,West Indies,West Indies,161,Yes,No
+970,1263152,2021-06-27,National Cricket Stadium,South Africa,West Indies,South Africa,167,No,Yes
+971,1263153,2021-06-29,National Cricket Stadium,South Africa,West Indies,South Africa,168,No,Yes
+972,1263154,2021-07-01,National Cricket Stadium,West Indies,South Africa,West Indies,168,No,Yes
+973,1263155,2021-07-03,National Cricket Stadium,South Africa,West Indies,South Africa,169,No,Yes
+974,1263156,2021-07-09,Darren Sammy National Cricket Stadium,West Indies,Australia,West Indies,146,No,Yes
+975,1263157,2021-07-10,Darren Sammy National Cricket Stadium,West Indies,Australia,West Indies,197,No,Yes
+976,1263158,2021-07-12,Darren Sammy National Cricket Stadium,Australia,West Indies,West Indies,142,Yes,No
+977,1263159,2021-07-14,Darren Sammy National Cricket Stadium,Australia,West Indies,Australia,190,No,Yes
+978,1263160,2021-07-16,Darren Sammy National Cricket Stadium,West Indies,Australia,West Indies,200,No,Yes
+979,1263165,2021-07-31,Providence Stadium,Pakistan,West Indies,Pakistan,158,No,Yes
+980,1263471,2022-02-11,Sydney Cricket Ground,Australia,Sri Lanka,Australia,143,No,Yes
+981,1263473,2022-02-15,Manuka Oval,Sri Lanka,Australia,Australia,122,Yes,No
+982,1263474,2022-02-18,Melbourne Cricket Ground,Sri Lanka,Australia,Australia,140,Yes,No
+983,1263475,2022-02-20,Melbourne Cricket Ground,Australia,Sri Lanka,Sri Lanka,155,Yes,No
+984,1263708,2021-05-21,Scott Page Field,Luxembourg,Czech Republic,Czech Republic,127,Yes,No
+985,1263710,2021-05-22,Scott Page Field,Austria,Czech Republic,Austria,163,No,Yes
+986,1263711,2021-05-22,Scott Page Field,Czech Republic,Luxembourg,Luxembourg,162,Yes,No
+987,1263712,2021-05-23,Scott Page Field,Austria,Luxembourg,Luxembourg,180,Yes,No
+988,1263713,2021-05-23,Scott Page Field,Czech Republic,Austria,Austria,159,Yes,No
+989,1267304,2021-06-24,National Sports Academy,Greece,Romania,Romania,158,Yes,No
+990,1267306,2021-06-25,National Sports Academy,Serbia,Greece,Greece,145,Yes,No
+991,1267307,2021-06-25,National Sports Academy,Bulgaria,Romania,Romania,158,Yes,No
+992,1267308,2021-06-25,National Sports Academy,Romania,Serbia,Romania,192,No,Yes
+993,1267310,2021-06-26,National Sports Academy,Serbia,Romania,Romania,116,Yes,No
+994,1267680,2021-07-22,Harare Sports Club,Zimbabwe,Bangladesh,Bangladesh,153,Yes,No
+995,1267681,2021-07-23,Harare Sports Club,Zimbabwe,Bangladesh,Zimbabwe,167,No,Yes
+996,1267682,2021-07-25,Harare Sports Club,Zimbabwe,Bangladesh,Bangladesh,194,Yes,No
+997,1268188,2021-07-08,Marsa Sports Club,Belgium,Malta,Malta,100,Yes,No
+998,1268189,2021-07-08,Marsa Sports Club,Malta,Belgium,Belgium,51,Yes,No
+999,1268190,2021-07-09,Marsa Sports Club,Malta,Belgium,Belgium,115,Yes,No
+1000,1268191,2021-07-10,Marsa Sports Club,Belgium,Malta,Malta,129,Yes,No
+1001,1268192,2021-07-10,Marsa Sports Club,Belgium,Malta,Belgium,173,No,Yes
+1002,1270834,2021-08-03,Shere Bangla National Stadium,Bangladesh,Australia,Bangladesh,132,No,Yes
+1003,1270835,2021-08-04,Shere Bangla National Stadium,Australia,Bangladesh,Bangladesh,122,Yes,No
+1004,1270836,2021-08-06,Shere Bangla National Stadium,Bangladesh,Australia,Bangladesh,128,No,Yes
+1005,1270837,2021-08-07,Shere Bangla National Stadium,Bangladesh,Australia,Australia,105,Yes,No
+1006,1270838,2021-08-09,Shere Bangla National Stadium,Bangladesh,Australia,Bangladesh,123,No,Yes
+1007,1271445,2021-08-05,Bayer Uerdingen Cricket Ground,Norway,Germany,Germany,77,Yes,No
+1008,1271446,2021-08-05,Bayer Uerdingen Cricket Ground,Norway,France,France,113,Yes,No
+1009,1271447,2021-08-06,Bayer Uerdingen Cricket Ground,France,Germany,Germany,94,Yes,No
+1010,1271448,2021-08-07,Bayer Uerdingen Cricket Ground,Germany,France,Germany,165,No,Yes
+1011,1271449,2021-08-07,Bayer Uerdingen Cricket Ground,Norway,France,Norway,132,No,Yes
+1012,1271450,2021-08-08,Bayer Uerdingen Cricket Ground,Norway,Germany,Norway,186,No,Yes
+1013,1271451,2021-08-08,Bayer Uerdingen Cricket Ground,Norway,Germany,Germany,94,Yes,No
+1014,1271630,2021-09-10,R Premadasa Stadium,South Africa,Sri Lanka,South Africa,164,No,Yes
+1015,1271631,2021-09-12,R Premadasa Stadium,Sri Lanka,South Africa,South Africa,104,Yes,No
+1016,1271632,2021-09-14,R Premadasa Stadium,Sri Lanka,South Africa,South Africa,121,Yes,No
+1017,1272093,2021-09-01,Shere Bangla National Stadium,New Zealand,Bangladesh,Bangladesh,61,Yes,No
+1018,1272094,2021-09-03,Shere Bangla National Stadium,Bangladesh,New Zealand,Bangladesh,142,No,Yes
+1019,1272095,2021-09-05,Shere Bangla National Stadium,New Zealand,Bangladesh,New Zealand,129,No,Yes
+1020,1272096,2021-09-08,Shere Bangla National Stadium,New Zealand,Bangladesh,Bangladesh,94,Yes,No
+1021,1272097,2021-09-10,Shere Bangla National Stadium,New Zealand,Bangladesh,New Zealand,162,No,Yes
+1022,1272373,2021-08-27,Castle Avenue,Zimbabwe,Ireland,Zimbabwe,118,No,Yes
+1023,1272374,2021-08-29,Castle Avenue,Zimbabwe,Ireland,Ireland,153,Yes,No
+1024,1272375,2021-09-01,Bready Cricket Club,Ireland,Zimbabwe,Ireland,179,No,Yes
+1025,1272376,2021-09-02,Bready Cricket Club,Ireland,Zimbabwe,Ireland,175,No,Yes
+1026,1272377,2021-09-04,Bready Cricket Club,Zimbabwe,Ireland,Zimbabwe,125,No,Yes
+1027,1273133,2021-08-14,Svanholm Park,Denmark,Sweden,Sweden,136,Yes,No
+1028,1273134,2021-08-15,Svanholm Park,Sweden,Denmark,Denmark,123,Yes,No
+1029,1273136,2021-08-20,Gucherre Cricket Ground,Gibraltar,Malta,Malta,149,Yes,No
+1030,1273137,2021-08-21,Gucherre Cricket Ground,Portugal,Gibraltar,Portugal,218,No,Yes
+1031,1273138,2021-08-21,Gucherre Cricket Ground,Malta,Gibraltar,Malta,198,No,Yes
+1032,1273139,2021-08-22,Gucherre Cricket Ground,Portugal,Gibraltar,Portugal,219,No,Yes
+1033,1273141,2021-08-18,Gahanga International Cricket Stadium. Rwanda,Ghana,Rwanda,Rwanda,165,Yes,No
+1034,1273143,2021-08-20,Gahanga International Cricket Stadium. Rwanda,Rwanda,Ghana,Rwanda,137,No,Yes
+1035,1273144,2021-08-20,Gahanga International Cricket Stadium. Rwanda,Ghana,Rwanda,Ghana,167,No,Yes
+1036,1273145,2021-08-21,Gahanga International Cricket Stadium. Rwanda,Rwanda,Ghana,Ghana,148,Yes,No
+1037,1273146,2021-08-21,Kerava National Cricket Ground,Sweden,Finland,Finland,136,Yes,No
+1038,1273147,2021-08-21,Kerava National Cricket Ground,Sweden,Finland,Finland,142,Yes,No
+1039,1273148,2021-08-22,Kerava National Cricket Ground,Finland,Sweden,Sweden,110,Yes,No
+1040,1273149,2021-08-22,Kerava National Cricket Ground,Finland,Sweden,Sweden,146,Yes,No
+1041,1273271,2021-09-15,Grange Cricket Club Ground,Scotland,Zimbabwe,Scotland,142,No,Yes
+1042,1273272,2021-09-17,Grange Cricket Club Ground,Zimbabwe,Scotland,Zimbabwe,137,No,Yes
+1043,1273273,2021-09-19,Grange Cricket Club Ground,Scotland,Zimbabwe,Zimbabwe,178,Yes,No
+1044,1273712,2021-10-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,Oman,Oman,130,Yes,No
+1045,1273713,2021-10-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,Bangladesh,Scotland,141,No,Yes
+1046,1273714,2021-10-18,Zayed Cricket Stadium,Netherlands,Ireland,Ireland,107,Yes,No
+1047,1273715,2021-10-18,Zayed Cricket Stadium,Namibia,Sri Lanka,Sri Lanka,97,Yes,No
+1048,1273716,2021-10-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,Papua New Guinea,Scotland,166,No,Yes
+1049,1273717,2021-10-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bangladesh,Oman,Bangladesh,154,No,Yes
+1050,1273718,2021-10-20,Zayed Cricket Stadium,Netherlands,Namibia,Namibia,165,Yes,No
+1051,1273719,2021-10-20,Zayed Cricket Stadium,Sri Lanka,Ireland,Sri Lanka,172,No,Yes
+1052,1273720,2021-10-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bangladesh,Papua New Guinea,Bangladesh,182,No,Yes
+1053,1273721,2021-10-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Scotland,Scotland,123,Yes,No
+1054,1273722,2021-10-22,Sharjah Cricket Stadium,Ireland,Namibia,Namibia,126,Yes,No
+1055,1273723,2021-10-22,Sharjah Cricket Stadium,Netherlands,Sri Lanka,Sri Lanka,45,Yes,No
+1056,1273724,2021-10-23,Zayed Cricket Stadium,South Africa,Australia,Australia,119,Yes,No
+1057,1273725,2021-10-23,Dubai International Cricket Stadium,West Indies,England,England,56,Yes,No
+1058,1273726,2021-10-24,Sharjah Cricket Stadium,Bangladesh,Sri Lanka,Sri Lanka,172,Yes,No
+1059,1273727,2021-10-24,Dubai International Cricket Stadium,India,Pakistan,Pakistan,152,Yes,No
+1060,1273728,2021-10-25,Sharjah Cricket Stadium,Afghanistan,Scotland,Afghanistan,191,No,Yes
+1061,1273729,2021-10-26,Dubai International Cricket Stadium,West Indies,South Africa,South Africa,144,Yes,No
+1062,1273730,2021-10-26,Sharjah Cricket Stadium,New Zealand,Pakistan,Pakistan,135,Yes,No
+1063,1273731,2021-10-27,Zayed Cricket Stadium,Bangladesh,England,England,125,Yes,No
+1064,1273732,2021-10-27,Zayed Cricket Stadium,Scotland,Namibia,Namibia,110,Yes,No
+1065,1273733,2021-10-28,Dubai International Cricket Stadium,Sri Lanka,Australia,Australia,155,Yes,No
+1066,1273734,2021-10-29,Sharjah Cricket Stadium,West Indies,Bangladesh,West Indies,143,No,Yes
+1067,1273735,2021-10-29,Dubai International Cricket Stadium,Afghanistan,Pakistan,Pakistan,148,Yes,No
+1068,1273736,2021-10-30,Sharjah Cricket Stadium,Sri Lanka,South Africa,South Africa,143,Yes,No
+1069,1273737,2021-10-30,Dubai International Cricket Stadium,Australia,England,England,126,Yes,No
+1070,1273738,2021-10-31,Zayed Cricket Stadium,Afghanistan,Namibia,Afghanistan,161,No,Yes
+1071,1273739,2021-10-31,Dubai International Cricket Stadium,India,New Zealand,New Zealand,111,Yes,No
+1072,1273740,2021-11-01,Sharjah Cricket Stadium,England,Sri Lanka,England,164,No,Yes
+1073,1273741,2021-11-02,Zayed Cricket Stadium,Bangladesh,South Africa,South Africa,85,Yes,No
+1074,1273742,2021-11-02,Zayed Cricket Stadium,Pakistan,Namibia,Pakistan,190,No,Yes
+1075,1273743,2021-11-03,Dubai International Cricket Stadium,New Zealand,Scotland,New Zealand,173,No,Yes
+1076,1273744,2021-11-03,Zayed Cricket Stadium,India,Afghanistan,India,211,No,Yes
+1077,1273745,2021-11-04,Dubai International Cricket Stadium,Bangladesh,Australia,Australia,74,Yes,No
+1078,1273746,2021-11-04,Zayed Cricket Stadium,Sri Lanka,West Indies,Sri Lanka,190,No,Yes
+1079,1273747,2021-11-05,Sharjah Cricket Stadium,New Zealand,Namibia,New Zealand,164,No,Yes
+1080,1273748,2021-11-05,Dubai International Cricket Stadium,Scotland,India,India,86,Yes,No
+1081,1273749,2021-11-06,Zayed Cricket Stadium,West Indies,Australia,Australia,158,Yes,No
+1082,1273750,2021-11-06,Sharjah Cricket Stadium,South Africa,England,South Africa,190,No,Yes
+1083,1273751,2021-11-07,Zayed Cricket Stadium,Afghanistan,New Zealand,New Zealand,125,Yes,No
+1084,1273752,2021-11-07,Sharjah Cricket Stadium,Pakistan,Scotland,Pakistan,190,No,Yes
+1085,1273753,2021-11-08,Dubai International Cricket Stadium,Namibia,India,India,133,Yes,No
+1086,1273754,2021-11-10,Zayed Cricket Stadium,England,New Zealand,New Zealand,167,Yes,No
+1087,1273755,2021-11-11,Dubai International Cricket Stadium,Pakistan,Australia,Australia,177,Yes,No
+1088,1273756,2021-11-14,Dubai International Cricket Stadium,New Zealand,Australia,Australia,173,Yes,No
+1089,1275039,2021-09-11,Entebbe Cricket Oval,Nigeria,Kenya,Kenya,108,Yes,No
+1090,1275040,2021-09-11,Entebbe Cricket Oval,Uganda,Nigeria,Uganda,153,No,Yes
+1091,1275042,2021-09-13,Entebbe Cricket Oval,Kenya,Nigeria,Kenya,163,No,Yes
+1092,1275043,2021-09-13,Entebbe Cricket Oval,Nigeria,Uganda,Uganda,124,Yes,No
+1093,1275044,2021-09-10,Entebbe Cricket Oval,Kenya,Uganda,Kenya,152,No,Yes
+1094,1275045,2021-09-16,Entebbe Cricket Oval,Nigeria,Kenya,Nigeria,112,No,Yes
+1095,1275047,2021-09-15,Entebbe Cricket Oval,Uganda,Nigeria,Uganda,173,No,Yes
+1096,1275051,2021-09-17,Entebbe Cricket Oval,Uganda,Kenya,Uganda,121,No,Yes
+1097,1275052,2021-09-10,Desert Springs Cricket Ground,Spain,Germany,Germany,129,Yes,No
+1098,1275053,2021-09-11,Desert Springs Cricket Ground,Germany,Spain,Spain,116,Yes,No
+1099,1275054,2021-09-11,Desert Springs Cricket Ground,Germany,Spain,Spain,120,Yes,No
+1100,1275268,2021-09-03,Moara Vlasiei Cricket Ground,Romania,Czech Republic,Romania,212,No,Yes
+1101,1275269,2021-09-02,Moara Vlasiei Cricket Ground,Luxembourg,Bulgaria,Luxembourg,188,No,Yes
+1102,1275270,2021-09-02,Moara Vlasiei Cricket Ground,Hungary,Czech Republic,Hungary,166,No,Yes
+1103,1275271,2021-09-03,Moara Vlasiei Cricket Ground,Bulgaria,Malta,Malta,113,Yes,No
+1104,1275272,2021-09-03,Moara Vlasiei Cricket Ground,Romania,Hungary,Romania,196,No,Yes
+1105,1275274,2021-09-04,Moara Vlasiei Cricket Ground,Luxembourg,Hungary,Luxembourg,180,No,Yes
+1106,1275275,2021-09-04,Moara Vlasiei Cricket Ground,Romania,Malta,Romania,203,No,Yes
+1107,1275276,2021-09-05,Moara Vlasiei Cricket Ground,Malta,Hungary,Hungary,171,Yes,No
+1108,1275277,2021-09-05,Moara Vlasiei Cricket Ground,Romania,Luxembourg,Romania,157,No,Yes
+1109,1276904,2022-07-07,The Rose Bowl,India,England,India,199,No,Yes
+1110,1276905,2022-07-09,Edgbaston,India,England,India,171,No,Yes
+1111,1276906,2022-07-10,Trent Bridge,England,India,England,216,No,Yes
+1112,1276913,2022-07-27,County Ground,England,South Africa,England,235,No,Yes
+1113,1276914,2022-07-28,Sophia Gardens,South Africa,England,South Africa,208,No,Yes
+1114,1276915,2022-07-31,The Rose Bowl,South Africa,England,South Africa,192,No,Yes
+1115,1277974,2021-11-19,Shere Bangla National Stadium,Bangladesh,Pakistan,Pakistan,128,Yes,No
+1116,1277975,2021-11-20,Shere Bangla National Stadium,Bangladesh,Pakistan,Pakistan,109,Yes,No
+1117,1277976,2021-11-22,Shere Bangla National Stadium,Bangladesh,Pakistan,Pakistan,125,Yes,No
+1118,1278671,2021-11-17,Sawai Mansingh Stadium,New Zealand,India,India,165,Yes,No
+1119,1278672,2021-11-19,JSCA International Stadium Complex,New Zealand,India,India,154,Yes,No
+1120,1278673,2021-11-21,Eden Gardens,India,New Zealand,India,185,No,Yes
+1121,1278679,2022-02-16,Eden Gardens,West Indies,India,India,158,Yes,No
+1122,1278680,2022-02-18,Eden Gardens,India,West Indies,India,187,No,Yes
+1123,1278681,2022-02-20,Eden Gardens,India,West Indies,India,185,No,Yes
+1124,1278684,2022-02-24,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,India,Sri Lanka,India,200,No,Yes
+1125,1278685,2022-02-26,Himachal Pradesh Cricket Association Stadium,Sri Lanka,India,India,184,Yes,No
+1126,1278686,2022-02-27,Himachal Pradesh Cricket Association Stadium,Sri Lanka,India,India,147,Yes,No
+1127,1278687,2022-06-09,Arun Jaitley Stadium,India,South Africa,South Africa,212,Yes,No
+1128,1278688,2022-06-12,Barabati Stadium,India,South Africa,South Africa,149,Yes,No
+1129,1278689,2022-06-14,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,South Africa,India,180,No,Yes
+1130,1278690,2022-06-17,Saurashtra Cricket Association Stadium,India,South Africa,India,170,No,Yes
+1131,1279379,2021-10-05,Happy Valley Ground,Estonia,Cyprus,Cyprus,103,Yes,No
+1132,1279380,2021-10-05,Happy Valley Ground,Estonia,Cyprus,Cyprus,131,Yes,No
+1133,1279381,2021-10-06,Happy Valley Ground,Cyprus,Isle of Man,Isle of Man,93,Yes,No
+1134,1279382,2021-10-06,Happy Valley Ground,Estonia,Isle of Man,Isle of Man,119,Yes,No
+1135,1279383,2021-10-07,Happy Valley Ground,Cyprus,Isle of Man,Isle of Man,150,Yes,No
+1136,1279385,2021-10-08,Happy Valley Ground,Cyprus,Estonia,Cyprus,161,No,Yes
+1137,1279386,2021-10-08,Happy Valley Ground,Estonia,Isle of Man,Isle of Man,72,Yes,No
+1138,1280057,2021-10-05,ICC Academy,Namibia,United Arab Emirates,Namibia,160,No,Yes
+1139,1280058,2021-10-09,ICC Academy,Scotland,Namibia,Namibia,138,Yes,No
+1140,1280059,2021-10-10,ICC Academy,Namibia,Papua New Guinea,Namibia,175,No,Yes
+1141,1280060,2021-10-07,ICC Academy,United Arab Emirates,Ireland,Ireland,124,Yes,No
+1142,1280061,2021-10-08,ICC Academy,United Arab Emirates,Ireland,United Arab Emirates,164,No,Yes
+1143,1280062,2021-10-10,ICC Academy,Ireland,United Arab Emirates,United Arab Emirates,135,Yes,No
+1144,1280063,2021-10-08,ICC Academy,Papua New Guinea,Scotland,Scotland,155,Yes,No
+1145,1282272,2021-10-21,Marsa Sports Club,Malta,Gibraltar,Malta,214,No,Yes
+1146,1282273,2021-10-22,Marsa Sports Club,Gibraltar,Switzerland,Switzerland,134,Yes,No
+1147,1282275,2021-10-22,Marsa Sports Club,Bulgaria,Switzerland,Switzerland,82,Yes,No
+1148,1282276,2021-10-23,Marsa Sports Club,Switzerland,Malta,Switzerland,151,No,Yes
+1149,1282278,2021-10-24,Marsa Sports Club,Gibraltar,Bulgaria,Bulgaria,178,Yes,No
+1150,1282279,2021-10-24,Marsa Sports Club,Malta,Switzerland,Malta,177,No,Yes
+1151,1282738,2021-10-15,Desert Springs Cricket Ground,Jersey,Germany,Jersey,138,No,Yes
+1152,1282739,2021-10-15,Desert Springs Cricket Ground,Denmark,Italy,Italy,101,Yes,No
+1153,1282740,2021-10-16,Desert Springs Cricket Ground,Denmark,Germany,Germany,111,Yes,No
+1154,1282741,2021-10-16,Desert Springs Cricket Ground,Jersey,Italy,Jersey,140,No,Yes
+1155,1282742,2021-10-17,Desert Springs Cricket Ground,Jersey,Denmark,Jersey,95,No,Yes
+1156,1282743,2021-10-17,Desert Springs Cricket Ground,Italy,Germany,Germany,104,Yes,No
+1157,1282744,2021-10-19,Desert Springs Cricket Ground,Italy,Denmark,Italy,142,No,Yes
+1158,1282745,2021-10-19,Desert Springs Cricket Ground,Germany,Jersey,Jersey,86,Yes,No
+1159,1282746,2021-10-20,Desert Springs Cricket Ground,Italy,Jersey,Jersey,101,Yes,No
+1160,1282747,2021-10-20,Desert Springs Cricket Ground,Germany,Denmark,Germany,120,No,Yes
+1161,1282748,2021-10-21,Desert Springs Cricket Ground,Italy,Germany,Italy,118,No,Yes
+1162,1282749,2021-10-21,Desert Springs Cricket Ground,Denmark,Jersey,Jersey,131,Yes,No
+1163,1283021,2021-10-16,Gahanga International Cricket Stadium. Rwanda,Rwanda,Ghana,Ghana,154,Yes,No
+1164,1283022,2021-10-16,Integrated Polytechnic Regional Centre,Swaziland,Lesotho,Swaziland,195,No,Yes
+1165,1283023,2021-10-16,Gahanga International Cricket Stadium. Rwanda,Seychelles,Ghana,Ghana,96,Yes,No
+1166,1283024,2021-10-16,Integrated Polytechnic Regional Centre,Malawi,Uganda,Uganda,99,Yes,No
+1167,1283025,2021-10-17,Gahanga International Cricket Stadium. Rwanda,Lesotho,Seychelles,Seychelles,132,Yes,No
+1168,1283026,2021-10-17,Integrated Polytechnic Regional Centre,Swaziland,Malawi,Malawi,98,Yes,No
+1169,1283027,2021-10-17,Gahanga International Cricket Stadium. Rwanda,Ghana,Lesotho,Ghana,240,No,Yes
+1170,1283028,2021-10-17,Integrated Polytechnic Regional Centre,Uganda,Rwanda,Uganda,170,No,Yes
+1171,1283029,2021-10-19,Gahanga International Cricket Stadium. Rwanda,Malawi,Ghana,Ghana,96,Yes,No
+1172,1283030,2021-10-19,Integrated Polytechnic Regional Centre,Lesotho,Uganda,Uganda,27,Yes,No
+1173,1283032,2021-10-19,Integrated Polytechnic Regional Centre,Swaziland,Uganda,Uganda,73,Yes,No
+1174,1283033,2021-10-20,Gahanga International Cricket Stadium. Rwanda,Malawi,Seychelles,Malawi,143,No,Yes
+1175,1283034,2021-10-20,Integrated Polytechnic Regional Centre,Swaziland,Ghana,Ghana,75,Yes,No
+1176,1283035,2021-10-20,Gahanga International Cricket Stadium. Rwanda,Swaziland,Seychelles,Seychelles,129,Yes,No
+1177,1283036,2021-10-20,Integrated Polytechnic Regional Centre,Rwanda,Lesotho,Rwanda,103,No,Yes
+1178,1283037,2021-10-21,Gahanga International Cricket Stadium. Rwanda,Uganda,Ghana,Uganda,177,No,Yes
+1179,1283038,2021-10-22,Gahanga International Cricket Stadium. Rwanda,Swaziland,Rwanda,Rwanda,78,Yes,No
+1180,1283039,2021-10-22,Integrated Polytechnic Regional Centre,Malawi,Lesotho,Malawi,124,No,Yes
+1181,1283040,2021-10-22,Gahanga International Cricket Stadium. Rwanda,Malawi,Rwanda,Malawi,140,No,Yes
+1182,1283041,2021-10-22,Integrated Polytechnic Regional Centre,Uganda,Seychelles,Uganda,165,No,Yes
+1183,1283042,2021-11-02,Gahanga International Cricket Stadium. Rwanda,Botswana,Sierra Leone,Botswana,158,No,Yes
+1184,1283043,2021-11-02,Gahanga International Cricket Stadium. Rwanda,Tanzania,Mozambique,Tanzania,243,No,Yes
+1185,1283044,2021-11-03,Gahanga International Cricket Stadium. Rwanda,Mozambique,Cameroon,Mozambique,210,No,Yes
+1186,1283045,2021-11-03,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,Tanzania,Tanzania,100,Yes,No
+1187,1283046,2021-11-05,Gahanga International Cricket Stadium. Rwanda,Cameroon,Botswana,Botswana,52,Yes,No
+1188,1283047,2021-11-05,Gahanga International Cricket Stadium. Rwanda,Mozambique,Sierra Leone,Sierra Leone,97,Yes,No
+1189,1283048,2021-11-06,Gahanga International Cricket Stadium. Rwanda,Botswana,Mozambique,Botswana,153,No,Yes
+1190,1283049,2021-11-06,Gahanga International Cricket Stadium. Rwanda,Tanzania,Cameroon,Tanzania,241,No,Yes
+1191,1283050,2021-11-07,Gahanga International Cricket Stadium. Rwanda,Cameroon,Sierra Leone,Sierra Leone,90,Yes,No
+1192,1283051,2021-11-07,Gahanga International Cricket Stadium. Rwanda,Tanzania,Botswana,Tanzania,144,No,Yes
+1193,1283089,2021-10-19,University of Lagos Cricket Oval,Nigeria,Sierra Leone,Sierra Leone,100,Yes,No
+1194,1283091,2021-10-21,University of Lagos Cricket Oval,Nigeria,Sierra Leone,Nigeria,125,No,Yes
+1195,1283092,2021-10-23,University of Lagos Cricket Oval,Sierra Leone,Nigeria,Nigeria,85,Yes,No
+1196,1283093,2021-10-24,University of Lagos Cricket Oval,Nigeria,Sierra Leone,Nigeria,91,No,Yes
+1197,1283094,2021-10-26,University of Lagos Cricket Oval,Nigeria,Sierra Leone,Nigeria,135,No,Yes
+1198,1284488,2021-10-23,West End Park International Cricket Stadium,Qatar,Bahrain,Bahrain,134,Yes,No
+1199,1284489,2021-10-23,West End Park International Cricket Stadium,Maldives,Saudi Arabia,Saudi Arabia,99,Yes,No
+1200,1284490,2021-10-24,West End Park International Cricket Stadium,Bahrain,Kuwait,Kuwait,125,Yes,No
+1201,1284491,2021-10-24,West End Park International Cricket Stadium,Qatar,Maldives,Qatar,155,No,Yes
+1202,1284493,2021-10-27,West End Park International Cricket Stadium,Maldives,Bahrain,Bahrain,89,Yes,No
+1203,1284495,2021-10-28,West End Park International Cricket Stadium,Maldives,Kuwait,Kuwait,104,Yes,No
+1204,1284496,2021-10-28,West End Park International Cricket Stadium,Bahrain,Saudi Arabia,Bahrain,180,No,Yes
+1205,1284497,2021-10-29,West End Park International Cricket Stadium,Kuwait,Qatar,Qatar,127,Yes,No
+1206,1286667,2021-11-07,Coolidge Cricket Ground,Belize,United States of America,United States of America,65,Yes,No
+1207,1286670,2021-11-08,Coolidge Cricket Ground,Canada,Belize,Canada,235,No,Yes
+1208,1286671,2021-11-08,Sir Vivian Richards Stadium,Bahamas,Argentina,Bahamas,122,No,Yes
+1209,1286672,2021-11-08,Coolidge Cricket Ground,Belize,Panama,Belize,144,No,Yes
+1210,1286673,2021-11-08,Sir Vivian Richards Stadium,United States of America,Bermuda,United States of America,173,No,Yes
+1211,1286675,2021-11-10,Sir Vivian Richards Stadium,Argentina,Belize,Argentina,172,No,Yes
+1212,1286677,2021-11-10,Coolidge Cricket Ground,Bermuda,Bahamas,Bermuda,240,No,Yes
+1213,1286679,2021-11-11,Sir Vivian Richards Stadium,Bahamas,Belize,Bahamas,151,No,Yes
+1214,1286681,2021-11-11,Sir Vivian Richards Stadium,Argentina,United States of America,United States of America,91,Yes,No
+1215,1286682,2021-11-13,Coolidge Cricket Ground,Bahamas,United States of America,United States of America,91,Yes,No
+1216,1286683,2021-11-13,Sir Vivian Richards Stadium,Belize,Bermuda,Bermuda,86,Yes,No
+1217,1286684,2021-11-13,Coolidge Cricket Ground,Panama,Bahamas,Panama,140,No,Yes
+1218,1286685,2021-11-13,Sir Vivian Richards Stadium,Argentina,Canada,Canada,110,Yes,No
+1219,1286686,2021-11-14,Coolidge Cricket Ground,Canada,Panama,Canada,246,No,Yes
+1220,1287773,2021-12-13,National Stadium,Pakistan,West Indies,Pakistan,201,No,Yes
+1221,1287774,2021-12-14,National Stadium,Pakistan,West Indies,Pakistan,173,No,Yes
+1222,1287775,2021-12-16,National Stadium,West Indies,Pakistan,Pakistan,208,Yes,No
+1223,1288316,2022-04-05,Gaddafi Stadium,Pakistan,Australia,Australia,163,Yes,No
+1224,1289042,2021-11-17,Gahanga International Cricket Stadium. Rwanda,Nigeria,Tanzania,Tanzania,115,Yes,No
+1225,1289043,2021-11-17,Integrated Polytechnic Regional Centre,Kenya,Uganda,Kenya,162,No,Yes
+1226,1289044,2021-11-17,Gahanga International Cricket Stadium. Rwanda,Uganda,Nigeria,Uganda,63,No,Yes
+1227,1289045,2021-11-17,Integrated Polytechnic Regional Centre,Tanzania,Kenya,Tanzania,188,No,Yes
+1228,1289046,2021-11-18,Gahanga International Cricket Stadium. Rwanda,Tanzania,Uganda,Uganda,141,Yes,No
+1229,1289047,2021-11-18,Integrated Polytechnic Regional Centre,Nigeria,Kenya,Kenya,131,Yes,No
+1230,1289048,2021-11-18,Gahanga International Cricket Stadium. Rwanda,Tanzania,Kenya,Kenya,102,Yes,No
+1231,1289049,2021-11-18,Integrated Polytechnic Regional Centre,Nigeria,Uganda,Uganda,113,Yes,No
+1232,1289050,2021-11-20,Gahanga International Cricket Stadium. Rwanda,Tanzania,Uganda,Uganda,69,Yes,No
+1233,1289051,2021-11-20,Integrated Polytechnic Regional Centre,Kenya,Nigeria,Kenya,169,No,Yes
+1234,1289052,2021-11-20,Gahanga International Cricket Stadium. Rwanda,Kenya,Uganda,Uganda,118,Yes,No
+1235,1289053,2021-11-20,Integrated Polytechnic Regional Centre,Tanzania,Nigeria,Tanzania,137,No,Yes
+1236,1291187,2021-12-22,Central Broward Regional Park Stadium Turf Ground,United States of America,Ireland,United States of America,189,No,Yes
+1237,1291188,2021-12-23,Central Broward Regional Park Stadium Turf Ground,Ireland,United States of America,Ireland,151,No,Yes
+1238,1298135,2022-10-16,GMHBA Stadium,Namibia,Sri Lanka,Namibia,164,No,Yes
+1239,1298136,2022-10-16,GMHBA Stadium,United Arab Emirates,Netherlands,Netherlands,112,Yes,No
+1240,1298137,2022-10-17,Bellerive Oval,Scotland,West Indies,Scotland,161,No,Yes
+1241,1298138,2022-10-17,Bellerive Oval,Zimbabwe,Ireland,Zimbabwe,175,No,Yes
+1242,1298139,2022-10-18,GMHBA Stadium,Namibia,Netherlands,Netherlands,122,Yes,No
+1243,1298140,2022-10-18,GMHBA Stadium,Sri Lanka,United Arab Emirates,Sri Lanka,153,No,Yes
+1244,1298141,2022-10-19,Bellerive Oval,Scotland,Ireland,Ireland,177,Yes,No
+1245,1298142,2022-10-19,Bellerive Oval,West Indies,Zimbabwe,West Indies,154,No,Yes
+1246,1298143,2022-10-20,GMHBA Stadium,Sri Lanka,Netherlands,Sri Lanka,163,No,Yes
+1247,1298144,2022-10-20,GMHBA Stadium,United Arab Emirates,Namibia,United Arab Emirates,149,No,Yes
+1248,1298145,2022-10-21,Bellerive Oval,West Indies,Ireland,Ireland,147,Yes,No
+1249,1298146,2022-10-21,Bellerive Oval,Scotland,Zimbabwe,Zimbabwe,133,Yes,No
+1250,1298147,2022-10-22,Sydney Cricket Ground,New Zealand,Australia,New Zealand,201,No,Yes
+1251,1298148,2022-10-22,Perth Stadium,Afghanistan,England,England,113,Yes,No
+1252,1298149,2022-10-23,Bellerive Oval,Ireland,Sri Lanka,Sri Lanka,129,Yes,No
+1253,1298150,2022-10-23,Melbourne Cricket Ground,Pakistan,India,India,160,Yes,No
+1254,1298151,2022-10-24,Bellerive Oval,Bangladesh,Netherlands,Bangladesh,145,No,Yes
+1255,1298153,2022-10-25,Perth Stadium,Sri Lanka,Australia,Australia,158,Yes,No
+1256,1298154,2022-10-26,Melbourne Cricket Ground,Ireland,England,Ireland,111,No,Yes
+1257,1298156,2022-10-27,Sydney Cricket Ground,South Africa,Bangladesh,South Africa,206,No,Yes
+1258,1298157,2022-10-27,Sydney Cricket Ground,India,Netherlands,India,180,No,Yes
+1259,1298158,2022-10-27,Perth Stadium,Zimbabwe,Pakistan,Zimbabwe,131,No,Yes
+1260,1298161,2022-10-29,Sydney Cricket Ground,New Zealand,Sri Lanka,New Zealand,168,No,Yes
+1261,1298162,2022-10-30,Brisbane Cricket Ground,Bangladesh,Zimbabwe,Bangladesh,151,No,Yes
+1262,1298163,2022-10-30,Perth Stadium,Netherlands,Pakistan,Pakistan,92,Yes,No
+1263,1298164,2022-10-30,Perth Stadium,India,South Africa,South Africa,134,Yes,No
+1264,1298165,2022-10-31,Brisbane Cricket Ground,Australia,Ireland,Australia,180,No,Yes
+1265,1298166,2022-11-01,Brisbane Cricket Ground,Afghanistan,Sri Lanka,Sri Lanka,145,Yes,No
+1266,1298167,2022-11-01,Brisbane Cricket Ground,England,New Zealand,England,180,No,Yes
+1267,1298168,2022-11-02,Adelaide Oval,Zimbabwe,Netherlands,Netherlands,118,Yes,No
+1268,1298169,2022-11-02,Adelaide Oval,India,Bangladesh,India,151,No,Yes
+1269,1298170,2022-11-03,Sydney Cricket Ground,Pakistan,South Africa,Pakistan,142,No,Yes
+1270,1298171,2022-11-04,Adelaide Oval,New Zealand,Ireland,New Zealand,186,No,Yes
+1271,1298172,2022-11-04,Adelaide Oval,Australia,Afghanistan,Australia,169,No,Yes
+1272,1298173,2022-11-05,Sydney Cricket Ground,Sri Lanka,England,England,142,Yes,No
+1273,1298174,2022-11-06,Adelaide Oval,Netherlands,South Africa,Netherlands,159,No,Yes
+1274,1298175,2022-11-06,Adelaide Oval,Bangladesh,Pakistan,Pakistan,128,Yes,No
+1275,1298176,2022-11-06,Melbourne Cricket Ground,India,Zimbabwe,India,187,No,Yes
+1276,1298177,2022-11-09,Sydney Cricket Ground,New Zealand,Pakistan,Pakistan,153,Yes,No
+1277,1298178,2022-11-10,Adelaide Oval,India,England,England,169,Yes,No
+1278,1298179,2022-11-13,Melbourne Cricket Ground,Pakistan,England,England,138,Yes,No
+1279,1299566,2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Oman,Nepal,118,No,Yes
+1280,1299567,2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Canada,Philippines,Canada,217,No,Yes
+1281,1299568,2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Ireland,United Arab Emirates,158,No,Yes
+1282,1299569,2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Germany,Bahrain,Bahrain,107,Yes,No
+1283,1299570,2022-02-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Oman,Oman,156,Yes,No
+1284,1299571,2022-02-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Nepal,Philippines,Nepal,219,No,Yes
+1285,1299572,2022-02-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Germany,United Arab Emirates,192,No,Yes
+1286,1299573,2022-02-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Ireland,Bahrain,Ireland,159,No,Yes
+1287,1299574,2022-02-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Germany,Ireland,Ireland,108,Yes,No
+1288,1299575,2022-02-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,United Arab Emirates,Bahrain,173,No,Yes
+1289,1299576,2022-02-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Nepal,Nepal,81,Yes,No
+1290,1299577,2022-02-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Philippines,Oman,Oman,37,Yes,No
+1291,1299578,2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Germany,Canada,Canada,132,Yes,No
+1292,1299579,2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Bahrain,Philippines,Bahrain,192,No,Yes
+1293,1299580,2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Nepal,United Arab Emirates,176,No,Yes
+1294,1299581,2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Ireland,Oman,Ireland,166,No,Yes
+1295,1299582,2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,Canada,Canada,132,Yes,No
+1296,1299583,2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Philippines,Germany,Germany,110,Yes,No
+1297,1299584,2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Nepal,Nepal,88,Yes,No
+1298,1299585,2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,United Arab Emirates,United Arab Emirates,160,Yes,No
+1299,1299592,2022-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Ireland,United Arab Emirates,179,No,Yes
+1300,1299593,2022-02-11,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Nepal,Nepal,136,Yes,No
+1301,1299594,2022-02-12,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Ireland,Ireland,138,Yes,No
+1302,1299595,2022-02-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Oman,Oman,165,Yes,No
+1303,1299596,2022-02-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Nepal,Ireland,128,No,Yes
+1304,1299638,2022-02-12,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Nepal,United Arab Emirates,193,No,Yes
+1305,1299832,2022-03-03,Shere Bangla National Stadium,Bangladesh,Afghanistan,Bangladesh,156,No,Yes
+1306,1299833,2022-03-05,Shere Bangla National Stadium,Bangladesh,Afghanistan,Afghanistan,116,Yes,No
+1307,1303307,2022-06-26,The Village,Ireland,India,India,109,Yes,No
+1308,1303308,2022-06-28,The Village,India,Ireland,India,226,No,Yes
+1309,1303312,2022-07-18,Civil Service Cricket Club,New Zealand,Ireland,New Zealand,174,No,Yes
+1310,1303313,2022-07-20,Civil Service Cricket Club,New Zealand,Ireland,New Zealand,180,No,Yes
+1311,1303314,2022-07-22,Civil Service Cricket Club,Ireland,New Zealand,New Zealand,175,Yes,No
+1312,1303315,2022-08-03,County Ground,South Africa,Ireland,South Africa,212,No,Yes
+1313,1303316,2022-08-05,County Ground,South Africa,Ireland,South Africa,183,No,Yes
+1314,1305498,2022-03-28,Tribhuvan University International Cricket Ground,Nepal,Papua New Guinea,Nepal,184,No,Yes
+1315,1305499,2022-03-29,Tribhuvan University International Cricket Ground,Malaysia,Papua New Guinea,Malaysia,181,No,Yes
+1316,1305500,2022-03-30,Tribhuvan University International Cricket Ground,Malaysia,Nepal,Nepal,115,Yes,No
+1317,1305501,2022-03-31,Tribhuvan University International Cricket Ground,Nepal,Papua New Guinea,Nepal,204,No,Yes
+1318,1305502,2022-04-01,Tribhuvan University International Cricket Ground,Malaysia,Papua New Guinea,Papua New Guinea,197,Yes,No
+1319,1305503,2022-04-02,Tribhuvan University International Cricket Ground,Nepal,Malaysia,Nepal,224,No,Yes
+1320,1305504,2022-04-04,Tribhuvan University International Cricket Ground,Nepal,Papua New Guinea,Nepal,169,No,Yes
+1321,1307159,2022-08-09,Civil Service Cricket Club,Afghanistan,Ireland,Ireland,169,Yes,No
+1322,1307160,2022-08-11,Civil Service Cricket Club,Afghanistan,Ireland,Ireland,123,Yes,No
+1323,1307161,2022-08-12,Civil Service Cricket Club,Afghanistan,Ireland,Afghanistan,190,No,Yes
+1324,1307162,2022-08-15,Civil Service Cricket Club,Afghanistan,Ireland,Afghanistan,133,No,Yes
+1325,1307163,2022-08-17,Civil Service Cricket Club,Afghanistan,Ireland,Ireland,56,Yes,No
+1326,1307293,2022-06-07,R Premadasa Stadium,Sri Lanka,Australia,Australia,129,Yes,No
+1327,1307294,2022-06-08,R Premadasa Stadium,Sri Lanka,Australia,Australia,125,Yes,No
+1328,1307295,2022-06-11,Pallekele International Cricket Stadium,Australia,Sri Lanka,Sri Lanka,177,Yes,No
+1329,1307477,2022-07-27,Grange Cricket Club Ground,New Zealand,Scotland,New Zealand,226,No,Yes
+1330,1307478,2022-07-29,Grange Cricket Club Ground,New Zealand,Scotland,New Zealand,255,No,Yes
+1331,1309701,2022-04-08,United Cricket Club Ground,Uganda,Namibia,Namibia,128,Yes,No
+1332,1309702,2022-04-09,United Cricket Club Ground,Namibia,Uganda,Uganda,178,Yes,No
+1333,1309703,2022-04-10,United Cricket Club Ground,Namibia,Uganda,Namibia,186,No,Yes
+1334,1310161,2022-04-29,Desert Springs Cricket Ground,Norway,Guernsey,Norway,138,No,Yes
+1335,1310162,2022-04-30,Desert Springs Cricket Ground,Spain,Norway,Spain,130,No,Yes
+1336,1310163,2022-04-30,Desert Springs Cricket Ground,Norway,Guernsey,Guernsey,121,Yes,No
+1337,1310164,2022-04-30,Desert Springs Cricket Ground,Guernsey,Spain,Spain,79,Yes,No
+1338,1310165,2022-05-01,Desert Springs Cricket Ground,Spain,Guernsey,Guernsey,108,Yes,No
+1339,1310166,2022-05-01,Desert Springs Cricket Ground,Spain,Norway,Spain,126,No,Yes
+1340,1310167,2022-05-07,Svanholm Park,Denmark,Finland,Finland,138,Yes,No
+1341,1310168,2022-05-07,Svanholm Park,Denmark,Finland,Denmark,172,No,Yes
+1342,1310169,2022-05-08,Svanholm Park,Denmark,Finland,Denmark,165,No,Yes
+1343,1310170,2022-05-10,Marsa Sports Club,Gibraltar,Malta,Malta,133,Yes,No
+1344,1310171,2022-05-10,Marsa Sports Club,Malta,Hungary,Malta,207,No,Yes
+1345,1310172,2022-05-10,Marsa Sports Club,Gibraltar,Hungary,Hungary,138,Yes,No
+1346,1310173,2022-05-11,Marsa Sports Club,Romania,Malta,Malta,166,Yes,No
+1347,1310174,2022-05-11,Marsa Sports Club,Czech Republic,Gibraltar,Czech Republic,185,No,Yes
+1348,1310175,2022-05-11,Marsa Sports Club,Hungary,Bulgaria,Hungary,159,No,Yes
+1349,1310176,2022-05-12,Marsa Sports Club,Malta,Czech Republic,Malta,165,No,Yes
+1350,1310177,2022-05-12,Marsa Sports Club,Czech Republic,Bulgaria,Czech Republic,259,No,Yes
+1351,1310178,2022-05-12,Marsa Sports Club,Romania,Hungary,Hungary,159,Yes,No
+1352,1310179,2022-05-13,Marsa Sports Club,Gibraltar,Bulgaria,Gibraltar,214,No,Yes
+1353,1310180,2022-05-13,Marsa Sports Club,Romania,Czech Republic,Romania,194,No,Yes
+1354,1310181,2022-05-13,Marsa Sports Club,Bulgaria,Romania,Romania,132,Yes,No
+1355,1310182,2022-05-14,Marsa Sports Club,Hungary,Czech Republic,Czech Republic,170,Yes,No
+1356,1310183,2022-05-14,Marsa Sports Club,Gibraltar,Romania,Romania,142,Yes,No
+1357,1310184,2022-05-14,Marsa Sports Club,Bulgaria,Malta,Malta,205,Yes,No
+1358,1310185,2022-05-15,Marsa Sports Club,Gibraltar,Bulgaria,Bulgaria,171,Yes,No
+1359,1310186,2022-05-15,Marsa Sports Club,Czech Republic,Hungary,Czech Republic,222,No,Yes
+1360,1310187,2022-05-15,Marsa Sports Club,Romania,Malta,Romania,172,No,Yes
+1361,1310188,2022-05-20,College Field,Jersey,Guernsey,Jersey,179,No,Yes
+1362,1310901,2022-08-04,Sportpark Westvliet,New Zealand,Netherlands,New Zealand,149,No,Yes
+1363,1310902,2022-08-05,Sportpark Westvliet,Netherlands,New Zealand,New Zealand,148,Yes,No
+1364,1310938,2022-05-17,Queens Sports Club,Zimbabwe,Namibia,Zimbabwe,154,No,Yes
+1365,1310939,2022-05-19,Queens Sports Club,Zimbabwe,Namibia,Namibia,123,Yes,No
+1366,1310940,2022-05-21,Queens Sports Club,Namibia,Zimbabwe,Zimbabwe,129,Yes,No
+1367,1310941,2022-05-22,Queens Sports Club,Zimbabwe,Namibia,Namibia,158,Yes,No
+1368,1310942,2022-05-24,Queens Sports Club,Namibia,Zimbabwe,Namibia,128,No,Yes
+1369,1310946,2022-06-11,Harare Sports Club,Zimbabwe,Afghanistan,Afghanistan,160,Yes,No
+1370,1310947,2022-06-12,Harare Sports Club,Afghanistan,Zimbabwe,Afghanistan,171,No,Yes
+1371,1310948,2022-06-14,Harare Sports Club,Afghanistan,Zimbabwe,Afghanistan,126,No,Yes
+1372,1317136,2022-06-24,National Sports Academy,Serbia,Bulgaria,Bulgaria,226,Yes,No
+1373,1317137,2022-06-25,National Sports Academy,Serbia,Bulgaria,Bulgaria,195,Yes,No
+1374,1317138,2022-06-25,National Sports Academy,Serbia,Bulgaria,Bulgaria,83,Yes,No
+1375,1317139,2022-06-26,National Sports Academy,Serbia,Bulgaria,Bulgaria,243,Yes,No
+1376,1317150,2022-07-03,Windsor Park,West Indies,Bangladesh,West Indies,194,No,Yes
+1377,1317151,2022-07-07,Providence Stadium,Bangladesh,West Indies,West Indies,164,Yes,No
+1378,1317482,2022-10-05,Carrara Oval,West Indies,Australia,Australia,146,Yes,No
+1379,1317483,2022-10-07,Brisbane Cricket Ground,Australia,West Indies,Australia,179,No,Yes
+1380,1317486,2022-10-09,Perth Stadium,England,Australia,England,209,No,Yes
+1381,1317487,2022-10-12,Manuka Oval,England,Australia,England,179,No,Yes
+1382,1317903,2022-07-29,Brian Lara Stadium,India,West Indies,India,191,No,Yes
+1383,1317904,2022-08-01,Warner Park,India,West Indies,West Indies,139,Yes,No
+1384,1317905,2022-08-02,Warner Park,West Indies,India,India,165,Yes,No
+1385,1317906,2022-08-06,Central Broward Regional Park Stadium Turf Ground,India,West Indies,India,192,No,Yes
+1386,1317907,2022-08-07,Central Broward Regional Park Stadium Turf Ground,India,West Indies,India,189,No,Yes
+1387,1317908,2022-08-10,Sabina Park,New Zealand,West Indies,New Zealand,186,No,Yes
+1388,1317909,2022-08-12,Sabina Park,New Zealand,West Indies,New Zealand,216,No,Yes
+1389,1317910,2022-08-14,Sabina Park,New Zealand,West Indies,West Indies,146,Yes,No
+1390,1318357,2022-06-09,Bayer Uerdingen Cricket Ground,Germany,Austria,Germany,136,No,Yes
+1391,1318358,2022-06-09,Bayer Uerdingen Cricket Ground,Sweden,Germany,Germany,94,Yes,No
+1392,1318359,2022-06-10,Bayer Uerdingen Cricket Ground,Austria,Germany,Austria,142,No,Yes
+1393,1318360,2022-06-10,Bayer Uerdingen Cricket Ground,Austria,Sweden,Austria,125,No,Yes
+1394,1318361,2022-06-11,Bayer Uerdingen Cricket Ground,Austria,Sweden,Austria,134,No,Yes
+1395,1318362,2022-06-11,Bayer Uerdingen Cricket Ground,Germany,Sweden,Germany,152,No,Yes
+1396,1320969,2022-06-28,Meersen,Gibraltar,Belgium,Belgium,140,Yes,No
+1397,1320973,2022-06-29,Meersen,Portugal,Malta,Portugal,155,No,Yes
+1398,1320974,2022-06-29,Royal Brussels Cricket Club Ground,Denmark,Gibraltar,Denmark,257,No,Yes
+1399,1320975,2022-06-29,Meersen,Israel,Spain,Spain,115,Yes,No
+1400,1320976,2022-06-29,Royal Brussels Cricket Club Ground,Hungary,Belgium,Belgium,121,Yes,No
+1401,1320977,2022-07-01,Meersen,Portugal,Spain,Spain,78,Yes,No
+1402,1320978,2022-07-01,Royal Brussels Cricket Club Ground,Hungary,Gibraltar,Gibraltar,135,Yes,No
+1403,1320979,2022-07-01,Meersen,Malta,Israel,Malta,137,No,Yes
+1404,1320980,2022-07-01,Royal Brussels Cricket Club Ground,Belgium,Denmark,Belgium,162,No,Yes
+1405,1320982,2022-07-02,Royal Brussels Cricket Club Ground,Belgium,Portugal,Portugal,114,Yes,No
+1406,1320984,2022-07-02,Royal Brussels Cricket Club Ground,Denmark,Spain,Denmark,155,No,Yes
+1407,1320985,2022-07-03,Royal Brussels Cricket Club Ground,Israel,Hungary,Israel,167,No,Yes
+1408,1320986,2022-07-04,Royal Brussels Cricket Club Ground,Spain,Belgium,Belgium,146,Yes,No
+1409,1320987,2022-07-03,Royal Brussels Cricket Club Ground,Gibraltar,Malta,Malta,191,Yes,No
+1410,1320988,2022-07-04,Royal Brussels Cricket Club Ground,Portugal,Denmark,Denmark,111,Yes,No
+1411,1321258,2022-07-12,Kerava National Cricket Ground,Cyprus,Isle of Man,Isle of Man,121,Yes,No
+1412,1321259,2022-07-12,Tikkurila Cricket Ground,Finland,Sweden,Finland,116,No,Yes
+1413,1321260,2022-07-12,Kerava National Cricket Ground,Romania,Turkey,Romania,148,No,Yes
+1414,1321261,2022-07-13,Tikkurila Cricket Ground,Cyprus,Romania,Cyprus,155,No,Yes
+1415,1321262,2022-07-13,Kerava National Cricket Ground,Croatia,Sweden,Sweden,70,Yes,No
+1416,1321263,2022-07-13,Tikkurila Cricket Ground,Isle of Man,Serbia,Isle of Man,166,No,Yes
+1417,1321264,2022-07-13,Kerava National Cricket Ground,Finland,Italy,Italy,142,Yes,No
+1418,1321265,2022-07-15,Tikkurila Cricket Ground,Italy,Sweden,Italy,170,No,Yes
+1419,1321266,2022-07-15,Kerava National Cricket Ground,Turkey,Serbia,Serbia,68,Yes,No
+1420,1321267,2022-07-15,Tikkurila Cricket Ground,Croatia,Greece,Croatia,105,No,Yes
+1421,1321268,2022-07-15,Kerava National Cricket Ground,Romania,Isle of Man,Isle of Man,121,Yes,No
+1422,1321269,2022-07-16,Tikkurila Cricket Ground,Romania,Serbia,Romania,134,No,Yes
+1423,1321270,2022-07-16,Kerava National Cricket Ground,Finland,Greece,Finland,184,No,Yes
+1424,1321271,2022-07-16,Tikkurila Cricket Ground,Cyprus,Turkey,Cyprus,184,No,Yes
+1425,1321272,2022-07-16,Kerava National Cricket Ground,Italy,Croatia,Italy,211,No,Yes
+1426,1321273,2022-07-18,Tikkurila Cricket Ground,Sweden,Greece,Sweden,151,No,Yes
+1427,1321274,2022-07-18,Kerava National Cricket Ground,Cyprus,Serbia,Serbia,126,Yes,No
+1428,1321275,2022-07-18,Tikkurila Cricket Ground,Croatia,Finland,Finland,86,Yes,No
+1429,1321276,2022-07-18,Kerava National Cricket Ground,Isle of Man,Turkey,Isle of Man,172,No,Yes
+1430,1321277,2022-07-19,Tikkurila Cricket Ground,Serbia,Croatia,Croatia,91,Yes,No
+1431,1321278,2022-07-19,Kerava National Cricket Ground,Finland,Cyprus,Finland,160,No,Yes
+1432,1321279,2022-07-19,Tikkurila Cricket Ground,Romania,Sweden,Sweden,105,Yes,No
+1433,1321280,2022-07-19,Kerava National Cricket Ground,Isle of Man,Italy,Italy,102,Yes,No
+1434,1321281,2022-07-24,Tikkurila Cricket Ground,Austria,Luxembourg,Austria,140,No,Yes
+1435,1321282,2022-07-24,Kerava National Cricket Ground,Estonia,Norway,Norway,102,Yes,No
+1436,1321283,2022-07-24,Tikkurila Cricket Ground,Guernsey,Bulgaria,Guernsey,131,No,Yes
+1437,1321284,2022-07-24,Kerava National Cricket Ground,France,Czech Republic,France,154,No,Yes
+1438,1321286,2022-07-25,Kerava National Cricket Ground,Austria,Slovenia,Austria,215,No,Yes
+1439,1321287,2022-07-25,Tikkurila Cricket Ground,France,Switzerland,Switzerland,158,Yes,No
+1440,1321288,2022-07-25,Kerava National Cricket Ground,Guernsey,Luxembourg,Guernsey,132,No,Yes
+1441,1321289,2022-07-27,Tikkurila Cricket Ground,Guernsey,Austria,Austria,140,Yes,No
+1442,1321290,2022-07-27,Kerava National Cricket Ground,Switzerland,Estonia,Switzerland,174,No,Yes
+1443,1321291,2022-07-27,Tikkurila Cricket Ground,Slovenia,Bulgaria,Bulgaria,141,Yes,No
+1444,1321292,2022-07-27,Kerava National Cricket Ground,France,Norway,France,159,No,Yes
+1445,1321293,2022-07-28,Tikkurila Cricket Ground,Norway,Switzerland,Norway,38,No,Yes
+1446,1321294,2022-07-28,Kerava National Cricket Ground,Luxembourg,Bulgaria,Luxembourg,95,No,Yes
+1447,1321295,2022-07-28,Tikkurila Cricket Ground,Czech Republic,Estonia,Czech Republic,136,No,Yes
+1448,1321296,2022-07-28,Kerava National Cricket Ground,Slovenia,Guernsey,Guernsey,56,Yes,No
+1449,1321298,2022-07-30,Kerava National Cricket Ground,Switzerland,Czech Republic,Czech Republic,184,Yes,No
+1450,1321299,2022-07-30,Tikkurila Cricket Ground,Luxembourg,Slovenia,Luxembourg,130,No,Yes
+1451,1321301,2022-07-31,Tikkurila Cricket Ground,Bulgaria,Czech Republic,Czech Republic,118,Yes,No
+1452,1321302,2022-07-31,Kerava National Cricket Ground,Guernsey,France,Guernsey,154,No,Yes
+1453,1321303,2022-07-31,Tikkurila Cricket Ground,Luxembourg,Switzerland,Luxembourg,116,No,Yes
+1454,1321304,2022-07-31,Kerava National Cricket Ground,Norway,Austria,Austria,77,Yes,No
+1455,1321305,2022-07-08,Scott Page Field,Luxembourg,Austria,Austria,120,Yes,No
+1456,1321306,2022-07-08,Scott Page Field,Luxembourg,Czech Republic,Czech Republic,113,Yes,No
+1457,1321307,2022-07-09,Scott Page Field,Czech Republic,Austria,Austria,183,Yes,No
+1458,1321308,2022-07-09,Scott Page Field,Austria,Luxembourg,Austria,120,No,Yes
+1459,1321309,2022-07-10,Scott Page Field,Czech Republic,Luxembourg,Czech Republic,210,No,Yes
+1460,1321310,2022-07-10,Scott Page Field,Austria,Czech Republic,Czech Republic,147,Yes,No
+1461,1321311,2022-06-28,Indian Association Ground,Malaysia,Singapore,Singapore,138,Yes,No
+1462,1321312,2022-06-29,Indian Association Ground,Malaysia,Singapore,Malaysia,178,No,Yes
+1463,1321313,2022-06-30,Indian Association Ground,Singapore,Malaysia,Malaysia,123,Yes,No
+1464,1321465,2022-07-11,Queens Sports Club,Zimbabwe,Singapore,Zimbabwe,237,No,Yes
+1465,1321466,2022-07-11,Bulawayo Athletic Club,Jersey,United States of America,United States of America,155,Yes,No
+1466,1321467,2022-07-11,Queens Sports Club,Netherlands,Papua New Guinea,Netherlands,164,No,Yes
+1467,1321468,2022-07-11,Bulawayo Athletic Club,Hong Kong,Uganda,Uganda,88,Yes,No
+1468,1321469,2022-07-12,Queens Sports Club,Zimbabwe,Jersey,Zimbabwe,147,No,Yes
+1469,1321470,2022-07-12,Bulawayo Athletic Club,United States of America,Singapore,United States of America,202,No,Yes
+1470,1321471,2022-07-12,Queens Sports Club,Hong Kong,Netherlands,Netherlands,117,Yes,No
+1471,1321472,2022-07-12,Bulawayo Athletic Club,Uganda,Papua New Guinea,Papua New Guinea,161,Yes,No
+1472,1321473,2022-07-14,Queens Sports Club,Netherlands,Uganda,Netherlands,188,No,Yes
+1473,1321474,2022-07-14,Bulawayo Athletic Club,Papua New Guinea,Hong Kong,Hong Kong,186,Yes,No
+1474,1321475,2022-07-14,Queens Sports Club,Zimbabwe,United States of America,Zimbabwe,186,No,Yes
+1475,1321477,2022-07-15,Queens Sports Club,Uganda,Jersey,Uganda,111,No,Yes
+1476,1321478,2022-07-15,Bulawayo Athletic Club,Singapore,Hong Kong,Hong Kong,147,Yes,No
+1477,1321479,2022-07-15,Queens Sports Club,Zimbabwe,Papua New Guinea,Zimbabwe,200,No,Yes
+1478,1321480,2022-07-15,Bulawayo Athletic Club,United States of America,Netherlands,Netherlands,139,Yes,No
+1479,1321481,2022-07-17,Queens Sports Club,Uganda,Hong Kong,Uganda,103,No,Yes
+1480,1321482,2022-07-17,Bulawayo Athletic Club,Singapore,Jersey,Jersey,141,Yes,No
+1481,1321483,2022-07-17,Bulawayo Athletic Club,Papua New Guinea,United States of America,Papua New Guinea,98,No,Yes
+1482,1321484,2022-07-17,Queens Sports Club,Zimbabwe,Netherlands,Zimbabwe,133,No,Yes
+1483,1321998,2022-07-02,UKM-YSD Cricket Oval,Malaysia,Bhutan,Malaysia,214,No,Yes
+1484,1322001,2022-07-04,UKM-YSD Cricket Oval,Thailand,Malaysia,Malaysia,31,Yes,No
+1485,1322002,2022-07-04,UKM-YSD Cricket Oval,Bhutan,Maldives,Bhutan,111,No,Yes
+1486,1322003,2022-07-06,UKM-YSD Cricket Oval,Thailand,Bhutan,Bhutan,50,Yes,No
+1487,1322004,2022-07-06,UKM-YSD Cricket Oval,Maldives,Malaysia,Malaysia,58,Yes,No
+1488,1322005,2022-07-07,UKM-YSD Cricket Oval,Bhutan,Maldives,Bhutan,111,No,Yes
+1489,1322006,2022-07-07,UKM-YSD Cricket Oval,Thailand,Malaysia,Malaysia,74,Yes,No
+1490,1322007,2022-07-08,UKM-YSD Cricket Oval,Maldives,Thailand,Maldives,98,No,Yes
+1491,1322009,2022-07-09,UKM-YSD Cricket Oval,Bhutan,Thailand,Bhutan,136,No,Yes
+1492,1322010,2022-07-11,UKM-YSD Cricket Oval,Bhutan,Malaysia,Malaysia,83,Yes,No
+1493,1322011,2022-07-02,Indian Association Ground,Singapore,Papua New Guinea,Singapore,169,No,Yes
+1494,1322012,2022-07-03,Indian Association Ground,Singapore,Papua New Guinea,Papua New Guinea,204,Yes,No
+1495,1322276,2022-11-20,Bay Oval,India,New Zealand,India,192,No,Yes
+1496,1322334,2022-10-07,Hagley Oval,Pakistan,Bangladesh,Pakistan,168,No,Yes
+1497,1322335,2022-10-08,Hagley Oval,New Zealand,Pakistan,Pakistan,148,Yes,No
+1498,1322336,2022-10-09,Hagley Oval,Bangladesh,New Zealand,New Zealand,138,Yes,No
+1499,1322337,2022-10-11,Hagley Oval,Pakistan,New Zealand,New Zealand,131,Yes,No
+1500,1322338,2022-10-12,Hagley Oval,New Zealand,Bangladesh,New Zealand,209,No,Yes
+1501,1322339,2022-10-13,Hagley Oval,Bangladesh,Pakistan,Pakistan,174,Yes,No
+1502,1322340,2022-10-14,Hagley Oval,New Zealand,Pakistan,Pakistan,164,Yes,No
+1503,1322363,2023-04-05,University Oval,Sri Lanka,New Zealand,New Zealand,142,Yes,No
+1504,1322364,2023-04-08,John Davies Oval,Sri Lanka,New Zealand,New Zealand,183,Yes,No
+1505,1323295,2022-07-30,Harare Sports Club,Zimbabwe,Bangladesh,Zimbabwe,206,No,Yes
+1506,1323296,2022-07-31,Harare Sports Club,Zimbabwe,Bangladesh,Bangladesh,136,Yes,No
+1507,1323297,2022-08-02,Harare Sports Club,Zimbabwe,Bangladesh,Zimbabwe,157,No,Yes
+1508,1323550,2022-07-08,Lisicji Jarak Cricket Ground,Bulgaria,Serbia,Serbia,153,Yes,No
+1509,1323551,2022-07-09,Lisicji Jarak Cricket Ground,Bulgaria,Serbia,Serbia,155,Yes,No
+1510,1323552,2022-07-09,Lisicji Jarak Cricket Ground,Bulgaria,Serbia,Bulgaria,207,No,Yes
+1511,1327228,2022-09-20,National Stadium,Pakistan,England,England,159,Yes,No
+1512,1327229,2022-09-22,National Stadium,England,Pakistan,Pakistan,200,Yes,No
+1513,1327230,2022-09-23,National Stadium,England,Pakistan,England,222,No,Yes
+1514,1327231,2022-09-25,National Stadium,Pakistan,England,Pakistan,167,No,Yes
+1515,1327232,2022-09-28,Gaddafi Stadium,Pakistan,England,Pakistan,146,No,Yes
+1516,1327233,2022-09-30,Gaddafi Stadium,Pakistan,England,England,170,Yes,No
+1517,1327234,2022-10-02,Gaddafi Stadium,England,Pakistan,England,210,No,Yes
+1518,1327269,2022-08-27,Dubai International Cricket Stadium,Sri Lanka,Afghanistan,Afghanistan,106,Yes,No
+1519,1327270,2022-08-28,Dubai International Cricket Stadium,Pakistan,India,India,148,Yes,No
+1520,1327271,2022-08-30,Sharjah Cricket Stadium,Bangladesh,Afghanistan,Afghanistan,128,Yes,No
+1521,1327272,2022-08-31,Dubai International Cricket Stadium,India,Hong Kong,India,193,No,Yes
+1522,1327273,2022-09-01,Dubai International Cricket Stadium,Bangladesh,Sri Lanka,Sri Lanka,184,Yes,No
+1523,1327274,2022-09-02,Sharjah Cricket Stadium,Pakistan,Hong Kong,Pakistan,194,No,Yes
+1524,1327275,2022-09-03,Sharjah Cricket Stadium,Afghanistan,Sri Lanka,Sri Lanka,176,Yes,No
+1525,1327276,2022-09-04,Dubai International Cricket Stadium,India,Pakistan,Pakistan,182,Yes,No
+1526,1327277,2022-09-06,Dubai International Cricket Stadium,India,Sri Lanka,Sri Lanka,174,Yes,No
+1527,1327278,2022-09-07,Sharjah Cricket Stadium,Afghanistan,Pakistan,Pakistan,130,Yes,No
+1528,1327279,2022-09-08,Dubai International Cricket Stadium,India,Afghanistan,India,213,No,Yes
+1529,1327280,2022-09-09,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Sri Lanka,122,Yes,No
+1530,1327281,2022-09-11,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,171,No,Yes
+1531,1327503,2022-09-20,Punjab Cricket Association IS Bindra Stadium,India,Australia,Australia,209,Yes,No
+1532,1327504,2022-09-23,Vidarbha Cricket Association Stadium,Australia,India,India,91,Yes,No
+1533,1327505,2022-09-25,Rajiv Gandhi International Stadium,Australia,India,India,187,Yes,No
+1534,1327506,2022-09-28,Greenfield International Stadium,South Africa,India,India,107,Yes,No
+1535,1327507,2022-10-02,Barsapara Cricket Stadium,India,South Africa,India,238,No,Yes
+1536,1327508,2022-10-04,Holkar Cricket Stadium,South Africa,India,South Africa,228,No,Yes
+1537,1328470,2022-08-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,Bahrain,Kuwait,210,No,Yes
+1538,1328471,2022-08-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,Kuwait,Kuwait,154,Yes,No
+1539,1328473,2022-08-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,Bahrain,Kuwait,187,No,Yes
+1540,1328474,2022-08-25,Gymkhana Club Ground,Kenya,Nepal,Nepal,131,Yes,No
+1541,1328476,2022-08-28,Gymkhana Club Ground,Kenya,Nepal,Nepal,157,Yes,No
+1542,1328477,2022-08-29,Gymkhana Club Ground,Kenya,Nepal,Kenya,102,No,Yes
+1543,1328478,2022-08-30,Gymkhana Club Ground,Nepal,Kenya,Nepal,176,No,Yes
+1544,1328849,2022-08-20,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Hong Kong,Singapore,Hong Kong,149,No,Yes
+1545,1328850,2022-08-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Kuwait,Kuwait,174,Yes,No
+1546,1328851,2022-08-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Singapore,United Arab Emirates,161,No,Yes
+1547,1328852,2022-08-23,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Kuwait,Hong Kong,Hong Kong,152,Yes,No
+1548,1328853,2022-08-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Singapore,Kuwait,Kuwait,105,Yes,No
+1549,1328854,2022-08-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Hong Kong,Hong Kong,148,Yes,No
+1550,1332496,2022-09-15,Willowmoore Park,Botswana,Uganda,Uganda,104,Yes,No
+1551,1332497,2022-09-17,Willowmoore Park,Kenya,Tanzania,Tanzania,156,Yes,No
+1552,1332498,2022-09-16,Willowmoore Park,Ghana,Mozambique,Ghana,155,No,Yes
+1553,1332501,2022-09-20,Willowmoore Park,Ghana,Uganda,Uganda,134,Yes,No
+1554,1332503,2022-09-18,Willowmoore Park,Uganda,Mozambique,Uganda,163,No,Yes
+1555,1332504,2022-09-19,Willowmoore Park,Botswana,Mozambique,Botswana,186,No,Yes
+1556,1332505,2022-09-20,Willowmoore Park,Tanzania,Malawi,Tanzania,171,No,Yes
+1557,1332506,2022-09-19,Willowmoore Park,Cameroon,Kenya,Kenya,49,Yes,No
+1558,1332507,2022-09-18,Willowmoore Park,Botswana,Ghana,Botswana,147,No,Yes
+1559,1332508,2022-09-21,Willowmoore Park,Kenya,Uganda,Uganda,107,Yes,No
+1560,1332509,2022-09-21,Willowmoore Park,Botswana,Tanzania,Tanzania,147,Yes,No
+1561,1332510,2022-09-22,Willowmoore Park,Tanzania,Uganda,Uganda,175,Yes,No
+1562,1333920,2022-09-10,Independence Park,Cook Islands,Fiji,Fiji,143,Yes,No
+1563,1333921,2022-09-10,Independence Park,Samoa,Vanuatu,Vanuatu,123,Yes,No
+1564,1333922,2022-09-11,Independence Park,Vanuatu,Cook Islands,Cook Islands,128,Yes,No
+1565,1333923,2022-09-11,Independence Park,Samoa,Fiji,Fiji,143,Yes,No
+1566,1333924,2022-09-13,Independence Park,Samoa,Cook Islands,Cook Islands,158,Yes,No
+1567,1333925,2022-09-13,Independence Park,Vanuatu,Fiji,Vanuatu,168,No,Yes
+1568,1333926,2022-09-14,Independence Park,Samoa,Vanuatu,Vanuatu,121,Yes,No
+1569,1333927,2022-09-14,Independence Park,Fiji,Cook Islands,Cook Islands,148,Yes,No
+1570,1333928,2022-09-15,Independence Park,Fiji,Samoa,Fiji,148,No,Yes
+1571,1333929,2022-09-15,Independence Park,Vanuatu,Cook Islands,Vanuatu,174,No,Yes
+1572,1333931,2022-10-10,Sano International Cricket Ground,Japan,Indonesia,Japan,180,No,Yes
+1573,1333932,2022-10-11,Sano International Cricket Ground,Japan,Indonesia,Indonesia,80,Yes,No
+1574,1336031,2022-09-25,Dubai International Cricket Stadium,Bangladesh,United Arab Emirates,Bangladesh,159,No,Yes
+1575,1336032,2022-09-27,Dubai International Cricket Stadium,Bangladesh,United Arab Emirates,Bangladesh,170,No,Yes
+1576,1336951,2022-10-15,Sano International Cricket Ground,Indonesia,South Korea,Indonesia,131,No,Yes
+1577,1336952,2022-10-15,Sano International Cricket Ground,Japan,South Korea,Japan,219,No,Yes
+1578,1336953,2022-10-16,Sano International Cricket Ground,Indonesia,Japan,Japan,84,Yes,No
+1579,1336955,2022-10-18,Sano International Cricket Ground,Japan,Indonesia,Indonesia,104,Yes,No
+1580,1336956,2022-10-18,Sano International Cricket Ground,South Korea,Indonesia,Indonesia,99,Yes,No
+1581,1339205,2022-11-04,Desert Springs Cricket Ground,Italy,Germany,Germany,108,Yes,No
+1582,1339206,2022-11-04,Desert Springs Cricket Ground,Italy,Germany,Germany,147,Yes,No
+1583,1339207,2022-11-05,Desert Springs Cricket Ground,Italy,Spain,Spain,162,Yes,No
+1584,1339208,2022-11-05,Desert Springs Cricket Ground,Germany,Spain,Germany,132,No,Yes
+1585,1339209,2022-11-06,Desert Springs Cricket Ground,Spain,Germany,Spain,133,No,Yes
+1586,1339210,2022-11-06,Desert Springs Cricket Ground,Italy,Spain,Italy,161,No,Yes
+1587,1339604,2023-03-25,SuperSport Park,South Africa,West Indies,West Indies,132,Yes,No
+1588,1339605,2023-03-26,SuperSport Park,West Indies,South Africa,South Africa,259,Yes,No
+1589,1339606,2023-03-28,The Wanderers Stadium,West Indies,South Africa,West Indies,221,No,Yes
+1590,1339614,2023-04-14,Gaddafi Stadium,Pakistan,New Zealand,Pakistan,183,No,Yes
+1591,1339615,2023-04-15,Gaddafi Stadium,Pakistan,New Zealand,Pakistan,193,No,Yes
+1592,1339616,2023-04-17,Gaddafi Stadium,New Zealand,Pakistan,New Zealand,164,No,Yes
+1593,1339618,2023-04-24,Rawalpindi Cricket Stadium,Pakistan,New Zealand,New Zealand,194,Yes,No
+1594,1343740,2022-11-17,Gahanga International Cricket Stadium. Rwanda,Botswana,Rwanda,Rwanda,107,Yes,No
+1595,1343741,2022-11-17,Integrated Polytechnic Regional Centre,Lesotho,Mali,Lesotho,139,No,Yes
+1596,1343744,2022-11-18,Gahanga International Cricket Stadium. Rwanda,Rwanda,St Helena,Rwanda,131,No,Yes
+1597,1343745,2022-11-18,Integrated Polytechnic Regional Centre,Lesotho,Botswana,Botswana,92,Yes,No
+1598,1343749,2022-11-20,Integrated Polytechnic Regional Centre,Mali,Kenya,Kenya,31,Yes,No
+1599,1343750,2022-11-20,Gahanga International Cricket Stadium. Rwanda,Rwanda,Kenya,Kenya,88,Yes,No
+1600,1343753,2022-11-21,Integrated Polytechnic Regional Centre,Kenya,Lesotho,Kenya,238,No,Yes
+1601,1343756,2022-11-22,Gahanga International Cricket Stadium. Rwanda,Mali,Botswana,Botswana,38,Yes,No
+1602,1343757,2022-11-22,Integrated Polytechnic Regional Centre,St Helena,Lesotho,St Helena,127,No,Yes
+1603,1343760,2022-11-24,Gahanga International Cricket Stadium. Rwanda,St Helena,Malawi,Malawi,38,Yes,No
+1604,1343761,2022-11-24,Integrated Polytechnic Regional Centre,Rwanda,Seychelles,Rwanda,123,No,Yes
+1605,1343762,2022-11-24,Gahanga International Cricket Stadium. Rwanda,Botswana,Kenya,Kenya,117,Yes,No
+1606,1343763,2022-11-24,Integrated Polytechnic Regional Centre,Mali,Rwanda,Rwanda,31,Yes,No
+1607,1343764,2022-11-25,Gahanga International Cricket Stadium. Rwanda,Seychelles,Kenya,Kenya,82,Yes,No
+1608,1343768,2022-12-01,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,Tanzania,Tanzania,47,Yes,No
+1609,1343770,2022-12-01,Gahanga International Cricket Stadium. Rwanda,Mozambique,Nigeria,Nigeria,87,Yes,No
+1610,1343771,2022-12-01,Integrated Polytechnic Regional Centre,Gambia,Eswatini,Eswatini,123,Yes,No
+1611,1343772,2022-12-02,Gahanga International Cricket Stadium. Rwanda,Sierra Leone,Nigeria,Nigeria,63,Yes,No
+1612,1343773,2022-12-02,Integrated Polytechnic Regional Centre,Ghana,Mozambique,Mozambique,112,Yes,No
+1613,1343774,2022-12-02,Gahanga International Cricket Stadium. Rwanda,Cameroon,Sierra Leone,Sierra Leone,147,Yes,No
+1614,1343775,2022-12-02,Integrated Polytechnic Regional Centre,Eswatini,Mozambique,Mozambique,151,Yes,No
+1615,1343776,2022-12-04,Gahanga International Cricket Stadium. Rwanda,Cameroon,Mozambique,Mozambique,96,Yes,No
+1616,1343777,2022-12-04,Integrated Polytechnic Regional Centre,Nigeria,Eswatini,Nigeria,222,No,Yes
+1617,1343778,2022-12-04,Gahanga International Cricket Stadium. Rwanda,Ghana,Tanzania,Tanzania,122,Yes,No
+1618,1343780,2022-12-05,Gahanga International Cricket Stadium. Rwanda,Mozambique,Tanzania,Tanzania,82,Yes,No
+1619,1343781,2022-12-05,Integrated Polytechnic Regional Centre,Sierra Leone,Eswatini,Sierra Leone,53,No,Yes
+1620,1343782,2022-12-05,Gahanga International Cricket Stadium. Rwanda,Cameroon,Nigeria,Nigeria,15,Yes,No
+1621,1343783,2022-12-05,Integrated Polytechnic Regional Centre,Ghana,Sierra Leone,Sierra Leone,44,Yes,No
+1622,1343784,2022-12-06,Gahanga International Cricket Stadium. Rwanda,Tanzania,Eswatini,Tanzania,187,No,Yes
+1623,1343785,2022-12-06,Integrated Polytechnic Regional Centre,Gambia,Sierra Leone,Sierra Leone,82,Yes,No
+1624,1343786,2022-12-06,Gahanga International Cricket Stadium. Rwanda,Gambia,Tanzania,Tanzania,60,Yes,No
+1625,1343788,2022-12-08,Gahanga International Cricket Stadium. Rwanda,Ghana,Gambia,Ghana,208,No,Yes
+1626,1343791,2022-12-08,Integrated Polytechnic Regional Centre,Mozambique,Gambia,Mozambique,111,No,Yes
+1627,1343793,2022-12-09,Integrated Polytechnic Regional Centre,Gambia,Cameroon,Gambia,116,No,Yes
+1628,1343794,2022-12-09,Gahanga International Cricket Stadium. Rwanda,Ghana,Nigeria,Nigeria,128,Yes,No
+1629,1343795,2022-12-09,Integrated Polytechnic Regional Centre,Tanzania,Cameroon,Tanzania,219,No,Yes
+1630,1344782,2022-11-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Saudi Arabia,Oman,Oman,87,Yes,No
+1631,1344783,2022-11-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,Canada,Canada,196,Yes,No
+1632,1344784,2022-11-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Saudi Arabia,Canada,195,No,Yes
+1633,1344785,2022-11-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bahrain,Bahrain,135,Yes,No
+1634,1344786,2022-11-16,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,Saudi Arabia,Bahrain,171,No,Yes
+1635,1344787,2022-11-16,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Oman,Canada,192,No,Yes
+1636,1344788,2022-11-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Saudi Arabia,Oman,Oman,115,Yes,No
+1637,1344789,2022-11-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Bahrain,Bahrain,161,Yes,No
+1638,1344790,2022-11-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Saudi Arabia,Canada,172,No,Yes
+1639,1344791,2022-11-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bahrain,Oman,221,No,Yes
+1640,1344792,2022-11-20,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Canada,Canada,170,Yes,No
+1641,1344793,2022-11-20,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Bahrain,Saudi Arabia,Saudi Arabia,113,Yes,No
+1642,1344794,2022-11-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Saudi Arabia,Bahrain,Saudi Arabia,156,No,Yes
+1643,1344795,2022-11-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Canada,Canada,138,Yes,No
+1644,1348323,2023-01-12,Harare Sports Club,Ireland,Zimbabwe,Zimbabwe,115,Yes,No
+1645,1348324,2023-01-14,Harare Sports Club,Zimbabwe,Ireland,Ireland,145,Yes,No
+1646,1348325,2023-01-15,Harare Sports Club,Ireland,Zimbabwe,Zimbabwe,142,Yes,No
+1647,1348640,2023-01-03,Wankhede Stadium,India,Sri Lanka,India,163,No,Yes
+1648,1348641,2023-01-05,Maharashtra Cricket Association Stadium,Sri Lanka,India,Sri Lanka,207,No,Yes
+1649,1348642,2023-01-07,Saurashtra Cricket Association Stadium,India,Sri Lanka,India,229,No,Yes
+1650,1348649,2023-01-27,JSCA International Stadium Complex,New Zealand,India,New Zealand,177,No,Yes
+1651,1348650,2023-01-29,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,New Zealand,India,India,100,Yes,No
+1652,1348651,2023-02-01,Narendra Modi Stadium,India,New Zealand,India,235,No,Yes
+1653,1349124,2022-12-13,Gahanga International Cricket Stadium,Tanzania,Rwanda,Tanzania,148,No,Yes
+1654,1349126,2022-12-14,Gahanga International Cricket Stadium,Uganda,Rwanda,Uganda,186,No,Yes
+1655,1349128,2022-12-15,Gahanga International Cricket Stadium,Uganda,Rwanda,Uganda,169,No,Yes
+1656,1349129,2022-12-15,Gahanga International Cricket Stadium,Uganda,Tanzania,Uganda,170,No,Yes
+1657,1349131,2022-12-16,Gahanga International Cricket Stadium,Rwanda,Tanzania,Rwanda,133,No,Yes
+1658,1349132,2022-12-18,Gahanga International Cricket Stadium,Uganda,Tanzania,Uganda,108,No,Yes
+1659,1349133,2022-12-18,Gahanga International Cricket Stadium,Rwanda,Tanzania,Tanzania,119,Yes,No
+1660,1349134,2022-12-19,Gahanga International Cricket Stadium,Uganda,Tanzania,Tanzania,133,Yes,No
+1661,1349136,2022-12-20,Gahanga International Cricket Stadium,Tanzania,Rwanda,Tanzania,135,No,Yes
+1662,1349137,2022-12-20,Gahanga International Cricket Stadium,Rwanda,Uganda,Uganda,68,Yes,No
+1663,1349138,2022-12-22,Gahanga International Cricket Stadium,Tanzania,Rwanda,Tanzania,137,No,Yes
+1664,1349139,2022-12-22,Gahanga International Cricket Stadium,Uganda,Tanzania,Uganda,184,No,Yes
+1665,1349140,2022-12-23,Gahanga International Cricket Stadium,Uganda,Rwanda,Uganda,109,No,Yes
+1666,1349379,2022-12-15,UKM-YSD Cricket Oval,Singapore,Qatar,Qatar,131,Yes,No
+1667,1349380,2022-12-16,UKM-YSD Cricket Oval,Qatar,Malaysia,Malaysia,127,Yes,No
+1668,1349382,2022-12-18,UKM-YSD Cricket Oval,Bahrain,Qatar,Bahrain,165,No,Yes
+1669,1349383,2022-12-18,UKM-YSD Cricket Oval,Malaysia,Singapore,Malaysia,208,No,Yes
+1670,1349384,2022-12-19,UKM-YSD Cricket Oval,Singapore,Qatar,Qatar,141,Yes,No
+1671,1349385,2022-12-19,UKM-YSD Cricket Oval,Bahrain,Malaysia,Malaysia,180,Yes,No
+1672,1349386,2022-12-21,UKM-YSD Cricket Oval,Singapore,Bahrain,Bahrain,169,Yes,No
+1673,1349388,2022-12-22,UKM-YSD Cricket Oval,Malaysia,Singapore,Malaysia,224,No,Yes
+1674,1349390,2022-12-23,UKM-YSD Cricket Oval,Singapore,Qatar,Qatar,165,Yes,No
+1675,1349391,2022-12-23,UKM-YSD Cricket Oval,Malaysia,Bahrain,Bahrain,154,Yes,No
+1676,1351400,2023-03-09,Zahur Ahmed Chowdhury Stadium,England,Bangladesh,Bangladesh,157,Yes,No
+1677,1351401,2023-03-12,Shere Bangla National Stadium,England,Bangladesh,Bangladesh,118,Yes,No
+1678,1351402,2023-03-14,Shere Bangla National Stadium,Bangladesh,England,Bangladesh,159,No,Yes
+1679,1354800,2023-02-25,La Manga Club Bottom Ground,Isle of Man,Spain,Spain,67,Yes,No
+1680,1354801,2023-02-25,La Manga Club Bottom Ground,Isle of Man,Spain,Spain,117,Yes,No
+1681,1354802,2023-02-26,La Manga Club Bottom Ground,Isle of Man,Spain,Spain,133,Yes,No
+1682,1354803,2023-02-26,La Manga Club Bottom Ground,Isle of Man,Spain,Spain,11,Yes,No
+1683,1355720,2023-03-27,Zahur Ahmed Chowdhury Stadium,Bangladesh,Ireland,Bangladesh,104,No,Yes
+1684,1355721,2023-03-29,Zahur Ahmed Chowdhury Stadium,Bangladesh,Ireland,Bangladesh,203,No,Yes
+1685,1355722,2023-03-31,Zahur Ahmed Chowdhury Stadium,Bangladesh,Ireland,Ireland,125,Yes,No
+1686,1357694,2023-02-16,Zayed Cricket Stadium,United Arab Emirates,Afghanistan,Afghanistan,143,Yes,No
+1687,1357695,2023-02-18,Zayed Cricket Stadium,Afghanistan,United Arab Emirates,United Arab Emirates,138,Yes,No
+1688,1357696,2023-02-19,Zayed Cricket Stadium,United Arab Emirates,Afghanistan,Afghanistan,164,Yes,No
+1689,1359786,2023-02-21,St Albans Club,Argentina,Bermuda,Bermuda,78,Yes,No
+1690,1359787,2023-02-22,Belgrano Athletic Club Ground,Bermuda,Argentina,Bermuda,227,No,Yes
+1691,1359788,2023-02-28,St Albans Club,Cayman Islands,Bahamas,Cayman Islands,126,No,Yes
+1692,1359789,2023-02-28,Belgrano Athletic Club Ground,Bermuda,Panama,Bermuda,197,No,Yes
+1693,1359792,2023-02-26,Hurlingham Club Ground,Panama,Bahamas,Bahamas,102,Yes,No
+1694,1359793,2023-02-26,Belgrano Athletic Club Ground,Bermuda,Argentina,Bermuda,221,No,Yes
+1695,1359794,2023-02-25,Hurlingham Club Ground,Panama,Argentina,Panama,140,No,Yes
+1696,1359795,2023-02-25,St Albans Club,Bermuda,Cayman Islands,Bermuda,174,No,Yes
+1697,1359798,2023-03-02,St Albans Club,Argentina,Bahamas,Argentina,118,No,Yes
+1698,1359799,2023-03-02,Hurlingham Club Ground,Cayman Islands,Panama,Cayman Islands,139,No,Yes
+1699,1359800,2023-03-04,Hurlingham Club Ground,Bahamas,Bermuda,Bermuda,74,Yes,No
+1700,1359802,2023-03-04,Belgrano Athletic Club Ground,Argentina,Cayman Islands,Cayman Islands,126,Yes,No
+1701,1361770,2023-03-08,Mission Road Ground,Kuwait,Malaysia,Malaysia,159,Yes,No
+1702,1361771,2023-03-08,Mission Road Ground,Hong Kong,Bahrain,Hong Kong,154,No,Yes
+1703,1361772,2023-03-09,Mission Road Ground,Malaysia,Bahrain,Malaysia,201,No,Yes
+1704,1361773,2023-03-09,Mission Road Ground,Hong Kong,Kuwait,Hong Kong,162,No,Yes
+1705,1361774,2023-03-11,Mission Road Ground,Kuwait,Bahrain,Bahrain,157,Yes,No
+1706,1361775,2023-03-11,Mission Road Ground,Malaysia,Hong Kong,Hong Kong,96,Yes,No
+1707,1361776,2023-03-12,Mission Road Ground,Bahrain,Kuwait,Kuwait,136,Yes,No
+1708,1362242,2023-03-12,Mission Road Ground,Hong Kong,Malaysia,Hong Kong,183,No,Yes
+1709,1362815,2023-03-24,Sharjah Cricket Stadium,Pakistan,Afghanistan,Afghanistan,93,Yes,No
+1710,1362816,2023-03-26,Sharjah Cricket Stadium,Pakistan,Afghanistan,Afghanistan,131,Yes,No
+1711,1362817,2023-03-27,Sharjah Cricket Stadium,Pakistan,Afghanistan,Pakistan,183,No,Yes
+1712,1367722,2023-04-10,Santarem Cricket Ground,Portugal,Gibraltar,Portugal,209,No,Yes
+1713,1367723,2023-04-11,Santarem Cricket Ground,Gibraltar,Portugal,Portugal,167,Yes,No
+1714,1367724,2023-04-11,Santarem Cricket Ground,Gibraltar,Portugal,Portugal,129,Yes,No
+1715,1367725,2023-05-04,Europa Sports Complex,Gibraltar,Portugal,Portugal,172,Yes,No
+1716,1367726,2023-05-04,Europa Sports Complex,Portugal,Malta,Portugal,161,No,Yes
+1717,1367727,2023-05-05,Europa Sports Complex,Gibraltar,Malta,Gibraltar,177,No,Yes
+1718,1367728,2023-05-06,Europa Sports Complex,Gibraltar,Portugal,Portugal,91,Yes,No
+1719,1367729,2023-05-05,Europa Sports Complex,Portugal,Malta,Portugal,163,No,Yes
+1720,1367730,2023-05-06,Europa Sports Complex,Gibraltar,Malta,Gibraltar,144,No,Yes
+1721,1367731,2023-05-07,Europa Sports Complex,Malta,Gibraltar,Malta,166,No,Yes
+1722,1367732,2023-05-07,Europa Sports Complex,Gibraltar,Portugal,Portugal,125,Yes,No
+1723,1367733,2023-05-06,Europa Sports Complex,Malta,Portugal,Portugal,157,Yes,No
+1724,1370782,2023-05-18,Svanholm Park,Norway,Denmark,Denmark,100,Yes,No
+1725,1370783,2023-05-18,Svanholm Park,Denmark,Finland,Denmark,176,No,Yes
+1726,1370785,2023-05-19,Svanholm Park,Denmark,Sweden,Sweden,110,Yes,No
+1727,1370787,2023-05-19,Svanholm Park,Finland,Denmark,Denmark,93,Yes,No
+1728,1370790,2023-05-20,Solvangs Park,Finland,Norway,Norway,103,Yes,No
+1729,1377015,2023-07-14,Sylhet International Cricket Stadium,Afghanistan,Bangladesh,Bangladesh,155,Yes,No
+1730,1377016,2023-07-16,Sylhet International Cricket Stadium,Afghanistan,Bangladesh,Bangladesh,119,Yes,No
+1731,1377727,2023-08-17,Dubai International Cricket Stadium,New Zealand,United Arab Emirates,New Zealand,156,No,Yes
+1732,1377728,2023-08-19,Dubai International Cricket Stadium,New Zealand,United Arab Emirates,United Arab Emirates,143,Yes,No
+1733,1377729,2023-08-20,Dubai International Cricket Stadium,New Zealand,United Arab Emirates,New Zealand,167,No,Yes
+1734,1379575,2023-06-17,Gymkhana Club Ground,Botswana,Uganda,Uganda,65,Yes,No
+1735,1379576,2023-06-17,Gymkhana Club Ground,Rwanda,Kenya,Kenya,100,Yes,No
+1736,1379577,2023-06-10,Gymkhana Club Ground,Kenya,Uganda,Kenya,186,No,Yes
+1737,1379578,2023-06-11,Gymkhana Club Ground,Rwanda,Uganda,Uganda,82,Yes,No
+1738,1379579,2023-06-18,Gymkhana Club Ground,Botswana,Rwanda,Rwanda,99,Yes,No
+1739,1379580,2023-06-11,Gymkhana Club Ground,Botswana,Kenya,Kenya,93,Yes,No
+1740,1379581,2023-06-18,Gymkhana Club Ground,Kenya,Uganda,Uganda,118,Yes,No
+1741,1379582,2023-06-14,Gymkhana Club Ground,Rwanda,Kenya,Kenya,93,Yes,No
+1742,1379583,2023-06-14,Gymkhana Club Ground,Uganda,Botswana,Uganda,154,No,Yes
+1743,1379584,2023-06-15,Gymkhana Club Ground,Rwanda,Uganda,Uganda,86,Yes,No
+1744,1379585,2023-06-19,Gymkhana Club Ground,Botswana,Kenya,Kenya,132,Yes,No
+1745,1379586,2023-06-13,Gymkhana Club Ground,Rwanda,Botswana,Rwanda,159,No,Yes
+1746,1379587,2023-06-19,Gymkhana Club Ground,Uganda,Rwanda,Uganda,154,No,Yes
+1747,1379589,2023-06-13,Gymkhana Club Ground,Uganda,Kenya,Uganda,176,No,Yes
+1748,1379590,2023-06-15,Gymkhana Club Ground,Botswana,Kenya,Botswana,146,No,Yes
+1749,1379592,2023-06-21,Gymkhana Club Ground,Uganda,Kenya,Uganda,126,No,Yes
+1750,1380583,2023-06-10,Bayer Uerdingen Cricket Ground,Belgium,Germany,Germany,165,Yes,No
+1751,1380584,2023-06-11,Bayer Uerdingen Cricket Ground,Belgium,Germany,Germany,149,Yes,No
+1752,1380587,2023-06-11,Scott Page Field,Hungary,Czech Republic,Czech Republic,139,Yes,No
+1753,1381217,2023-08-03,Brian Lara Stadium,West Indies,India,West Indies,150,No,Yes
+1754,1381218,2023-08-06,Providence Stadium,India,West Indies,West Indies,153,Yes,No
+1755,1381219,2023-08-08,Providence Stadium,West Indies,India,India,160,Yes,No
+1756,1381220,2023-08-12,Central Broward Regional Park Stadium Turf Ground,West Indies,India,India,179,Yes,No
+1757,1381221,2023-08-13,Central Broward Regional Park Stadium Turf Ground,India,West Indies,West Indies,166,Yes,No
+1758,1381451,2023-06-29,Sportpark Het Schootsveld,Austria,Germany,Germany,115,Yes,No
+1759,1381452,2023-06-30,Sportpark Het Schootsveld,Austria,Germany,Germany,122,Yes,No
+1760,1381453,2023-06-23,National Sports Academy,Serbia,Turkey,Serbia,182,No,Yes
+1761,1381454,2023-06-23,National Sports Academy,Croatia,Bulgaria,Bulgaria,76,Yes,No
+1762,1381455,2023-06-23,National Sports Academy,Bulgaria,Serbia,Serbia,167,Yes,No
+1763,1381456,2023-06-24,National Sports Academy,Croatia,Turkey,Turkey,84,Yes,No
+1764,1381457,2023-06-24,National Sports Academy,Croatia,Serbia,Serbia,77,Yes,No
+1765,1381458,2023-06-24,National Sports Academy,Turkey,Bulgaria,Bulgaria,148,Yes,No
+1766,1383068,2023-07-20,Grange Cricket Club Ground,Austria,Jersey,Jersey,105,Yes,No
+1767,1383069,2023-07-20,Goldenacre,Ireland,Italy,Ireland,159,No,Yes
+1768,1383070,2023-07-20,Goldenacre,Scotland,Germany,Scotland,138,No,Yes
+1769,1383071,2023-07-21,Grange Cricket Club Ground,Denmark,Ireland,Ireland,123,Yes,No
+1770,1383072,2023-07-21,Goldenacre,Austria,Germany,Germany,84,Yes,No
+1771,1383073,2023-07-21,Grange Cricket Club Ground,Scotland,Jersey,Scotland,150,No,Yes
+1772,1383074,2023-07-23,Grange Cricket Club Ground,Ireland,Austria,Ireland,227,No,Yes
+1773,1383075,2023-07-23,Goldenacre,Italy,Jersey,Italy,184,No,Yes
+1774,1383076,2023-07-23,Grange Cricket Club Ground,Denmark,Germany,Germany,125,Yes,No
+1775,1383077,2023-07-24,Grange Cricket Club Ground,Scotland,Italy,Scotland,246,No,Yes
+1776,1383078,2023-07-24,Goldenacre,Austria,Denmark,Denmark,98,Yes,No
+1777,1383079,2023-07-24,Goldenacre,Jersey,Ireland,Ireland,79,Yes,No
+1778,1383080,2023-07-25,Grange Cricket Club Ground,Italy,Denmark,Italy,151,No,Yes
+1779,1383081,2023-07-25,Goldenacre,Scotland,Austria,Scotland,233,No,Yes
+1780,1383082,2023-07-25,Grange Cricket Club Ground,Jersey,Germany,Jersey,191,No,Yes
+1781,1383083,2023-07-27,Grange Cricket Club Ground,Scotland,Denmark,Scotland,160,No,Yes
+1782,1383086,2023-07-28,Grange Cricket Club Ground,Germany,Italy,Italy,142,Yes,No
+1783,1383087,2023-07-28,Goldenacre,Jersey,Denmark,Jersey,160,No,Yes
+1784,1383088,2023-07-28,Grange Cricket Club Ground,Scotland,Ireland,Scotland,214,No,Yes
+1785,1383089,2023-07-22,Amini Park,Japan,Philippines,Japan,167,No,Yes
+1786,1383090,2023-07-22,Amini Park,Vanuatu,Papua New Guinea,Papua New Guinea,72,Yes,No
+1787,1383091,2023-07-23,Amini Park,Japan,Vanuatu,Japan,132,No,Yes
+1788,1383093,2023-07-25,Amini Park,Vanuatu,Philippines,Philippines,98,Yes,No
+1789,1383094,2023-07-25,Amini Park,Japan,Papua New Guinea,Papua New Guinea,88,Yes,No
+1790,1383095,2023-07-26,Amini Park,Papua New Guinea,Vanuatu,Papua New Guinea,149,No,Yes
+1791,1383096,2023-07-26,Amini Park,Japan,Philippines,Japan,128,No,Yes
+1792,1383097,2023-07-28,Amini Park,Japan,Vanuatu,Vanuatu,137,Yes,No
+1793,1383098,2023-07-28,Amini Park,Papua New Guinea,Philippines,Papua New Guinea,230,No,Yes
+1794,1383099,2023-07-29,Amini Park,Philippines,Vanuatu,Vanuatu,95,Yes,No
+1795,1383100,2023-07-29,Amini Park,Japan,Papua New Guinea,Papua New Guinea,107,Yes,No
+1796,1383101,2023-07-26,Bayuemas Oval,China,Malaysia,Malaysia,24,Yes,No
+1797,1383102,2023-07-26,Bayuemas Oval,Bhutan,Myanmar,Bhutan,106,No,Yes
+1798,1383103,2023-07-27,Bayuemas Oval,China,Thailand,Thailand,27,Yes,No
+1799,1383104,2023-07-27,Bayuemas Oval,Malaysia,Bhutan,Malaysia,181,No,Yes
+1800,1383105,2023-07-28,Bayuemas Oval,Thailand,Myanmar,Thailand,141,No,Yes
+1801,1383106,2023-07-30,Bayuemas Oval,Bhutan,China,Bhutan,144,No,Yes
+1802,1383107,2023-07-30,Bayuemas Oval,Malaysia,Myanmar,Malaysia,220,No,Yes
+1803,1383108,2023-07-31,Bayuemas Oval,Bhutan,Thailand,Thailand,84,Yes,No
+1804,1383109,2023-07-31,Bayuemas Oval,Myanmar,China,China,78,Yes,No
+1805,1383110,2023-08-01,Bayuemas Oval,Thailand,Malaysia,Malaysia,94,Yes,No
+1806,1384582,2023-07-10,Marsa Sports Club,France,Malta,France,116,No,Yes
+1807,1384583,2023-07-10,Marsa Sports Club,Malta,France,Malta,126,No,Yes
+1808,1384584,2023-07-11,Marsa Sports Club,Malta,Luxembourg,Malta,180,No,Yes
+1809,1384585,2023-07-11,Marsa Sports Club,France,Luxembourg,France,178,No,Yes
+1810,1384586,2023-07-12,Marsa Sports Club,Malta,Luxembourg,Luxembourg,164,Yes,No
+1811,1384587,2023-07-12,Marsa Sports Club,Luxembourg,France,France,111,Yes,No
+1812,1384588,2023-07-12,Marsa Sports Club,France,Malta,France,154,No,Yes
+1813,1384589,2023-07-13,Marsa Sports Club,Luxembourg,Malta,Malta,175,Yes,No
+1814,1384590,2023-07-13,Marsa Sports Club,Romania,Switzerland,Switzerland,135,Yes,No
+1815,1384591,2023-07-13,Marsa Sports Club,France,Romania,France,192,No,Yes
+1816,1384592,2023-07-14,Marsa Sports Club,Luxembourg,Switzerland,Switzerland,119,Yes,No
+1817,1384593,2023-07-14,Marsa Sports Club,Malta,Romania,Malta,188,No,Yes
+1818,1384594,2023-07-14,Marsa Sports Club,France,Switzerland,Switzerland,149,Yes,No
+1819,1384595,2023-07-15,Marsa Sports Club,Romania,Luxembourg,Luxembourg,163,Yes,No
+1820,1384596,2023-07-15,Marsa Sports Club,Malta,Switzerland,Switzerland,157,Yes,No
+1821,1384597,2023-07-15,Marsa Sports Club,France,Luxembourg,Luxembourg,188,Yes,No
+1822,1384598,2023-07-16,Marsa Sports Club,France,Malta,Malta,79,Yes,No
+1823,1384599,2023-07-16,Marsa Sports Club,Luxembourg,Romania,Romania,150,Yes,No
+1824,1384600,2023-07-16,Marsa Sports Club,Malta,Switzerland,Switzerland,165,Yes,No
+1825,1384634,2023-08-18,Malahide,Ireland,India,India,46,Yes,No
+1826,1384637,2023-08-20,Malahide,India,Ireland,India,186,No,Yes
+1827,1387243,2023-08-14,Sportpark Het Schootsveld,Guernsey,Germany,Germany,99,Yes,No
+1828,1387244,2023-08-14,Sportpark Het Schootsveld,Germany,Guernsey,Guernsey,165,Yes,No
+1829,1387245,2023-08-15,Sportpark Het Schootsveld,Guernsey,Germany,Guernsey,173,No,Yes
+1830,1390167,2023-08-05,GB Oval,Hungary,Croatia,Hungary,210,No,Yes
+1831,1390169,2023-08-06,GB Oval,Croatia,Hungary,Hungary,64,Yes,No
+1832,1391332,2023-08-18,Moara Vlasiei Cricket Ground,Romania,Malta,Malta,163,Yes,No
+1833,1391333,2023-08-19,Moara Vlasiei Cricket Ground,Romania,Malta,Malta,148,Yes,No
+1834,1391335,2023-08-19,Moara Vlasiei Cricket Ground,Malta,Romania,Romania,116,Yes,No
+1835,1391336,2023-08-20,Moara Vlasiei Cricket Ground,Malta,Romania,Romania,157,Yes,No
+1836,1391337,2023-08-20,Moara Vlasiei Cricket Ground,Romania,Malta,Romania,191,No,Yes
+1837,1393309,2023-08-20,Gahanga International Cricket Stadium,Uganda,Rwanda,Uganda,147,No,Yes
+1838,1393310,2023-08-20,Gahanga International Cricket Stadium,Tanzania,Uganda,Uganda,144,Yes,No
+1839,1393311,2023-08-21,Gahanga International Cricket Stadium,Uganda,Tanzania,Tanzania,177,Yes,No
+1840,1393312,2023-08-22,Gahanga International Cricket Stadium,Uganda,Rwanda,Uganda,187,No,Yes
+1841,1393328,2023-08-22,Gahanga International Cricket Stadium,Rwanda,Tanzania,Tanzania,155,Yes,No
